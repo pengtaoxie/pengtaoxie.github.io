@@ -1,7 +1,10 @@
 
+![alt text](https://lh3.googleusercontent.com/yk-i0J5Gi9JhrW_JCppAFwVNB_HY_Ozejuasy1cWk-SwjTbsh83_-4E0IqkWaj98nMSLYIZhb3UJQ_MdV718syVF3LaxSpHPnXp2UsTaTkXwLg3XVXc=w472)
+
+
 I obtained my PhD from the Machine Learning Department, School of Computer Science, Carnegie Mellon University.  My research  interests include sample-efficient learning, machine learning for healthcare, large-scale distributed learning, natural language processing, probabilistic graphical models, deep learning.
 
-[Curriculum Vitae] (https://drive.google.com/file/d/1fxT-d1lMGLz9kr4tF5FyUJ3iU_y8x_UE/view?usp=sharing)
+[Curriculum Vitae](https://drive.google.com/file/d/1fxT-d1lMGLz9kr4tF5FyUJ3iU_y8x_UE/view?usp=sharing)
 
 ## I am looking for highly motivated postdocs, phd students, master students, and summer research interns.
 
