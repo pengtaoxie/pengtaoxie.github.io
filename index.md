@@ -1,4 +1,10 @@
 
+I obtained my PhD from the Machine Learning Department, School of Computer Science, Carnegie Mellon University.  My research  interests include sample-efficient learning, machine learning for healthcare, large-scale distributed learning, natural language processing, probabilistic graphical models, deep learning.
+
+[Curriculum Vitae] (https://drive.google.com/file/d/1fxT-d1lMGLz9kr4tF5FyUJ3iU_y8x_UE/view?usp=sharing)
+
+## I am looking for highly motivated postdocs, phd students, master students, and summer research interns.
+
 ## News
 * Invited talks at UCLA, UCSD, Columbia, NYU, Johns Hopkins, Geogia Tech, University of Wisconsin-Madison, UMass Amherst.
 * 2018/12/18. Our work on ellipse detection of optic disc-and-cup boundary in fundus image is acceteped by the IEEE International Symposium on Biomedical Imaging.
