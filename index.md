@@ -3,7 +3,15 @@
 
 <img src="./UCSD-pengtaoxie.jpg" alt="drawing" width="400"/>
 
+Assistant Professor
+
+Department of Electrical and Computer Engineering
+
+University of California San Diego
+
 I obtained my PhD from the Machine Learning Department, School of Computer Science, Carnegie Mellon University.  My research  interests include sample-efficient learning, machine learning for healthcare, large-scale distributed learning, natural language processing, probabilistic graphical models, deep learning.
+
+pengtaoxie2008@gmail.com
 
 [Curriculum Vitae](/cv-pengtaoxie-ucsd.pdf)
 
