@@ -36,6 +36,7 @@ pengtaoxie2008@gmail.com
 * Xuehai Qian (MS, ECE, 2019-)
 * Sushmitha Rao Uppugunduri (MS, ECE, 2019-)
 * Xingyi Yang (MS, ECE, 2019-)
+* Ruoqi Zhang (MS, ECE, 2019-)
 
 ## Publications
 * B. Huang, K. Zhang, **P. Xie**, M. Gong, E. P. Xing. Specific and Shared Causal Relation Modeling and Mechanism-based Clustering. Advances in Neural Information Processing Systems **(NeurIPS 2019)**.
@@ -48,7 +49,7 @@ pengtaoxie2008@gmail.com
 * **P.Xie**, J.Zhu and E.P.Xing. Diversity-Promoting Bayesian Learning of Latent Variable Models. To appear in the Journal of Machine Learning Research **(JMLR)**, 2018.
 * **P.Xie**, J.Kim, Q.Ho, Y.Yu and E.P.Xing. Orpheus: Efficient Distributed Machine Learning via System and Algorithm Co-design. Symposium of Cloud Computing **(SoCC 2018)**.
 * D.Sachan, **P.Xie** and E.P.Xing. Effective Use of Bidirectional Language Modeling for Medical Named Entity Recognition. Conference on Machine Learning for Healthcare **(MLHC 2018)**.
-* X.Liu, K.Xu, **P.Xie** and E.P.Xing. Unsupervised Pseudo-Labeling for Extractive Summarization on Electronic Health Records. NIPS ML for Healthcare Workshop, 2018 **(Spotlight Presentation)**.
+* X.Liu, K.Xu, **P.Xie** and E.P.Xing. Unsupervised Pseudo-Labeling for Extractive Summarization on Electronic Health Records. NIPS ML for Healthcare Workshop, 2018 (Spotlight Presentation).
 * **P.Xie**, R.Salakhutdinov, L.Mou and E.P.Xing. Deep Conditional Determinantal Point Process for Large-Scale Multi-Label Classification. International Conference on Computer Vision **(ICCV 2017)**.
 * **P.Xie**, B.Poczos and E.P.Xing. Near-Orthogonality Regularization in Kernel Methods. Conference on Uncertainty in Artificial Intelligence **(UAI 2017)** (Plenary Presentation).
 * H.Zhang, Z.Zheng, S.Xu, X.Liang, W.Dai, Q.Ho, Z.Hu, J.Wei, **P.Xie**, and E.P.Xing. Poseidon: An Efficient Communication Architecture for Distributed Deep Learning on GPU Clusters. 2017 USENIX Annual Technical Conference **(ATC 2017)** (Oral Presentation).
@@ -62,7 +63,7 @@ pengtaoxie2008@gmail.com
 * **P.Xie**, J.Zhu and E.P.Xing. Diversity-Promoting Bayesian Learning of Latent Variable Models. The 33rd International Conference on Machine Learning **(ICML 2016)** (Oral Presentation).
 * E.P.Xing, Q.Ho, W.Dai, J.Kim, J.Wei, S.Lee, X.Zheng, **P.Xie**, A.Kumar and Y.Yu. Petuum: A New Platform for Distributed Machine Learning on Big Data. IEEE Transactions on Big Data **(IEEE BigData 2015)**.
 * **P.Xie**. Learning Compact and Effective Distance Metrics with Diversity Regularization. European Conference on Machine Learning **(ECML 2015)** (Oral Presentation).
-* **P.Xie**, Y.Deng and E.P.Xing. Diversifying Restricted Boltzmann Machine for Document Modeling. ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD 2015) **(Oral Presentation)**.
+* **P.Xie**, Y.Deng and E.P.Xing. Diversifying Restricted Boltzmann Machine for Document Modeling. ACM SIGKDD Conference on Knowledge Discovery and Data Mining **(KDD 2015)** (Oral Presentation).
 * E.P.Xing, Q.Ho, W.Dai, J.Kim, J.Wei, S.Lee, X.Zheng, **P.Xie**, A.Kumar and Y.Yu. Petuum: A New Platform for Distributed Machine Learning on Big Data. ACM SIGKDD Conference on Knowledge Discovery and Data Mining **(KDD 2015)** (Oral Presentation).
 * **P.Xie**, D.Yang and E.P.Xing. Incorporating Word Correlation Knowledge into Topic Modeling. The 2015 Conference of the North American Chapter of the Association for Computational Linguistics **(NAACL 2015)**.
 * **P.Xie**, Y.Pei, Y.Xie and E.P.Xing. Mining User Interests from Personal Photos. The 29th AAAI Conference on Artificial Intelligence **(AAAI 2015)**.
