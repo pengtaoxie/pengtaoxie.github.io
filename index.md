@@ -9,7 +9,7 @@ Department of Electrical and Computer Engineering
 
 University of California San Diego
 
-I obtained my PhD from the Machine Learning Department, School of Computer Science, Carnegie Mellon University.  My research  interests include sample-efficient learning, machine learning for healthcare, large-scale distributed learning, natural language processing, probabilistic graphical models, deep learning.
+I obtained my PhD from the Machine Learning Department, School of Computer Science, Carnegie Mellon University.  My research  interests include sample-efficient learning, machine learning for healthcare, deep learning, natural language processing, probabilistic graphical models, large-scale distributed learning.
 
 pengtaoxie2008@gmail.com
 
