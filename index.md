@@ -15,7 +15,7 @@ pengtaoxie2008@gmail.com
 
 [Curriculum Vitae](/cv-pengtaoxie-ucsd.pdf)
 
-## I am looking for highly motivated postdocs, phd students, master students, and summer research interns.
+## I am looking for highly motivated postdocs, phd students, master students, summer research interns, and visiting scholars/students.
 
 ## News
 * Invited talks at UCLA, UCSD, Columbia, NYU, Johns Hopkins, Geogia Tech, University of Wisconsin-Madison, UMass Amherst.
