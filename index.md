@@ -80,7 +80,7 @@ Guest lecturer at Carnegie Mellon University for:
 Teaching assistants at Carnegie Mellon University for:
 
 * 10-708 Probabilistic Graphical Models (Instructor: Eric Xing), Spring 2015.  
-* 10-701 Machine Learning (Instructors: Barnabas Poczos and Aarti Singh), Spring 2014. Recitation Videos  
+* 10-701 Machine Learning (Instructors: Barnabas Poczos and Aarti Singh), Spring 2014.  
 * 10-601 Machine Learning (Instructors: William Cohen and Eric Xing), Fall 2013.
 
 
