@@ -76,6 +76,7 @@ pengtaoxie2008@gmail.com
 Guest lecturer at Carnegie Mellon University for:
 
 * 10-708 Probabilistic Graphical Models (Instructor: Eric Xing), Spring 2017.  
+
 Teaching assistants at Carnegie Mellon University for:
 
 * 10-708 Probabilistic Graphical Models (Instructor: Eric Xing), Spring 2015.  
