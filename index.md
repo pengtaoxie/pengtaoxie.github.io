@@ -36,6 +36,7 @@ pengtaoxie2008@gmail.com
 * Xuehai Qian (MS, ECE, 2019-)
 * Sushmitha Rao Uppugunduri (MS, ECE, 2019-)
 * Xingyi Yang (MS, ECE, 2019-)
+* Yi Yu (MS, ECE, 2019-)
 * Ruoqi Zhang (MS, ECE, 2019-)
 
 ## Publications
