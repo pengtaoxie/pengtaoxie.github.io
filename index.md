@@ -7,6 +7,8 @@ Assistant Professor
 
 Department of Electrical and Computer Engineering
 
+AI Group (affiliated), Department of Computer Science and Engineering
+
 University of California San Diego
 
 I obtained my PhD from the Machine Learning Department, School of Computer Science, Carnegie Mellon University.  My research  interests include sample-efficient learning, machine learning for healthcare, deep learning, natural language processing, probabilistic graphical models, large-scale distributed learning.
@@ -15,7 +17,7 @@ pengtaoxie2008@gmail.com
 
 [Curriculum Vitae](/cv-pengtaoxie-ucsd.pdf)
 
-## I am looking for highly motivated postdocs, phd students, master students, summer research interns, and visiting scholars/students.
+## I am looking for highly motivated postdocs, phd students, and master students from both ECE and CSE departments. I also have openings for summer research interns and visiting scholars/students.
 
 ## News
 * Invited talks at UCLA, UCSD, Columbia, NYU, Johns Hopkins, Geogia Tech, University of Wisconsin-Madison, UMass Amherst.
