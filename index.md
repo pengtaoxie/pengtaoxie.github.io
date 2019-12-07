@@ -32,6 +32,7 @@ pengtaoxie2008@gmail.com
 * 2018/05/11. Two papers are accepted by ICML 2018.
 
 ##  Students
+* Yifan Ruan (PhD, ECE, 2019-)
 * Ram Dyuthi Sristi (PhD, ECE, 2019-)
 * Apoorva Gokhale (MS, ECE, 2019-)
 * Zichao Li (MS, ECE, 2019-)
