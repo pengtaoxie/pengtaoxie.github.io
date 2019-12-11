@@ -34,6 +34,7 @@ pengtaoxie2008@gmail.com
 ##  Students
 * Yifan Ruan (PhD, ECE, 2019-)
 * Ram Dyuthi Sristi (PhD, ECE, 2019-)
+* Palash Chauhan (MS, CSE, 2019-)
 * Apoorva Gokhale (MS, ECE, 2019-)
 * Zichao Li (MS, ECE, 2019-)
 * Xuehai Qian (MS, ECE, 2019-)
