@@ -20,8 +20,9 @@ pengtaoxie2008@gmail.com
 ## I am looking for highly motivated postdocs, phd students, and master students from both ECE and CSE departments. I also have openings for summer research interns and visiting scholars/students.
 
 ## News
+* 2019/9/10. Our work on specific and shared causal relation modeling is accepted by NeurIPS 2019.
 * Invited talks at UCLA, UCSD, Columbia, NYU, Johns Hopkins, Geogia Tech, University of Wisconsin-Madison, UMass Amherst.
-* 2018/12/18. Our work on ellipse detection of optic disc-and-cup boundary in fundus image is acceteped by the IEEE International Symposium on Biomedical Imaging.
+* 2018/12/18. Our work on ellipse detection of optic disc-and-cup boundary in fundus image is accepted by the IEEE International Symposium on Biomedical Imaging.
 * 2018/11/20. Our work on clinical notes summarization was accepted by the NIPS ML for Healthcare Workshop as a spotlight oral presentation.
 * 2018/11/20. We won the 1st Place (out of 400+ participating teams) in both Defenses and Targeted Attacks, 3rd Place in Untargeted Attacks, in the NIPS Adversarial Vision Challenge 2018.
 * 2018/10/20. I won the 2018 Innovator Award presented by the Pittsburgh Business Times.
