@@ -32,17 +32,6 @@ pengtaoxie2008@gmail.com
 * 2018/06/24. One paper is accepted by MLHC 2018.
 * 2018/05/11. Two papers are accepted by ICML 2018.
 
-##  Students
-* Yifan Ruan (PhD, ECE, 2019-)
-* Ram Dyuthi Sristi (PhD, ECE, 2019-)
-* Palash Chauhan (MS, CSE, 2019-)
-* Apoorva Gokhale (MS, ECE, 2019-)
-* Zichao Li (MS, ECE, 2019-)
-* Xuehai Qian (MS, ECE, 2019-)
-* Sushmitha Rao Uppugunduri (MS, ECE, 2019-)
-* Xingyi Yang (MS, ECE, 2019-)
-* Yi Yu (MS, ECE, 2019-)
-* Ruoqi Zhang (MS, ECE, 2019-)
 
 ## Publications
 * B. Huang, K. Zhang, **P. Xie**, M. Gong, E. P. Xing. Specific and Shared Causal Relation Modeling and Mechanism-based Clustering. Advances in Neural Information Processing Systems **(NeurIPS 2019)**.
