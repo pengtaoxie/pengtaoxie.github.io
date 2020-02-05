@@ -17,7 +17,7 @@ pengtaoxie2008@gmail.com
 
 [Curriculum Vitae](/CV-xie-ucsd.pdf)
 
-## I am looking for highly motivated postdocs, phd students, and master students from both ECE and CSE departments. I also have openings for summer research interns and visiting scholars/students.
+## I am looking for highly motivated postdocs, phd students, and master students. I also have openings for summer research interns and visiting scholars/students.
 
 ## News
 * 2019/9/10. Our work on specific and shared causal relation modeling is accepted by NeurIPS 2019.
