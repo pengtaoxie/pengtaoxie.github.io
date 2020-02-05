@@ -13,7 +13,7 @@ I obtained my PhD from the Machine Learning Department, School of Computer Scien
 
 pengtaoxie2008@gmail.com
 
-[Curriculum Vitae](/CV-xie-ucsd.pdf)
+[Curriculum Vitae](/cv_final-(3).pdf)
 
 ## I am looking for highly motivated postdocs, phd students, and master students. I also have openings for summer research interns and visiting scholars/students.
 
