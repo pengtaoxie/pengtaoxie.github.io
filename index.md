@@ -29,6 +29,9 @@ pengtaoxie2008@gmail.com
 * 2018/06/24. One paper is accepted by MLHC 2018.
 * 2018/05/11. Two papers are accepted by ICML 2018.
 
+## Pre-prints
+* Xuehai He, Yichen Zhang, Luntian Mou, Eric P. Xing, **Pengtao Xie**. PathVQA: 30000+ Questions for Medical Visual Question Answering. [PDF](https://drive.google.com/file/d/1idqhbBgCTG1M7na1yw96o-itinUEanfe/view?usp=sharing)
+
 
 ## Publications
 * B. Huang, K. Zhang, **P. Xie**, M. Gong, E. P. Xing. Specific and Shared Causal Relation Modeling and Mechanism-based Clustering. Advances in Neural Information Processing Systems **(NeurIPS 2019)**.
