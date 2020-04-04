@@ -30,7 +30,9 @@ pengtaoxie2008@gmail.com
 * 2018/05/11. Two papers are accepted by ICML 2018.
 
 ## Pre-prints
-* Xuehai He, Yichen Zhang, Luntian Mou, Eric P. Xing, **Pengtao Xie**. PathVQA: 30000+ Questions for Medical Visual Question Answering. [PDF](./pathvqa.pdf)
+* Xuehai He, Yichen Zhang, Luntian Mou, Eric P. Xing, **Pengtao Xie**. PathVQA: 30000+ Questions for Medical Visual Question Answering. [Preprint](https://arxiv.org/abs/2003.10286)
+* Jinyu Zhao, Yichen Zhang, Xuehai He, **Pengtao Xie**. COVID-CT-Dataset: A CT Scan Dataset about COVID-19. [Preprint](https://arxiv.org/abs/2003.13865)
+* Yuxiao Liang, **Pengtao Xie**. Identifying Radiological Findings Related to COVID-19 from Medical Literature. [Preprint](./covid-radiology.pdf)
 
 
 ## Publications
