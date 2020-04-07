@@ -32,7 +32,7 @@ pengtaoxie2008@gmail.com
 ## Pre-prints
 * Xuehai He, Yichen Zhang, Luntian Mou, Eric P. Xing, **Pengtao Xie**. PathVQA: 30000+ Questions for Medical Visual Question Answering. [Preprint](https://arxiv.org/abs/2003.10286)
 * Jinyu Zhao, Yichen Zhang, Xuehai He, **Pengtao Xie**. COVID-CT-Dataset: A CT Scan Dataset about COVID-19. [Preprint](https://arxiv.org/abs/2003.13865)
-* Yuxiao Liang, **Pengtao Xie**. Identifying Radiological Findings Related to COVID-19 from Medical Literature. [Preprint](./covid-radiology.pdf)
+* Yuxiao Liang, **Pengtao Xie**. Identifying Radiological Findings Related to COVID-19 from Medical Literature. [Preprint](https://arxiv.org/abs/2004.01862)
 
 
 ## Publications
