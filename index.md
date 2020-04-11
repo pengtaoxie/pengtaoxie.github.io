@@ -36,6 +36,7 @@ pengtaoxie2008@gmail.com
 * Shu Chen, Zeqian Ju, Xiangyu Dong, Hongchao Fang, Sicheng Wang, Yue Yang, Jiaqi Zeng, Ruisi Zhang, Ruoyu Zhang, Meng Zhou, Penghui Zhu, **Pengtao Xie**. MedDialog: A Large-scale Medical Dialogue Dataset, 2020. [Preprint](./meddiag.pdf)
 * Zeqian Ju, Subrato Chakravorty, Xuehai He, Shu Chen, Xingyi Yang, **Pengtao Xie**. CovidDialog:  Medical Dialogue Datasets about COVID-19, 2020. [Preprint](./coviddiag.pdf)
 * Guangtao Zeng, Qingyang Wu, Yichen Zhang, Yu Zhou, Eric Xing, **Pengtao Xie**. Develop Medical Dialogue Systems for COVID-19, 2020. [Preprint](./coviddiag-model.pdf)
+* Guangtao Zeng, Qingyang Wu, Yichen Zhang, Yu Zhou, Eric Xing, **Pengtao Xie**. CovidNPI: A Sentiment Analysis Dataset for EvaluatingNonpharmaceutical Interventions of COVID-19, 2020. [Preprint](./npi.pdf)
 
 
 ## Publications
