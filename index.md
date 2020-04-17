@@ -29,7 +29,7 @@ pengtaoxie2008@gmail.com
 * 2018/06/24. One paper is accepted by MLHC 2018.
 * 2018/05/11. Two papers are accepted by ICML 2018.
 
-## Pre-prints
+## Pre-prints and Documents
 * Xuehai He#, Xingyi Yang#, Shanghang Zhang#, Jinyu Zhao, Yichen Zhang, Eric Xing, **Pengtao Xie**. Sample-Efficient Deep Learning for COVID-19 Diagnosis Based on CT Scans, 2020. [Preprint](covid-ct-method.pdf)
   (# equal contribution)
 * Xuehai He, Yichen Zhang, Luntian Mou, Eric P. Xing, **Pengtao Xie**. PathVQA: 30000+ Questions for Medical Visual Question Answering, 2020. [Preprint](https://arxiv.org/abs/2003.10286)
