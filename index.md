@@ -29,16 +29,16 @@ pengtaoxie2008@gmail.com
 * 2018/06/24. One paper is accepted by MLHC 2018.
 * 2018/05/11. Two papers are accepted by ICML 2018.
 
-## Pre-prints and Documents
+## Preprints and Reports (not yet peer-reviewed)
 * Xuehai He#, Xingyi Yang#, Shanghang Zhang#, Jinyu Zhao, Yichen Zhang, Eric Xing, **Pengtao Xie**. Sample-Efficient Deep Learning for COVID-19 Diagnosis Based on CT Scans, 2020. [Preprint](covid-ct-method.pdf)
   (# equal contribution)
 * Xuehai He, Yichen Zhang, Luntian Mou, Eric P. Xing, **Pengtao Xie**. PathVQA: 30000+ Questions for Medical Visual Question Answering, 2020. [Preprint](https://arxiv.org/abs/2003.10286)
 * Jinyu Zhao, Yichen Zhang, Xuehai He, **Pengtao Xie**. COVID-CT-Dataset: A CT Scan Dataset about COVID-19, 2020. [Preprint](https://arxiv.org/abs/2003.13865)
 * Yuxiao Liang, **Pengtao Xie**. Identifying Radiological Findings Related to COVID-19 from Medical Literature, 2020. [Preprint](https://arxiv.org/abs/2004.01862)
 * Shu Chen, Zeqian Ju, Xiangyu Dong, Hongchao Fang, Sicheng Wang, Yue Yang, Jiaqi Zeng, Ruisi Zhang, Ruoyu Zhang, Meng Zhou, Penghui Zhu, **Pengtao Xie**. MedDialog: A Large-scale Medical Dialogue Dataset, 2020. [Preprint](./meddiag.pdf)
-* Zeqian Ju, Subrato Chakravorty, Xuehai He, Shu Chen, Xingyi Yang, **Pengtao Xie**. CovidDialog:  Medical Dialogue Datasets about COVID-19, 2020. [Document](./coviddiag.pdf)
-* Guangtao Zeng, Qingyang Wu, Yichen Zhang, Yu Zhou, Eric Xing, **Pengtao Xie**. Develop Medical Dialogue Systems for COVID-19, 2020. [Document](./coviddiag-model.pdf)
-* Zechen Li, Tianrui Wang, **Pengtao Xie**. CovidNPI: A Sentiment Analysis Dataset for EvaluatingNonpharmaceutical Interventions of COVID-19, 2020. [Document](./npi.pdf)
+* Zeqian Ju, Subrato Chakravorty, Xuehai He, Shu Chen, Xingyi Yang, **Pengtao Xie**. CovidDialog:  Medical Dialogue Datasets about COVID-19, 2020. [Report](./coviddiag.pdf)
+* Guangtao Zeng, Qingyang Wu, Yichen Zhang, Yu Zhou, Eric Xing, **Pengtao Xie**. Develop Medical Dialogue Systems for COVID-19, 2020. [Report](./coviddiag-model.pdf)
+* Zechen Li, Tianrui Wang, **Pengtao Xie**. CovidNPI: A Sentiment Analysis Dataset for EvaluatingNonpharmaceutical Interventions of COVID-19, 2020. [Report](./npi.pdf)
 
 
 ## Publications
