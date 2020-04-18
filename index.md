@@ -16,6 +16,7 @@ pengtaoxie2008@gmail.com
 ## I am looking for summmer research interns and visiting students.
 
 
+
 ## News
 * 2019/9/10. Our work on specific and shared causal relation modeling is accepted by NeurIPS 2019.
 * Invited talks at UCLA, UCSD, Columbia, NYU, Johns Hopkins, Geogia Tech, University of Wisconsin-Madison, UMass Amherst.
@@ -29,19 +30,24 @@ pengtaoxie2008@gmail.com
 * 2018/06/24. One paper is accepted by MLHC 2018.
 * 2018/05/11. Two papers are accepted by ICML 2018.
 
+## AI+Healthcare Datasets 
+### To facilitate the research in AI for healthcare, we are building a series of open-sourced datasets for COVID-19 and other medical problems.
+* Jinyu Zhao, Yichen Zhang, Xuehai He, **Pengtao Xie**. COVID-CT-Dataset: A CT Scan Dataset about COVID-19, 2020. [Preprint](https://arxiv.org/abs/2003.13865)
+* Xuehai He, Yichen Zhang, Luntian Mou, Eric P. Xing, **Pengtao Xie**. PathVQA: 30000+ Questions for Medical Visual Question Answering, 2020. [Preprint](https://arxiv.org/abs/2003.10286)
+* Shu Chen, Zeqian Ju, Xiangyu Dong, Hongchao Fang, Sicheng Wang, Yue Yang, Jiaqi Zeng, Ruisi Zhang, Ruoyu Zhang, Meng Zhou, Penghui Zhu, **Pengtao Xie**. MedDialog: A Large-scale Medical Dialogue Dataset, 2020. [Preprint](https://arxiv.org/abs/2004.03329)
+* Zeqian Ju, Subrato Chakravorty, Xuehai He, Shu Chen, Xingyi Yang, **Pengtao Xie**. CovidDialog:  Medical Dialogue Datasets about COVID-19, 2020. [Report](./coviddiag.pdf)
+* Zechen Li, Tianrui Wang, **Pengtao Xie**. CovidNPI: A Sentiment Analysis Dataset for EvaluatingNonpharmaceutical Interventions of COVID-19, 2020. [Report](./npi.pdf)
+
+
 ## Preprints and Reports (not peer-reviewed yet)
 * Xuehai He#, Xingyi Yang#, Shanghang Zhang#, Jinyu Zhao, Yichen Zhang, Eric Xing, **Pengtao Xie**. Sample-Efficient Deep Learning for COVID-19 Diagnosis Based on CT Scans, 2020. [Preprint](https://www.medrxiv.org/content/10.1101/2020.04.13.20063941v1)
   (# equal contribution)
-* Xuehai He, Yichen Zhang, Luntian Mou, Eric P. Xing, **Pengtao Xie**. PathVQA: 30000+ Questions for Medical Visual Question Answering, 2020. [Preprint](https://arxiv.org/abs/2003.10286)
-* Jinyu Zhao, Yichen Zhang, Xuehai He, **Pengtao Xie**. COVID-CT-Dataset: A CT Scan Dataset about COVID-19, 2020. [Preprint](https://arxiv.org/abs/2003.13865)
 * Yuxiao Liang, **Pengtao Xie**. Identifying Radiological Findings Related to COVID-19 from Medical Literature, 2020. [Preprint](https://arxiv.org/abs/2004.01862)
-* Shu Chen, Zeqian Ju, Xiangyu Dong, Hongchao Fang, Sicheng Wang, Yue Yang, Jiaqi Zeng, Ruisi Zhang, Ruoyu Zhang, Meng Zhou, Penghui Zhu, **Pengtao Xie**. MedDialog: A Large-scale Medical Dialogue Dataset, 2020. [Preprint](https://arxiv.org/abs/2004.03329)
-* Zeqian Ju, Subrato Chakravorty, Xuehai He, Shu Chen, Xingyi Yang, **Pengtao Xie**. CovidDialog:  Medical Dialogue Datasets about COVID-19, 2020. [Report](./coviddiag.pdf)
 * Guangtao Zeng, Qingyang Wu, Yichen Zhang, Yu Zhou, Eric Xing, **Pengtao Xie**. Develop Medical Dialogue Systems for COVID-19, 2020. [Report](./coviddiag-model.pdf)
-* Zechen Li, Tianrui Wang, **Pengtao Xie**. CovidNPI: A Sentiment Analysis Dataset for EvaluatingNonpharmaceutical Interventions of COVID-19, 2020. [Report](./npi.pdf)
 * Congzheng Song, Shanghang Zhang, Najmeh Sadoughi, **Pengtao Xie**, Eric Xing. Generalized Zero-shot ICD Coding. [Preprint](https://arxiv.org/abs/1909.13154)
 * Seojin Bang, **Pengtao Xie**, Heewook Lee, Wei Wu, Eric Xing. Explaining a black-box using deep variational information bottleneck approach. [Preprint](https://arxiv.org/abs/1902.06918)
 * Hongyang Zhang, Susu Xu, Jiantao Jiao, **Pengtao Xie**, Ruslan Salakhutdinov, Eric P Xing. Stackelberg gan: Towards provable minimax equilibrium via multi-generator architectures. [Preprint](https://arxiv.org/abs/1811.08010)
+
 
 
 
