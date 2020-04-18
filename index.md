@@ -36,7 +36,7 @@ pengtaoxie2008@gmail.com
 * Xuehai He, Yichen Zhang, Luntian Mou, Eric P. Xing, **Pengtao Xie**. PathVQA: 30000+ Questions for Medical Visual Question Answering, 2020. [Dataset](https://github.com/UCSD-AI4H/PathVQA) [Preprint](https://arxiv.org/abs/2003.10286) 
 * Shu Chen, Zeqian Ju, Xiangyu Dong, Hongchao Fang, Sicheng Wang, Yue Yang, Jiaqi Zeng, Ruisi Zhang, Ruoyu Zhang, Meng Zhou, Penghui Zhu, **Pengtao Xie**. MedDialog: A Large-scale Medical Dialogue Dataset, 2020. [Dataset](https://github.com/UCSD-AI4H/Medical-Dialogue-System) [Preprint](https://arxiv.org/abs/2004.03329) 
 * Zeqian Ju, Subrato Chakravorty, Xuehai He, Shu Chen, Xingyi Yang, **Pengtao Xie**. CovidDialog:  Medical Dialogue Datasets about COVID-19, 2020. [Dataset](https://github.com/UCSD-AI4H/COVID-Dialogue) [Report](./coviddiag.pdf)
-* Zechen Li, Tianrui Wang, **Pengtao Xie**. CovidNPI: A Sentiment Analysis Dataset for EvaluatingNonpharmaceutical Interventions of COVID-19, 2020. [Dataset](https://github.com/UCSD-AI4H/COVID-Dialogue) [Dataset](https://github.com/UCSD-AI4H/COVID-Nonpharmaceutical-Interventions) [Report](./npi.pdf)
+* Zechen Li, Tianrui Wang, **Pengtao Xie**. CovidNPI: A Sentiment Analysis Dataset for EvaluatingNonpharmaceutical Interventions of COVID-19, 2020. [Dataset](https://github.com/UCSD-AI4H/COVID-Dialogue) [Report](./npi.pdf)
 
 
 
