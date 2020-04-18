@@ -39,9 +39,15 @@ pengtaoxie2008@gmail.com
 * Zeqian Ju, Subrato Chakravorty, Xuehai He, Shu Chen, Xingyi Yang, **Pengtao Xie**. CovidDialog:  Medical Dialogue Datasets about COVID-19, 2020. [Report](./coviddiag.pdf)
 * Guangtao Zeng, Qingyang Wu, Yichen Zhang, Yu Zhou, Eric Xing, **Pengtao Xie**. Develop Medical Dialogue Systems for COVID-19, 2020. [Report](./coviddiag-model.pdf)
 * Zechen Li, Tianrui Wang, **Pengtao Xie**. CovidNPI: A Sentiment Analysis Dataset for EvaluatingNonpharmaceutical Interventions of COVID-19, 2020. [Report](./npi.pdf)
+* Congzheng Song, Shanghang Zhang, Najmeh Sadoughi, **Pengtao Xie**, Eric Xing. Generalized Zero-shot ICD Coding. [Preprint](https://arxiv.org/abs/1909.13154)
+* Seojin Bang, **Pengtao Xie**, Heewook Lee, Wei Wu, Eric Xing. Explaining a black-box using deep variational information bottleneck approach. [Preprint](https://arxiv.org/abs/1902.06918)
+* Hongyang Zhang, Susu Xu, Jiantao Jiao, **Pengtao Xie**, Ruslan Salakhutdinov, Eric P Xing. Stackelberg gan: Towards provable minimax equilibrium via multi-generator architectures. [Preprint](https://arxiv.org/abs/1811.08010)
+
+
 
 
 ## Publications
+* Zeya Wang, Baoyu Jing, Yang Ni, Nanqing Dong, **Pengtao Xie**, Eric P Xing. Adversarial Domain Adaptation Being Aware of Class Relationships. European Conference on Artificial Intelligence **(ECAI 2020)**.
 * B. Huang, K. Zhang, **P. Xie**, M. Gong, E. P. Xing. Specific and Shared Causal Relation Modeling and Mechanism-based Clustering. Advances in Neural Information Processing Systems **(NeurIPS 2019)**.
 * K. Xu, M. Lam, J. Pang, X. Gao, C. Band, P. Mathur, F. Papay, A. K. Khanna, J. B. Cywinski, K. Maheshwari, **P. Xie**, E. P. Xing. Multimodal Machine Learning for Automated ICD Coding. Conference on Machine Learning for Healthcare **(MLHC 2019)**.
 * Z.Wang, N.Dong, S.Rosario, M.Xu, **P.Xie**, and E.P.Xing. Ellipse Detection of Optic Disc-and-Cup Boundary in Fundus Image with Unsupervised Domain Adaption. The IEEE International Symposium on Biomedical Imaging **(ISBI 2019)**.
