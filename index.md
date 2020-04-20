@@ -31,7 +31,7 @@ pengtaoxie2008@gmail.com
 * 2018/05/11. Two papers are accepted by ICML 2018.
 
 ## AI+Healthcare Datasets 
-#### To facilitate the research in AI for healthcare, we are building a series of open-sourced datasets for COVID-19 and other medical problems.
+To facilitate the research in AI for healthcare, we are building a series of open-sourced datasets for COVID-19 and other medical problems.
 * Jinyu Zhao, Yichen Zhang, Xuehai He, **Pengtao Xie**. COVID-CT-Dataset: A CT Scan Dataset about COVID-19, 2020. [Dataset](https://github.com/UCSD-AI4H/COVID-CT) [Preprint](https://arxiv.org/abs/2003.13865) 
 * Xuehai He, Yichen Zhang, Luntian Mou, Eric P. Xing, **Pengtao Xie**. PathVQA: 30000+ Questions for Medical Visual Question Answering, 2020. [Dataset](https://github.com/UCSD-AI4H/PathVQA) [Preprint](https://arxiv.org/abs/2003.10286) 
 * Shu Chen, Zeqian Ju, Xiangyu Dong, Hongchao Fang, Sicheng Wang, Yue Yang, Jiaqi Zeng, Ruisi Zhang, Ruoyu Zhang, Meng Zhou, Penghui Zhu, **Pengtao Xie**. MedDialog: A Large-scale Medical Dialogue Dataset, 2020. [Dataset](https://github.com/UCSD-AI4H/Medical-Dialogue-System) [Preprint](https://arxiv.org/abs/2004.03329) 
