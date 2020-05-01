@@ -13,7 +13,7 @@ I obtained my PhD from the Machine Learning Department, School of Computer Scien
 
 pengtaoxie2008@gmail.com
 
-## I am looking for summmer research interns and visiting students.
+## I am looking for master students, summmer research interns, and visiting students.
 
 
 
