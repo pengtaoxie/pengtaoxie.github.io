@@ -30,6 +30,8 @@ pengtaoxie2008@gmail.com   [Twitter](https://twitter.com/cmuptx) [Weibo](https:/
 * 2018/06/24. One paper is accepted by MLHC 2018.
 * 2018/05/11. Two papers are accepted by ICML 2018.
 
+## Preprints
+* Hongchao Fang, **Pengtao Xie**. [CERT: Contrastive Self-supervised Learning for Language Understanding](./cert.pdf). 
 
 ## Publications
 * Congzheng Song, Shanghang Zhang, Najmeh Sadoughi, **Pengtao Xie**, Eric Xing. [Generalized Zero-shot ICD Coding](https://arxiv.org/abs/1909.13154). International Joint Conference on Artificial Intelligence **(IJCAI 2020)**.
