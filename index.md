@@ -31,6 +31,7 @@ pengtaoxie2008@gmail.com   [Twitter](https://twitter.com/cmuptx) [Weibo](https:/
 * 2018/05/11. Two papers are accepted by ICML 2018.
 
 ## Preprints
+[Google Scholar](https://scholar.google.com/citations?hl=en&user=cnncomYAAAAJ&view_op=list_works&sortby=pubdate)
 * Hongchao Fang, **Pengtao Xie**. [CERT: Contrastive Self-supervised Learning for Language Understanding](./cert.pdf). 
 
 ## Publications
