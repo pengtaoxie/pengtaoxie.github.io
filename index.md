@@ -13,7 +13,7 @@ I obtained my PhD from the Machine Learning Department, School of Computer Scien
 
 pengtaoxie2008@gmail.com   [Twitter](https://twitter.com/cmuptx) [Weibo](https://www.weibo.com/u/1822644165?topnav=1&wvr=6&topsug=1) 
 
-## I am looking for master students, summmer research interns, and visiting students.
+## I am looking for master students.
 
 
 
