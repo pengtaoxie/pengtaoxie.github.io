@@ -25,12 +25,7 @@ pengtaoxie2008@gmail.com   [Twitter](https://twitter.com/cmuptx) [Weibo](https:/
 * 2018/12/18. Our work on ellipse detection of optic disc-and-cup boundary in fundus image is accepted by the IEEE International Symposium on Biomedical Imaging.
 * 2018/11/20. Our work on clinical notes summarization was accepted by the NIPS ML for Healthcare Workshop as a spotlight oral presentation.
 * 2018/11/20. We won the 1st Place (out of 400+ participating teams) in both Defenses and Targeted Attacks, 3rd Place in Untargeted Attacks, in the NIPS Adversarial Vision Challenge 2018.
-* 2018/10/20. I won the 2018 Innovator Award presented by the Pittsburgh Business Times.
-* 2018/10/5. I was invited as a panelist at Citi's 4th Annual Private Company Innovation Summit.
-* 2018/08/04. One paper is accepted by SOCC 2018.
-* 2018/06/24. I am a program committee member of ICML 2019, CVPR 2019, ICLR 2019, AISTATS 2019, AAAI 2019.
-* 2018/06/24. One paper is accepted by MLHC 2018.
-* 2018/05/11. Two papers are accepted by ICML 2018.
+
 
 ## Since 2020
 [Google Scholar](https://scholar.google.com/citations?hl=en&user=cnncomYAAAAJ&view_op=list_works&sortby=pubdate)
