@@ -79,6 +79,9 @@ Teaching assistants at Carnegie Mellon University for:
 
 
 ## Professional Activities
+Area Chairs for:
+* AAAI 2021, IJCAI 2021
+
 Program Committee Members or Reviewers for:
 
 * Conferences: ICML (2014, 2018-2019), NIPS (2016, 2018), AISTATS (2017-2019), UAI (2018), ICLR (2019), AAAI (2019), CVPR (2016-2019), ICCV (2015, 2017), ECCV (2016, 2018), ACL (2015-2018), EMNLP (2015), KDD (2015), ECML (2016-2017), ACCV (2016), BMVC (2017)  
@@ -86,6 +89,9 @@ Program Committee Members or Reviewers for:
 
 
 ##  Selected Awards and Honors
+* Amazon AWS Research Award.
+* Tencent AI-Lab Faculty Award.
+* Tencent WeChat Faculty Award.
 * Innovator Award, 2018 (presented by the Pittsburgh Business Times).
 * 1st Place (out of 400+ participating teams) in both Defenses and Targeted Attacks, 3rd Place in Untargeted Attacks, in NIPS Adversarial Vision Challenge, 2018.
 * Siebel Scholarship, 2014 (85 graduate students from around the world).
