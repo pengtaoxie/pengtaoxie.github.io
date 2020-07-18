@@ -27,7 +27,7 @@ pengtaoxie2008@gmail.com   [Twitter](https://twitter.com/cmuptx) [Weibo](https:/
 * 2018/11/20. We won the 1st Place (out of 400+ participating teams) in both Defenses and Targeted Attacks, 3rd Place in Untargeted Attacks, in the NIPS Adversarial Vision Challenge 2018.
 
 
-## Since 2020
+## Publications Since 2020
 [Google Scholar](https://scholar.google.com/citations?hl=en&user=cnncomYAAAAJ&view_op=list_works&sortby=pubdate)
 
 ## Publications Before 2020
