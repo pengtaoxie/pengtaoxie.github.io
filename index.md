@@ -15,6 +15,11 @@ pengtaoxie2008@gmail.com   [Twitter](https://twitter.com/cmuptx) [Weibo](https:/
 
 
 ## News
+* 2020/6/17. I will serve as an area chair of AAAI 2021.
+* 2020/6/17. I will serve as an area chair of IJCAI 2021.
+* 2020/6/15. I am awarded an Amazon AWS Research Award. Thank you AWS!
+* 2020/6/1. I am awarded a Tencent AI-Lab Faculty Award. Thank you Tencent AI-Lab!
+* 2020/5/1. I am awarded a Tencent WeChat Faculty Award. Thank you WeChat!
 * 2019/9/10. Our work on specific and shared causal relation modeling is accepted by NeurIPS 2019.
 * Invited talks at UCLA, UCSD, Columbia, NYU, Johns Hopkins, Geogia Tech, University of Wisconsin-Madison, UMass Amherst.
 * 2018/12/18. Our work on ellipse detection of optic disc-and-cup boundary in fundus image is accepted by the IEEE International Symposium on Biomedical Imaging.
@@ -27,10 +32,10 @@ pengtaoxie2008@gmail.com   [Twitter](https://twitter.com/cmuptx) [Weibo](https:/
 * 2018/06/24. One paper is accepted by MLHC 2018.
 * 2018/05/11. Two papers are accepted by ICML 2018.
 
-## Preprints
+## Since 2020
 [Google Scholar](https://scholar.google.com/citations?hl=en&user=cnncomYAAAAJ&view_op=list_works&sortby=pubdate)
 
-## Publications
+## Publications Before 2020
 * Congzheng Song, Shanghang Zhang, Najmeh Sadoughi, **Pengtao Xie**, Eric Xing. [Generalized Zero-shot ICD Coding](https://arxiv.org/abs/1909.13154). International Joint Conference on Artificial Intelligence **(IJCAI 2020)**.
 * Zeya Wang, Baoyu Jing, Yang Ni, Nanqing Dong, **Pengtao Xie**, Eric P Xing. Adversarial Domain Adaptation Being Aware of Class Relationships. European Conference on Artificial Intelligence **(ECAI 2020)**.
 * B. Huang, K. Zhang, **P. Xie**, M. Gong, E. P. Xing. Specific and Shared Causal Relation Modeling and Mechanism-based Clustering. Advances in Neural Information Processing Systems **(NeurIPS 2019)**.
