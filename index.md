@@ -20,11 +20,6 @@ pengtaoxie2008@gmail.com   [Twitter](https://twitter.com/cmuptx) [Weibo](https:/
 * 2020/6/15. I am awarded an Amazon AWS Research Award. Thank you AWS!
 * 2020/6/1. I am awarded a Tencent AI-Lab Faculty Award. Thank you Tencent AI-Lab!
 * 2020/5/1. I am awarded a Tencent WeChat Faculty Award. Thank you WeChat!
-* 2019/9/10. Our work on specific and shared causal relation modeling is accepted by NeurIPS 2019.
-* Invited talks at UCLA, UCSD, Columbia, NYU, Johns Hopkins, Geogia Tech, University of Wisconsin-Madison, UMass Amherst.
-* 2018/12/18. Our work on ellipse detection of optic disc-and-cup boundary in fundus image is accepted by the IEEE International Symposium on Biomedical Imaging.
-* 2018/11/20. Our work on clinical notes summarization was accepted by the NIPS ML for Healthcare Workshop as a spotlight oral presentation.
-* 2018/11/20. We won the 1st Place (out of 400+ participating teams) in both Defenses and Targeted Attacks, 3rd Place in Untargeted Attacks, in the NIPS Adversarial Vision Challenge 2018.
 
 
 ## Publications Since 2020
@@ -67,15 +62,9 @@ pengtaoxie2008@gmail.com   [Twitter](https://twitter.com/cmuptx) [Weibo](https:/
 
 
 ## Teaching
-Guest lecturer at Carnegie Mellon University for:
 
-* 10-708 Probabilistic Graphical Models (Instructor: Eric Xing), Spring 2017.  
-
-Teaching assistants at Carnegie Mellon University for:
-
-* 10-708 Probabilistic Graphical Models (Instructor: Eric Xing), Spring 2015.  
-* 10-701 Machine Learning (Instructors: Barnabas Poczos and Aarti Singh), Spring 2014.  
-* 10-601 Machine Learning (Instructors: William Cohen and Eric Xing), Fall 2013.
+* ECE285 Deep Generative Models, Winter 2021.  
+* ECE17 Object-Oriented Programming: Design and Development with C++, Winter 2021.  
 
 
 ## Professional Activities
@@ -95,9 +84,7 @@ Program Committee Members or Reviewers for:
 * Innovator Award, 2018 (presented by the Pittsburgh Business Times).
 * 1st Place (out of 400+ participating teams) in both Defenses and Targeted Attacks, 3rd Place in Untargeted Attacks, in NIPS Adversarial Vision Challenge, 2018.
 * Siebel Scholarship, 2014 (85 graduate students from around the world).
-* National Scholarship of China, 2009.
-* National First Prize in China Undergraduate Mathematical Contest of Modeling, 2008.
-* Goldman Sachs Global Leader Scholarship, 2008 (150 undergraduate students from around the world).
+
 
 
 ##  Recent Invited Talks
