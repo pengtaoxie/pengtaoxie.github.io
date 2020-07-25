@@ -21,6 +21,14 @@ pengtaoxie2008@gmail.com   [Twitter](https://twitter.com/cmuptx) [Weibo](https:/
 * 2020/6/1. I am awarded a Tencent AI-Lab Faculty Award. Thank you Tencent AI-Lab!
 * 2020/5/1. I am awarded a Tencent WeChat Faculty Award. Thank you WeChat!
 
+## Students
+* Arda Bati
+* Xuehai He
+* Ramtin Hosseini
+* Jiachen Li
+* Xingyi Yang
+* Jinyu Zhao
+
 
 ## Publications Since 2020
 [Google Scholar](https://scholar.google.com/citations?hl=en&user=cnncomYAAAAJ&view_op=list_works&sortby=pubdate)
