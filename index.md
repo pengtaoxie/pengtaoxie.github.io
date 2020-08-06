@@ -16,6 +16,7 @@ pengtaoxie2008@gmail.com   [Twitter](https://twitter.com/cmuptx) [Weibo](https:/
 ## I am looking for highly-motivated master students to join my group.
 
 ## News
+* 2020/8/6. I am awarded Google Cloud research credits.
 * 2020/6/17. I will serve as an area chair of AAAI 2021.
 * 2020/6/17. I will serve as an area chair of IJCAI 2021.
 * 2020/6/15. I am awarded an Amazon AWS Research Award. Thank you AWS!
@@ -90,6 +91,7 @@ Program Committee Members or Reviewers for:
 * Amazon AWS Research Award.
 * Tencent AI-Lab Faculty Award.
 * Tencent WeChat Faculty Award.
+* Google Cloud Research Credits.
 * Innovator Award, 2018 (presented by the Pittsburgh Business Times).
 * 1st Place (out of 400+ participating teams) in both Defenses and Targeted Attacks, 3rd Place in Untargeted Attacks, in NIPS Adversarial Vision Challenge, 2018.
 * Siebel Scholarship, 2014 (85 graduate students from around the world).
