@@ -16,12 +16,13 @@ pengtaoxie2008@gmail.com   [Twitter](https://twitter.com/cmuptx) [Weibo](https:/
 ## I am looking for highly-motivated master students to join my group.
 
 ## News
+* 2020/8/14. I am co-organizing NeurIPS 2020 workshop "Self-Supervised Learning -- Theory and Practice".
 * 2020/8/6. I am awarded Google Cloud research credits.
 * 2020/6/17. I will serve as an area chair of AAAI 2021.
 * 2020/6/17. I will serve as an area chair of IJCAI 2021.
 * 2020/6/15. I am awarded an Amazon AWS Research Award. Thank you AWS!
 * 2020/6/1. I am awarded a Tencent AI-Lab Faculty Award. Thank you Tencent AI-Lab!
-* 2020/5/1. I am awarded a Tencent WeChat Faculty Award. Thank you WeChat!
+* 2020/5/1. I am awarded a Tencent Faculty Award. Thank you Tencent!
 
 ## Students
 * Arda Bati
@@ -81,6 +82,9 @@ pengtaoxie2008@gmail.com   [Twitter](https://twitter.com/cmuptx) [Weibo](https:/
 Area Chairs for:
 * AAAI 2021, IJCAI 2021
 
+Co-organizer for:
+* NeurIPS 2020 workshop "Self-Supervised Learning -- Theory and Practice"
+
 Program Committee Members or Reviewers for:
 
 * Conferences: ICML (2014, 2018-2019), NIPS (2016, 2018), AISTATS (2017-2019), UAI (2018), ICLR (2019), AAAI (2019), CVPR (2016-2019), ICCV (2015, 2017), ECCV (2016, 2018), ACL (2015-2018), EMNLP (2015), KDD (2015), ECML (2016-2017), ACCV (2016), BMVC (2017)  
@@ -90,7 +94,7 @@ Program Committee Members or Reviewers for:
 ##  Selected Awards and Honors
 * Amazon AWS Research Award.
 * Tencent AI-Lab Faculty Award.
-* Tencent WeChat Faculty Award.
+* Tencent Faculty Award.
 * Google Cloud Research Credits.
 * Innovator Award, 2018 (presented by the Pittsburgh Business Times).
 * 1st Place (out of 400+ participating teams) in both Defenses and Targeted Attacks, 3rd Place in Untargeted Attacks, in NIPS Adversarial Vision Challenge, 2018.
