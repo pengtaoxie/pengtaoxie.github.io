@@ -16,6 +16,7 @@ pengtaoxie2008@gmail.com   [Twitter](https://twitter.com/cmuptx) [Weibo](https:/
 ## I am looking for highly-motivated master students to join my group.
 
 ## News
+* 2020/8/16. My PhD thesis was selected as a finalist (top-5) for the AMIA PhD Dissertation Award. 
 * 2020/8/14. I am co-organizing NeurIPS 2020 workshop "Self-Supervised Learning -- Theory and Practice".
 * 2020/8/6. I am awarded Google Cloud research credits.
 * 2020/6/17. I will serve as an area chair of AAAI 2021.
@@ -92,6 +93,7 @@ Program Committee Members or Reviewers for:
 
 
 ##  Selected Awards and Honors
+* Finalist (top-5) for AMIA PhD Dissertation Award.
 * Amazon AWS Research Award.
 * Tencent AI-Lab Faculty Award.
 * Tencent Faculty Award.
