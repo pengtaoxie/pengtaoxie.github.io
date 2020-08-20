@@ -84,7 +84,7 @@ pengtaoxie2008@gmail.com   [Twitter](https://twitter.com/cmuptx) [Weibo](https:/
 
 ## Professional Activities
 Area Chairs for:
-* AAAI 2021, IJCAI 2021
+* AAAI 2021, IJCAI 2021, CVPR 2021
 
 Co-organizer for:
 * NeurIPS 2020 workshop "Self-Supervised Learning -- Theory and Practice"
