@@ -78,7 +78,7 @@ pengtaoxie2008@gmail.com   [Twitter](https://twitter.com/cmuptx) [Weibo](https:/
 
 ## Teaching
 
-* ECE285 Deep Generative Models, Winter 2021.  
+* ECE285 [Deep Generative Models](./dgm.md), Winter 2021.  
 * ECE17 Object-Oriented Programming: Design and Development with C++, Winter 2021.  
 
 
