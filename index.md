@@ -17,6 +17,7 @@ pengtaoxie2008@gmail.com   [Twitter](https://twitter.com/cmuptx) [Weibo](https:/
 
 ## News
 * 2020/8. My PhD thesis was selected as a finalist (top 5) for the AMIA Doctoral Dissertation Award. 
+* 2020/8/24. I am co-organizing AAAI 2021 workshop "Trustworthy AI for Healthcare".
 * 2020/8/19. I will serve as an area chair of CVPR 2021.
 * 2020/8/14. I am co-organizing NeurIPS 2020 workshop "Self-Supervised Learning -- Theory and Practice".
 * 2020/8/6. I am awarded Google Cloud research credits.
@@ -88,6 +89,7 @@ Area Chairs for:
 
 Co-organizer for:
 * NeurIPS 2020 workshop "Self-Supervised Learning -- Theory and Practice"
+* AAAI 2021 workshop "Trustworthy AI for Healthcare"
 
 Program Committee Members or Reviewers for:
 
