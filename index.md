@@ -3,38 +3,13 @@
 
 <img src="./UCSD-pengtaoxie.jpg" alt="drawing" width="400"/>
 
-Assistant Professor
 
-Electrical and Computer Engineering
-
-University of California San Diego
 
 I obtained my PhD from the Machine Learning Department, School of Computer Science, Carnegie Mellon University.  My research  interests include sample-efficient learning (e.g., meta learning, domain adaptation, neural symbolic reasoning, etc.), ML for healthcare, deep learning for natural language processing and computer vision, deep generative models, large-scale distributed learning.
 
-pengtaoxie2008@gmail.com   [Twitter](https://twitter.com/cmuptx) [Weibo](https://www.weibo.com/u/1822644165?topnav=1&wvr=6&topsug=1) 
+pengtaoxie2008@gmail.com
 
-## I am looking for highly-motivated master students to join my group.
 
-## News
-* 2020/8. My PhD thesis was selected as a finalist (top 5) for the AMIA Doctoral Dissertation Award. 
-* 2020/8/24. I am co-organizing AAAI 2021 workshop "Trustworthy AI for Healthcare".
-* 2020/8/19. I will serve as an area chair of CVPR 2021.
-* 2020/8/14. I am co-organizing NeurIPS 2020 workshop "Self-Supervised Learning -- Theory and Practice".
-* 2020/8/6. I am awarded Google Cloud research credits.
-* 2020/6/17. I will serve as an area chair of AAAI 2021.
-* 2020/6/17. I will serve as an area chair of IJCAI 2021.
-* 2020/6/15. I am awarded an Amazon AWS Research Award. Thank you AWS!
-* 2020/6/1. I am awarded a Tencent AI-Lab Faculty Award. Thank you Tencent AI-Lab!
-* 2020/5/1. I am awarded a Tencent Faculty Award. Thank you Tencent!
-
-## Students
-* Arda Bati
-* Xuehai He
-* Ramtin Hosseini
-* Yueyu Jiang
-* Jiachen Li
-* Kai Wang (CSE)
-* Xingyi Yang
 
 
 
@@ -75,12 +50,6 @@ pengtaoxie2008@gmail.com   [Twitter](https://twitter.com/cmuptx) [Weibo](https:/
 * **P.Xie** and E.P.Xing. Integrating Image Clustering and Codebook Learning. The 29th AAAI Conference on Artificial Intelligence **(AAAI 2015)** (Oral Presentation).
 * **P.Xie** and E.P.Xing. Multi-Modal Distance Metric Learning. The 23rd International Joint Conference on Artificial Intelligence **(IJCAI 2013)** (Oral Presentation).
 * **P.Xie** and E.P.Xing. Integrating Document Clustering and Topic Modeling. Proceedings of the 29th International Conference on Uncertainty in Artificial Intelligence **(UAI 2013)**.
-
-
-## Teaching
-
-* ECE285 [Deep Generative Models](./dgm.md), Winter 2021.  
-* ECE17 [Object-Oriented Programming: Design and Development with C++](./cpplus.md), Winter 2021.  
 
 
 ## Professional Activities
