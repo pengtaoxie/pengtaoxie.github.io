@@ -11,12 +11,10 @@ Electrical and Computer Engineering
 
 University of California San Diego
 
-[Twitter](https://twitter.com/cmuptx) [Weibo](https://www.weibo.com/u/1822644165?topnav=1&wvr=6&topsug=1) 
-
 
 I obtained my PhD from the Machine Learning Department, School of Computer Science, Carnegie Mellon University.  My research  interests include sample-efficient learning (e.g., meta learning, domain adaptation, neural symbolic reasoning, etc.), ML for healthcare, deep learning for natural language processing and computer vision, deep generative models, large-scale distributed learning.
 
-pengtaoxie2008@gmail.com
+pengtaoxie2008@gmail.com [Twitter](https://twitter.com/cmuptx) [Weibo](https://www.weibo.com/u/1822644165?topnav=1&wvr=6&topsug=1) 
 
 
 ## I am looking for highly-motivated master students to join my group.
