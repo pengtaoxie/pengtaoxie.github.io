@@ -44,7 +44,7 @@ pengtaoxie2008@gmail.com [Twitter](https://twitter.com/cmuptx) [Weibo](https://w
 ## Teaching
 
 * ECE285 [Deep Generative Models](./dgm.md), Winter 2021.  
-* ECE17 [Linear Algebra and Applications](./linalg.md), Winter 2021.  
+* ECE269 [Linear Algebra and Applications](./linalg.md), Winter 2021.  
 
 
 ## Publications Since 2020
