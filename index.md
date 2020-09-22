@@ -36,6 +36,7 @@ pengtaoxie2008@gmail.com [Twitter](https://twitter.com/cmuptx) [Weibo](https://w
 * Arda Bati
 * Xuehai He
 * Ramtin Hosseini
+* Yueyu Jiang
 * Jiachen Li
 * Sai Somayajula
 * Kai Wang (CSE)
