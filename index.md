@@ -39,7 +39,7 @@ pengtaoxie2008@gmail.com [Twitter](https://twitter.com/cmuptx) [Weibo](https://w
 * Yueyu Jiang
 * Jiachen Li
 * Sai Somayajula
-* Kai Wang (CSE)
+* Tushar Sircar (CSE)
 * Xingyi Yang
 * Shengzhe Zhang
 
