@@ -21,6 +21,7 @@ pengtaoxie2008@gmail.com [Twitter](https://twitter.com/cmuptx) [Weibo](https://w
 
 ## News
 * 2020/8. My PhD thesis was selected as a finalist (top 5) for the [AMIA Doctoral Dissertation Award](https://www.amia.org/amia-doctoral-dissertation-award).
+* 2020/10/29. I will serve as an area chair for NAACL 2021.
 * 2020/9/14. I am recognized as a Top Reviewer for ICML 2020.
 * 2020/8/24. I am co-organizing AAAI 2021 workshop ["Trustworthy AI for Healthcare"](https://taih20.github.io/).
 * 2020/8/19. I will serve as an area chair of CVPR 2021.
@@ -90,7 +91,7 @@ pengtaoxie2008@gmail.com [Twitter](https://twitter.com/cmuptx) [Weibo](https://w
 
 ## Professional Activities
 Area Chairs for:
-* AAAI 2021, IJCAI 2021, CVPR 2021
+* AAAI 2021, IJCAI 2021, CVPR 2021, NAACL 2021.
 
 Co-organizer for:
 * NeurIPS 2020 workshop "Self-Supervised Learning -- Theory and Practice"
