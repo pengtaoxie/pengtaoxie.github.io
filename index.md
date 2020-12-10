@@ -12,7 +12,7 @@ Electrical and Computer Engineering
 University of California San Diego
 
 
-I obtained my PhD from the Machine Learning Department, School of Computer Science, Carnegie Mellon University.  My research  interests include sample-efficient learning (e.g., meta learning, domain adaptation, neural symbolic reasoning, etc.), ML for healthcare, deep learning for natural language processing and computer vision, deep generative models, large-scale distributed learning.
+I obtained my PhD from the Machine Learning Department, School of Computer Science, Carnegie Mellon University.  My research  interests mainly lie in [machine learning inspired by humans' learning skills](https://arxiv.org/abs/2012.04863), such as [learning by passing tests](https://arxiv.org/abs/2011.15102), interleaving learning, etc., and their applications in healthcare.
 
 pengtaoxie2008@gmail.com [Twitter](https://twitter.com/cmuptx) [Weibo](https://www.weibo.com/u/1822644165?topnav=1&wvr=6&topsug=1) 
 
