@@ -21,6 +21,7 @@ pengtaoxie2008@gmail.com [Twitter](https://twitter.com/cmuptx) [Weibo](https://w
 
 ## News
 * 2020/8. My PhD thesis was selected as a finalist (top 5) for the [AMIA Doctoral Dissertation Award](https://www.amia.org/amia-doctoral-dissertation-award).
+* 2020/12/23. I will serve as an area chair for ICML 2021.
 * 2020/12/11. I am co-organizing ICLR 2021 workshop "Machine Learning for Preventing and Combating Pandemics".
 * 2020/11/28. I am elected as a member of the Machine Learning for Signal Processing Technical Committee.
 * 2020/11/17. I will serve as an area chair for ICCV 2021.
@@ -94,7 +95,7 @@ pengtaoxie2008@gmail.com [Twitter](https://twitter.com/cmuptx) [Weibo](https://w
 
 ## Professional Activities
 Area Chairs for:
-* AAAI 2021, IJCAI 2021, CVPR 2021, NAACL 2021, ICCV 2021.
+* ICML 2021, CVPR 2021, NAACL 2021, ICCV 2021, AAAI 2021, IJCAI 2021,
 
 Co-organizer for:
 * NeurIPS 2020 workshop "Self-Supervised Learning -- Theory and Practice"
