@@ -54,6 +54,16 @@ pengtaoxie2008@gmail.com [Twitter](https://twitter.com/cmuptx) [Weibo](https://w
 * ECE269 [Linear Algebra and Applications](./linalg.md), Winter 2021.  
 
 
+## Recent Works on Machine Learning Inspired by Humans' Learning Skills
+* **Pengtao Xie**, Xuefeng Du, Hao Ban. [Skillearn: Machine Learning Inspired by Humans' Learning Skills](https://arxiv.org/abs/2012.04863). arXiv:2012.04863. 2020.
+* Xuefeng Du, **Pengtao Xie**. [Learning by Passing Tests, with Application to Neural Architecture Search](https://arxiv.org/abs/2011.15102). arXiv:2011.15102. 2020.
+* Ramtin Hosseini, **Pengtao Xie**. [Learning by Self-Explanation, with Application to Neural Architecture Search](https://arxiv.org/abs/2012.12899). arXiv:2012.12899. 2020.
+* Xuefeng Du, **Pengtao Xie**. [Small-Group Learning, with Application to Neural Architecture Search](https://arxiv.org/abs/2012.12502). arXiv:2012.12502. 2020.
+* Parth Sheth, **Pengtao Xie**. [Learning by Teaching, with Application to NeuralArchitecture Search] (https://www.techrxiv.org/articles/preprint/Learning_by_Teaching_with_Application_to_Neural_Architecture_Search/13489206/1). 
+* Xingchen Zhao, **Pengtao Xie**. [Learning by Ignoring](https://arxiv.org/abs/2012.14288). arXiv:2012.14288. 2020.
+* Hao Ban, **Pengtao Xie**. [Interleaving Learning](https://arxiv.org/pdf/2012.04863.pdf#page=28). 2020.
+
+
 ## Publications Since 2020
 [Google Scholar](https://scholar.google.com/citations?hl=en&user=cnncomYAAAAJ&view_op=list_works&sortby=pubdate)
 
