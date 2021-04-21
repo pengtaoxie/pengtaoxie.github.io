@@ -39,7 +39,7 @@ pengtaoxie2008@gmail.com [Twitter](https://twitter.com/cmuptx) [Weibo](https://w
 * 2020/6/1. I am awarded a Tencent AI-Lab Faculty Award. Thank you Tencent AI-Lab!
 * 2020/5/1. I am awarded a Tencent Faculty Award. Thank you Tencent!
 
-## Students
+## Current Students
 * Arda Bati
 * Xuehai He
 * Ramtin Hosseini
@@ -49,6 +49,15 @@ pengtaoxie2008@gmail.com [Twitter](https://twitter.com/cmuptx) [Weibo](https://w
 * Tushar Sircar (CSE)
 * Xingyi Yang
 * Shengzhe Zhang
+
+## Past Students
+
+### Undergraduates
+* Ruisi Zhang (2020 --> PhD student at UCSD ECE)
+* Jiayuan Huang (2020 --> Master student at CMU CS)
+* Jiaqi Zeng (2020 --> Master student at CMU CS)
+* Meng Zhou (2020 --> Master student at CMU CS)
+* Yuhong Chen (2020 --> Master student at CMU INI)
 
 ## Teaching
 
