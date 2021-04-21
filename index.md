@@ -51,7 +51,6 @@ pengtaoxie2008@gmail.com [Twitter](https://twitter.com/cmuptx) [Weibo](https://w
 * Shengzhe Zhang
 
 ## Past Students
-
 ### Undergraduates
 * Ruisi Zhang (2020 --> PhD student at UCSD ECE)
 * Matt Hong (2020 --> PhD student at UCSD CSE)
@@ -59,10 +58,9 @@ pengtaoxie2008@gmail.com [Twitter](https://twitter.com/cmuptx) [Weibo](https://w
 * Jiaqi Zeng (2020 --> Master student at CMU CS)
 * Meng Zhou (2020 --> Master student at CMU CS)
 * Yuhong Chen (2020 --> Master student at CMU INI)
-
 ### Master Students
-Jiachen Li (2020 --> PhD student at UCSB)
-Xuehai He (2020 --> PhD student at UCSC)
+* Jiachen Li (2020 --> PhD student at UCSB)
+* Xuehai He (2020 --> PhD student at UCSC)
 
 ## Teaching
 
