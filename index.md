@@ -41,12 +41,12 @@ pengtaoxie2008@gmail.com [Twitter](https://twitter.com/cmuptx) [Weibo](https://w
 
 ## Current Students
 * Arda Bati
-* Xuehai He
+* Bhanu Garg
 * Ramtin Hosseini
 * Yueyu Jiang
-* Jiachen Li
 * Sai Somayajula
 * Tushar Sircar (CSE)
+* Xinghan Wang (CSE)
 * Xingyi Yang
 * Shengzhe Zhang
 
@@ -59,6 +59,10 @@ pengtaoxie2008@gmail.com [Twitter](https://twitter.com/cmuptx) [Weibo](https://w
 * Jiaqi Zeng (2020 --> Master student at CMU CS)
 * Meng Zhou (2020 --> Master student at CMU CS)
 * Yuhong Chen (2020 --> Master student at CMU INI)
+
+### Master Students
+Jiachen Li (2020 --> PhD student at UCSB)
+Xuehai He (2020 --> PhD student at UCSC)
 
 ## Teaching
 
