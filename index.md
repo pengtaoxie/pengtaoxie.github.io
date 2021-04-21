@@ -54,6 +54,7 @@ pengtaoxie2008@gmail.com [Twitter](https://twitter.com/cmuptx) [Weibo](https://w
 
 ### Undergraduates
 * Ruisi Zhang (2020 --> PhD student at UCSD ECE)
+* Matt Hong (2020 --> PhD student at UCSD CSE)
 * Jiayuan Huang (2020 --> Master student at CMU CS)
 * Jiaqi Zeng (2020 --> Master student at CMU CS)
 * Meng Zhou (2020 --> Master student at CMU CS)
