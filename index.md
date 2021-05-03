@@ -21,7 +21,8 @@ pengtaoxie2008@gmail.com [Twitter](https://twitter.com/cmuptx) [Weibo](https://w
 
 ## News
 * 2020/8. My PhD thesis was selected as a finalist (top 5) for the [AMIA Doctoral Dissertation Award](https://www.amia.org/amia-doctoral-dissertation-award).
-* 2021/04/03. I am co-organizing ICML 2021 workshop "Interpretable Machine Learning for Healthcare".
+* 2021/04/03. I am co-organizing ICML 2021 workshop ["Self-supervised Learning for Reasoning and Perception"](https://icml21ssl.github.io/).
+* 2021/04/03. I am co-organizing ICML 2021 workshop ["Interpretable Machine Learning for Healthcare"](https://sites.google.com/view/imlh2021/).
 * 2021/03/18. I will serve as an area chair for NeurIPS 2021.
 * 2020/12/23. I will serve as an area chair for ICML 2021.
 * 2020/12/11. I am co-organizing ICLR 2021 workshop ["Machine Learning for Preventing and Combating Pandemics"](https://mlpcp21.github.io/).
