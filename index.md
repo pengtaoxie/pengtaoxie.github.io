@@ -58,6 +58,7 @@ pengtaoxie2008@gmail.com [Twitter](https://twitter.com/cmuptx) [Weibo](https://w
 * Jiaqi Zeng (2020 --> Master student at CMU CS)
 * Meng Zhou (2020 --> Master student at CMU CS)
 * Yuhong Chen (2020 --> Master student at CMU INI)
+* Yue Yang (2020 --> Master student at Gatech CS)
 
 ### Master Students
 * Jiachen Li (2020 --> PhD student at UCSB)
