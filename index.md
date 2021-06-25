@@ -44,7 +44,6 @@ pengtaoxie2008@gmail.com [Twitter](https://twitter.com/cmuptx) [Weibo](https://w
 * Arda Bati
 * Bhanu Garg
 * Ramtin Hosseini
-* Yueyu Jiang
 * Sai Somayajula
 * Tushar Sircar (CSE)
 * Jeremy Wink (CSE)
