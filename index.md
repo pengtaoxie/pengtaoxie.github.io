@@ -47,8 +47,9 @@ pengtaoxie2008@gmail.com [Twitter](https://twitter.com/cmuptx) [Weibo](https://w
 * Yueyu Jiang
 * Sai Somayajula
 * Tushar Sircar (CSE)
-* Xinghan Wang (CSE)
+* Jeremy Wink (CSE)
 * Xingyi Yang
+* Ruisi Zhang
 * Shengzhe Zhang
 
 ## Past Students
