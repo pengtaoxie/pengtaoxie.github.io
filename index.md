@@ -5,10 +5,8 @@
 
 
 
-Assistant Professor
-
-Electrical and Computer Engineering
-
+Assistant Professor, Department of Electrical and Computer Engineering
+Affiliated Faculty, AI Group in the Department of Computer Science and Engineering
 University of California San Diego
 
 
