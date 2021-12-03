@@ -41,15 +41,16 @@ pengtaoxie2008@gmail.com [Twitter](https://twitter.com/cmuptx) [Weibo](https://w
 * 2020/5/1. I am awarded a Tencent Faculty Award. Thank you Tencent!
 
 ## Current Students
-* Arda Bati
-* Bhanu Garg
-* Ramtin Hosseini
-* Sai Somayajula
-* Tushar Sircar (CSE)
+* Gokulakrishnan Candassamy
+* Bohua Chen
+* Mohammad Khan
+* Shreya Saha
+* Siddhant Salvi
+* Abhishek Singh (CSE)
 * Jeremy Wink (CSE)
-* Xingyi Yang
-* Ruisi Zhang
-* Shengzhe Zhang
+* Xinyi Zhang
+* Tianyi Zhou
+* Victor Zhu
 
 ## Past Students
 ### Undergraduates
