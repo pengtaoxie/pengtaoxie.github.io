@@ -44,9 +44,11 @@ pengtaoxie2008@gmail.com [Twitter](https://twitter.com/cmuptx) [Weibo](https://w
 * Gokulakrishnan Candassamy
 * Bohua Chen
 * Mohammad Khan
+* Youwei Liang
 * Shreya Saha
 * Siddhant Salvi
 * Abhishek Singh (CSE)
+* Sai Somayajula
 * Jeremy Wink (CSE)
 * Xinyi Zhang
 * Tianyi Zhou
