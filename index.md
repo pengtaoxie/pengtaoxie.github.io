@@ -42,17 +42,17 @@ pengtaoxie2008@gmail.com [Twitter](https://twitter.com/cmuptx) [Weibo](https://w
 
 ## Current Students
 * Gokulakrishnan Candassamy
-* Bohua Chen
-* Mohammad Khan
+* Jay Gala
+* Abhibha Gupta
+* Ritvik Gupta
 * Youwei Liang
 * Shreya Saha
-* Siddhant Salvi
 * Abhishek Singh (CSE)
 * Sai Somayajula
-* Jeremy Wink (CSE)
+* Pragya Srivastava
 * Xinyi Zhang
 * Tianyi Zhou
-* Victor Zhu
+* Victor Zhu (CSE)
 
 ## Past Students
 ### Undergraduates
