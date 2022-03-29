@@ -97,7 +97,6 @@ pengtaoxie2008@gmail.com [Twitter](https://twitter.com/cmuptx) [Weibo](https://w
 * **P.Xie**, H.Zhang, Y.Zhu and E.P.Xing. Nonoverlap-Promoting Variable Selection. The 35th International Conference on Machine Learning **(ICML 2018)** (Short Oral Presentation).
 * **P.Xie**, H.Shi, M.Zhang and E.P.Xing. A Neural Architecture for Automated ICD Coding. The 56th Annual Meeting of the Association for Computational Linguistics **(ACL 2018)** (Oral Presentation)
 * B.Jing, **P.Xie** and E.P.Xing. On the Automatic Generation of Medical Imaging Reports. The 56th Annual Meeting of the Association for Computational Linguistics **(ACL 2018)**.
-* **P.Xie**, J.Zhu and E.P.Xing. Diversity-Promoting Bayesian Learning of Latent Variable Models. To appear in the Journal of Machine Learning Research **(JMLR)**, 2018.
 * **P.Xie**, J.Kim, Q.Ho, Y.Yu and E.P.Xing. Orpheus: Efficient Distributed Machine Learning via System and Algorithm Co-design. Symposium of Cloud Computing **(SoCC 2018)**.
 * D.Sachan, **P.Xie** and E.P.Xing. Effective Use of Bidirectional Language Modeling for Medical Named Entity Recognition. Conference on Machine Learning for Healthcare **(MLHC 2018)**.
 * X.Liu, K.Xu, **P.Xie** and E.P.Xing. Unsupervised Pseudo-Labeling for Extractive Summarization on Electronic Health Records. NIPS ML for Healthcare Workshop, 2018 (Spotlight Presentation).
