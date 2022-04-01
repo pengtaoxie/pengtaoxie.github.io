@@ -71,8 +71,8 @@ pengtaoxie2008@gmail.com [Twitter](https://twitter.com/cmuptx) [Weibo](https://w
 
 ## Teaching
 
-* ECE285 [Deep Generative Models](./dgm.md), Winter 2021.
-* ECE269 [Linear Algebra and Applications](./linalg.md), Winter 2021.
+* ECE285 [Deep Generative Models](./dgm.md). Course evaluations: [ECE285-Winter2022](./285w22.pdf), [ECE285-Winter2021](./285w21.pdf)
+* ECE269 [Linear Algebra and Applications](./linalg.md). Course evaluations: [ECE269-Winter2022](./269w22.pdf), [ECE269-Winter2021](./269w21.pdf)
 
 
 ## Recent Works on Machine Learning Inspired by Humans' Learning Skills
