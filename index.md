@@ -20,6 +20,7 @@ pengtaoxie2008@gmail.com [Twitter](https://twitter.com/cmuptx) [Weibo](https://w
 ## I am looking for highly-motivated PhD and master students to join my group. I am also looking for (remote) research interns for summer.
 
 ## News
+* Course evaluations are released. [ECE269-Winter2022](./269w22.pdf), [ECE285-Winter2022](./285w22.pdf), [ECE269-Winter2021](./269w21.pdf), [ECE285-Winter2021](./285w21.pdf)
 * 2020/8. My PhD thesis was selected as a finalist (top 5) for the [AMIA Doctoral Dissertation Award](https://www.amia.org/amia-doctoral-dissertation-award).
 * 2021/04/03. I am co-organizing ICML 2021 workshop ["Self-supervised Learning for Reasoning and Perception"](https://icml21ssl.github.io/).
 * 2021/04/03. I am co-organizing ICML 2021 workshop ["Interpretable Machine Learning for Healthcare"](https://sites.google.com/view/imlh2021/).
