@@ -84,11 +84,12 @@ pengtaoxie2008@gmail.com [Twitter](https://twitter.com/cmuptx) [Weibo](https://w
 * Xingchen Zhao, **Pengtao Xie**. [Learning by Ignoring](https://arxiv.org/abs/2012.14288). arXiv:2012.14288 (2020).
 * Hao Ban, **Pengtao Xie**. [Interleaving Learning](https://arxiv.org/pdf/2012.04863.pdf#page=28). (2020).
 
-
-## Publications Since 2022
+<!---
+## Publications Since 2020
 [Google Scholar](https://scholar.google.com/citations?hl=en&user=cnncomYAAAAJ&view_op=list_works&sortby=pubdate)
+-->
 
-## Publications Before 2022
+## Publications
 * Youwei Liang, Chongjian Ge, Zhan Tong, Yibing Song, Jue Wang, and Pengtao Xie. Not All Patches are What
 You Need: Expediting Vision Transformers via Token Reorganizations. International Conference on Learning
 Representations (ICLR), 2022. (Spotlight Presentation)
