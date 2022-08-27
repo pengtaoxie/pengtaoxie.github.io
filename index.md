@@ -135,7 +135,7 @@ Transactions on Multimedia (TMM), 2021.
 Obrzut. Assessment of Motor Dysfunction with Virtual Reality in Patients Undergoing [123I]FP-CIT SPECT/CT
 Brain Imaging. Tomography, 2021.
 * G. Zeng, W. Yang, Z. Ju, Y. Yang, S. Wang, R. Zhang, M. Zhou, J. Zeng, X. Dong, R. Zhang, H. Fang, P. Zhu, S.
-Chen and Pengtao Xie. MedDialog: Large-scale Medical Dialogue Datasets. Conference on Empirical Methods in Natural Language Processing (EMNLP), 2020.
+Chen and **Pengtao Xie**. MedDialog: Large-scale Medical Dialogue Datasets. Conference on Empirical Methods in Natural Language Processing (EMNLP), 2020.
 * Congzheng Song, Shanghang Zhang, Najmeh Sadoughi, **Pengtao Xie**, Eric Xing. [Generalized Zero-shot ICD Coding](https://arxiv.org/abs/1909.13154). International Joint Conference on Artificial Intelligence **(IJCAI 2020)**.
 * Zeya Wang, Baoyu Jing, Yang Ni, Nanqing Dong, **Pengtao Xie**, Eric P Xing. Adversarial Domain Adaptation Being Aware of Class Relationships. European Conference on Artificial Intelligence **(ECAI 2020)**.
 * B. Huang, K. Zhang, **P. Xie**, M. Gong, E. P. Xing. Specific and Shared Causal Relation Modeling and Mechanism-based Clustering. Advances in Neural Information Processing Systems **(NeurIPS 2019)**.
