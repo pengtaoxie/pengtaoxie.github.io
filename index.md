@@ -89,53 +89,53 @@ pengtaoxie2008@gmail.com [Twitter](https://twitter.com/cmuptx) [Weibo](https://w
 [Google Scholar](https://scholar.google.com/citations?hl=en&user=cnncomYAAAAJ&view_op=list_works&sortby=pubdate)
 
 ## Publications Before 2020
-* Youwei Liang, Chongjian Ge, Zhan Tong, Yibing Song, Jue Wang, and Pengtao Xie. Not All Patches are What
+* Youwei Liang, Chongjian Ge, Zhan Tong, Yibing Song, Jue Wang, and **Pengtao Xie**. Not All Patches are What
 You Need: Expediting Vision Transformers via Token Reorganizations. International Conference on Learning
-Representations (ICLR), 2022. (Spotlight Presentation)
-* Pengtao Xie and Xuefeng Du. Performance-Aware Mutual Knowledge Distillation for Improving Neural
+Representations (ICLR), 2022. **(Spotlight Presentation)**
+* **Pengtao Xie** and Xuefeng Du. Performance-Aware Mutual Knowledge Distillation for Improving Neural
 Architecture Search. IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2022.
-* Yijian Qin, Xin Wang, Ziwei Zhang, Pengtao Xie, Wenwu Zhu. Graph Neural Architecture Search Under
+* Yijian Qin, Xin Wang, Ziwei Zhang, **Pengtao Xie**, Wenwu Zhu. Graph Neural Architecture Search Under
 Distribution Shifts. International Conference on Machine Learning (ICML), 2022. (Oral Presentation)
-* Ramtin Hosseini, Pengtao Xie. Image Understanding by Captioning with Differentiable Architecture Search.
+* Ramtin Hosseini, **Pengtao Xie**. Image Understanding by Captioning with Differentiable Architecture Search.
 ACM International Conference on Multimedia (ACM MM), 2022.
-* Hongchao Fang, Pengtao Xie. An End-to-End Contrastive Self-Supervised Learning Framework for Language
+* Hongchao Fang, **Pengtao Xie**. An End-to-End Contrastive Self-Supervised Learning Framework for Language
 Understanding. Transactions of the Association for Computational Linguistics (TACL), 2022.
-* Abhibha Gupta, Parth Sheth, Pengtao Xie. Neural Architecture Search for Pneumonia Diagnosis from Chest
+* Abhibha Gupta, Parth Sheth, **Pengtao Xie**. Neural Architecture Search for Pneumonia Diagnosis from Chest
 X-Rays. Scientific Reports, Nature Portfolio, 2022.
-* Sai Somayajula and Pengtao Xie. A Multi-Level Optimization Framework for End-to-End Text Augmentation.
+* Sai Somayajula and **Pengtao Xie**. A Multi-Level Optimization Framework for End-to-End Text Augmentation.
 Transactions of the Association for Computational Linguistics (TACL), 2022.
-* Yuren Mao, Zekai Wang, Weiwei Liu, Xuemin Lin, and Pengtao Xie. MetaWeighting: Learning to Weight Tasks
+* Yuren Mao, Zekai Wang, Weiwei Liu, Xuemin Lin, and **Pengtao Xie**. MetaWeighting: Learning to Weight Tasks
 in Multi-Task Text Classification. The 60th Annual Meeting of the Association for Computational Linguistics
 (ACL), Findings, 2022.
-* Bhanu Garg, Li Zhang, Pradyumna Sridhara, Ramtin Hosseini, Eric Xing, and Pengtao Xie. Learning from
+* Bhanu Garg, Li Zhang, Pradyumna Sridhara, Ramtin Hosseini, Eric Xing, and **Pengtao Xie**. Learning from
 Mistakes – A Framework for Improving Neural Architecture Search. AAAI Conference on Artificial Intelligence
 (AAAI), 2022.
-* Wenwu Zhu, Xin Wang, Pengtao Xie. Self-directed machine learning. AI Open, 2022.
-* Jiayuan Huang, Yangkai Du, Shuting Tao, Kun Xu, and Pengtao Xie. Structured Self-Supervised Pretraining
+* Wenwu Zhu, Xin Wang, **Pengtao Xie**. Self-directed machine learning. AI Open, 2022.
+* Jiayuan Huang, Yangkai Du, Shuting Tao, Kun Xu, and **Pengtao Xie**. Structured Self-Supervised Pretraining
 for Commonsense Knowledge Graph Completion. Transactions of the Association for Computational Linguistics
 (TACL), 2021.
-* Xuehai He, Zhuo Cai, Wenlan Wei, Yichen Zhang, Luntian Mou, Eric Xing and Pengtao Xie. Towards Visual Question Answering on Pathology Images. The 59th Annual Meeting of the Association for Computational
+* Xuehai He, Zhuo Cai, Wenlan Wei, Yichen Zhang, Luntian Mou, Eric Xing and **Pengtao Xie**. Towards Visual Question Answering on Pathology Images. The 59th Annual Meeting of the Association for Computational
 Linguistics (ACL), 2021.
 * Meng Zhou, Zechen Li, Bowen Tan, Guangtao Zeng, Wenmian Yang, Xuehai He, Zeqian Ju, Subrato Chakravorty,
-Shu Chen, Xingyi Yang, Yichen Zhang, Qingyang Wu, Zhou Yu, Kun Xu, Eric Xing and Pengtao Xie. On the
+Shu Chen, Xingyi Yang, Yichen Zhang, Qingyang Wu, Zhou Yu, Kun Xu, Eric Xing and **Pengtao Xie**. On the
 Generation of Medical Dialogs for COVID-19. The 59th Annual Meeting of the Association for Computational
 Linguistics (ACL), 2021.
-* Ramtin Hosseini, Xingyi Yang and Pengtao Xie. DSRNA: Differentiable Search of Robust Neural Architectures.
+* Ramtin Hosseini, Xingyi Yang and **Pengtao Xie**. DSRNA: Differentiable Search of Robust Neural Architectures.
 IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2021.
-* Meng Zhou, Zechen Li and Pengtao Xie. Self-supervised Regularization for Text Classification. Transactions
+* Meng Zhou, Zechen Li and **Pengtao Xie**. Self-supervised Regularization for Text Classification. Transactions
 of the Association for Computational Linguistics (TACL), 2021.
-* Jiaqi Zeng and Pengtao Xie. Contrastive Self-supervised Learning for Graph Representation Learning. AAAI
+* Jiaqi Zeng and **Pengtao Xie**. Contrastive Self-supervised Learning for Graph Representation Learning. AAAI
 Conference on Artificial Intelligence (AAAI), 2021.
-* Seojin Bang, Pengtao Xie, Heewook Lee, Wei Wu, Eric Xing. Explaining Black-box Models Using A Deep
+* Seojin Bang, **Pengtao Xie**, Heewook Lee, Wei Wu, Eric Xing. Explaining Black-box Models Using A Deep
 Variational Information Bottleneck Approach. AAAI Conference on Artificial Intelligence (AAAI), 2021.
-* Luntian Mou, Chao Zhou, Pengtao Xie, Pengfei Zhao, Ramesh Jain, Wen Gao, and Baocai Yin. Isotropic
+* Luntian Mou, Chao Zhou, **Pengtao Xie**, Pengfei Zhao, Ramesh Jain, Wen Gao, and Baocai Yin. Isotropic
 Self-supervised Learning for Driver Drowsiness Detection with Attention-based Multimodal Fusion. IEEE
 Transactions on Multimedia (TMM), 2021.
-* Jeanne Vu, Ghiam Yamin, Zabrina Reyes, Alex Shin, Alexander Young, Irene Litvan, Pengtao Xie, Sebastian
+* Jeanne Vu, Ghiam Yamin, Zabrina Reyes, Alex Shin, Alexander Young, Irene Litvan, **Pengtao Xie**, Sebastian
 Obrzut. Assessment of Motor Dysfunction with Virtual Reality in Patients Undergoing [123I]FP-CIT SPECT/CT
 Brain Imaging. Tomography, 2021.
 * G. Zeng, W. Yang, Z. Ju, Y. Yang, S. Wang, R. Zhang, M. Zhou, J. Zeng, X. Dong, R. Zhang, H. Fang, P. Zhu, S.
-Chen and Pengtao Xie. MedDialog: Large-scale Medical Dialogue Datasets. Conference on Empirical Methods in Natural Language Processing (EMNLP), 2020.
+Chen and **Pengtao Xie**. MedDialog: Large-scale Medical Dialogue Datasets. Conference on Empirical Methods in Natural Language Processing (EMNLP), 2020.
 * Congzheng Song, Shanghang Zhang, Najmeh Sadoughi, **Pengtao Xie**, Eric Xing. [Generalized Zero-shot ICD Coding](https://arxiv.org/abs/1909.13154). International Joint Conference on Artificial Intelligence **(IJCAI 2020)**.
 * Zeya Wang, Baoyu Jing, Yang Ni, Nanqing Dong, **Pengtao Xie**, Eric P Xing. Adversarial Domain Adaptation Being Aware of Class Relationships. European Conference on Artificial Intelligence **(ECAI 2020)**.
 * B. Huang, K. Zhang, **P. Xie**, M. Gong, E. P. Xing. Specific and Shared Causal Relation Modeling and Mechanism-based Clustering. Advances in Neural Information Processing Systems **(NeurIPS 2019)**.
