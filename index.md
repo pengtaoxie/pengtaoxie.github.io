@@ -91,7 +91,7 @@ pengtaoxie2008@gmail.com [Twitter](https://twitter.com/cmuptx) [Weibo](https://w
 ## Publications Before 2020
 * Youwei Liang, Chongjian Ge, Zhan Tong, Yibing Song, Jue Wang, and **Pengtao Xie**. Not All Patches are What
 You Need: Expediting Vision Transformers via Token Reorganizations. International Conference on Learning
-Representations (ICLR), 2022. (Spotlight Presentation)
+Representations (ICLR), 2022. (**Spotlight Presentation**)
 * **Pengtao Xie** and Xuefeng Du. Performance-Aware Mutual Knowledge Distillation for Improving Neural
 Architecture Search. IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2022.
 * Yijian Qin, Xin Wang, Ziwei Zhang, **Pengtao Xie**, Wenwu Zhu. Graph Neural Architecture Search Under
