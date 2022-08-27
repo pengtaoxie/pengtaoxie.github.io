@@ -74,7 +74,7 @@ pengtaoxie2008@gmail.com [Twitter](https://twitter.com/cmuptx) [Weibo](https://w
 * ECE285 [Deep Generative Models](./dgm.md). Course evaluations: [ECE285-Winter2022](./285w22.pdf), [ECE285-Winter2021](./285w21.pdf)
 * ECE269 [Linear Algebra and Applications](./linalg.md). Course evaluations: [ECE269-Winter2022](./269w22.pdf), [ECE269-Winter2021](./269w21.pdf)
 
-
+<!---
 ## Recent Works on Machine Learning Inspired by Humans' Learning Skills
 * **Pengtao Xie**, Xuefeng Du, Hao Ban. [Skillearn: Machine Learning Inspired by Humans' Learning Skills](https://arxiv.org/abs/2012.04863). arXiv:2012.04863 (2020).
 * Xuefeng Du, **Pengtao Xie**. [Learning by Passing Tests, with Application to Neural Architecture Search](https://arxiv.org/abs/2011.15102). arXiv:2011.15102 (2020).
@@ -87,8 +87,10 @@ pengtaoxie2008@gmail.com [Twitter](https://twitter.com/cmuptx) [Weibo](https://w
 
 ## Publications Since 2020
 [Google Scholar](https://scholar.google.com/citations?hl=en&user=cnncomYAAAAJ&view_op=list_works&sortby=pubdate)
+-->
 
-## Publications Before 2020
+
+## Publications
 * Youwei Liang, Chongjian Ge, Zhan Tong, Yibing Song, Jue Wang, and **Pengtao Xie**. Not All Patches are What
 You Need: Expediting Vision Transformers via Token Reorganizations. International Conference on Learning
 Representations (ICLR), 2022. (**Spotlight Presentation**)
