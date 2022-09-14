@@ -91,6 +91,7 @@ pengtaoxie2008@gmail.com [Twitter](https://twitter.com/cmuptx) [Weibo](https://w
 
 
 ## Publications
+* Ramtin Hosseini and **Pengtao Xie**. Saliency-Aware Neural Architecture Search. Neural Information Processing Systems (NeurIPS), 2022.
 * Youwei Liang, Chongjian Ge, Zhan Tong, Yibing Song, Jue Wang, and **Pengtao Xie**. Not All Patches are What
 You Need: Expediting Vision Transformers via Token Reorganizations. International Conference on Learning
 Representations (ICLR), 2022. (**Spotlight Presentation**)
