@@ -1,6 +1,6 @@
 ## Deep Generative Models (Pengtao Xie)
 
-### 由于疫情政策，老师本周不能进校。10月11日和13日课程改为线上进行。zoom ID: 330 595 3750
+### 由于疫情政策，老师本周不能进校。10月11日和13日课程改为线上进行。腾讯会议 ID: 743-943-3623  密码: 248911
 
 ### Graphical Models
 * Lecture 1: Introduction and Bayesian Network
