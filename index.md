@@ -97,6 +97,9 @@ You Need: Expediting Vision Transformers via Token Reorganizations. Internationa
 Representations (ICLR), 2022. (**Spotlight Presentation**)
 * **Pengtao Xie** and Xuefeng Du. Performance-Aware Mutual Knowledge Distillation for Improving Neural
 Architecture Search. IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2022.
+
+* Shubham Chitnis, Ramtin Hosseini, **Pengtao Xie**.  Brain Tumor Classification Based on Neural Architecture Search. Scientific Reports, Nature Portfolio, 2022.
+
 * Yijian Qin, Xin Wang, Ziwei Zhang, **Pengtao Xie**, Wenwu Zhu. Graph Neural Architecture Search Under
 Distribution Shifts. International Conference on Machine Learning (ICML), 2022. (Oral Presentation)
 * Ramtin Hosseini, **Pengtao Xie**. Image Understanding by Captioning with Differentiable Architecture Search.
