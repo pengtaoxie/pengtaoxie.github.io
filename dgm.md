@@ -1,7 +1,5 @@
 ## Deep Generative Models (Pengtao Xie)
 
-### 同学们，这周四(10月19日)我需要参加一个很重要的学术活动，这周四的课改为当天晚上8点上。课程录像会上传到群里。很抱歉临时改时间。
-
 ### Graphical Models
 * Lecture 1: Introduction and Bayesian Network
 * Lecture 2: Markov Random Field
