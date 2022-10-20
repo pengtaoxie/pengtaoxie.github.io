@@ -100,6 +100,7 @@ Architecture Search. IEEE Conference on Computer Vision and Pattern Recognition 
 * Shubham Chitnis, Ramtin Hosseini, **Pengtao Xie**.  Brain Tumor Classification Based on Neural Architecture Search. Scientific Reports, Nature Portfolio, 2022.
 * Yijian Qin, Xin Wang, Ziwei Zhang, **Pengtao Xie**, Wenwu Zhu. Graph Neural Architecture Search Under
 Distribution Shifts. International Conference on Machine Learning (ICML), 2022. (Oral Presentation)
+* Qian Li, Jianxin Li, Cheng Ji, Yiming Hei, Jiawei Sheng, Qingyun Sun, Shan Xue, Lihong Wang, **Pengtao Xie**. Type Information Utilized Event Detection via Multi-Channel GNNs in Electrical Power Systems. ACM Transactions on the Web (TWEB), 2022.
 * Ramtin Hosseini, **Pengtao Xie**. Image Understanding by Captioning with Differentiable Architecture Search.
 ACM International Conference on Multimedia (ACM MM), 2022.
 * Hongchao Fang, **Pengtao Xie**. An End-to-End Contrastive Self-Supervised Learning Framework for Language
