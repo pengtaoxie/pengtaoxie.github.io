@@ -1,6 +1,6 @@
 ## Deep Generative Models (Pengtao Xie)
 
-### 同学们，本周二的课改为本周三同一时间上。
+### 同学们，本周二(11月22日)的课改为本周三同一时间上。
 
 ### Graphical Models
 * Lecture 1: Introduction and Bayesian Network
