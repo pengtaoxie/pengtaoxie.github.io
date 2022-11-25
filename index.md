@@ -42,18 +42,35 @@ pengtaoxie2008@gmail.com [Twitter](https://twitter.com/cmuptx) [Weibo](https://w
 * 2020/5/1. I am awarded a Tencent Faculty Award. Thank you Tencent!
 
 ## Current Students
-* Gokulakrishnan Candassamy
-* Jay Gala
-* Abhibha Gupta
-* Ritvik Gupta
+
+### PhD Students
+* Han Guo
+* Ramtin Hosseini
 * Youwei Liang
-* Shreya Saha
-* Abhishek Singh (CSE)
 * Sai Somayajula
-* Pragya Srivastava
-* Xinyi Zhang
-* Tianyi Zhou
-* Victor Zhu (CSE)
+* Li Zhang
+
+### Collaborative PhD Students
+* Sang Choe
+* Mahdi Morafah
+* Ruiyi Zhang
+* Zunming Zhang
+
+### Master Students
+* Hongchao Fang
+* Yiheng He
+* Onkar Litake
+* Preyaa Patel
+* Shreya Saha
+* Abhishek Singh
+* Zeyuan Yin
+
+### Undergraduate Students
+* Shuhang Lin
+* Ritvik Gupta
+* Yuchen Shen
+* Zihan Wang
+
 
 ## Past Students
 ### Undergraduates
@@ -91,6 +108,8 @@ pengtaoxie2008@gmail.com [Twitter](https://twitter.com/cmuptx) [Weibo](https://w
 
 
 ## Publications
+* Duy Nguyen, Nguyen Hoang, Truong Mai, Cao Tri, Thanh Nguyen, Nhat Ho, Paul Swoboda, Shadi Albarqouni, **Pengtao Xie**, and Daniel Sonntag. Joint Self-Supervised Image-Volume Representation Learning with Intra-Inter Contrastive Clustering. AAAI Conference on Artificial Intelligence
+(AAAI), 2023.
 * Ramtin Hosseini and **Pengtao Xie**. Saliency-Aware Neural Architecture Search. Neural Information Processing Systems (NeurIPS), 2022.
 * Youwei Liang, Chongjian Ge, Zhan Tong, Yibing Song, Jue Wang, and **Pengtao Xie**. Not All Patches are What
 You Need: Expediting Vision Transformers via Token Reorganizations. International Conference on Learning
