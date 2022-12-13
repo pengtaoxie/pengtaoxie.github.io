@@ -1,6 +1,6 @@
 ## Deep Generative Models (Pengtao Xie)
 
-### 同学们，我12月8日需要参加一个重要会议，当日课程改期上，时间另行通知。
+### 同学们，我感染了新冠，本周的课程取消，非常抱歉。
 
 ### Graphical Models
 * Lecture 1: Introduction and Bayesian Network
