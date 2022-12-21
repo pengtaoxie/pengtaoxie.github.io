@@ -1,7 +1,5 @@
 ## Deep Generative Models (Pengtao Xie)
 
-### 同学们，我感染了新冠，本周的课程取消，非常抱歉。
-
 ### Graphical Models
 * Lecture 1: Introduction and Bayesian Network
 * Lecture 2: Markov Random Field
