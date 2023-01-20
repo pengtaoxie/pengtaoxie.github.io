@@ -53,6 +53,7 @@ pengtaoxie2008@gmail.com [Twitter](https://twitter.com/cmuptx) [Weibo](https://w
 ### Collaborative PhD Students
 * Sang Choe
 * Mahdi Morafah
+* Duy Nguyen
 * Ruiyi Zhang
 * Zunming Zhang
 
