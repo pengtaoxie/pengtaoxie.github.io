@@ -123,8 +123,7 @@ Distribution Shifts. International Conference on Machine Learning (ICML), 2022. 
 * Qian Li, Jianxin Li, Cheng Ji, Yiming Hei, Jiawei Sheng, Qingyun Sun, Shan Xue, Lihong Wang, **Pengtao Xie**. Type Information Utilized Event Detection via Multi-Channel GNNs in Electrical Power Systems. ACM Transactions on the Web (TWEB), 2022.
 * Ramtin Hosseini, **Pengtao Xie**. Image Understanding by Captioning with Differentiable Architecture Search.
 ACM International Conference on Multimedia (ACM MM), 2022.
-* Hongchao Fang, **Pengtao Xie**. An End-to-End Contrastive Self-Supervised Learning Framework for Language
-Understanding. Transactions of the Association for Computational Linguistics (TACL), 2022.
+* Hongchao Fang, **Pengtao Xie**. Contrastive Self-Supervised Learning for Language Understanding. Transactions of the Association for Computational Linguistics (TACL), 2022.
 * Abhibha Gupta, Parth Sheth, **Pengtao Xie**. Neural Architecture Search for Pneumonia Diagnosis from Chest
 X-Rays. Scientific Reports, Nature Portfolio, 2022.
 * Sai Somayajula and **Pengtao Xie**. A Multi-Level Optimization Framework for End-to-End Text Augmentation.
