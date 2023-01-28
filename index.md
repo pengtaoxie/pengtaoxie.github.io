@@ -17,7 +17,7 @@ I obtained my PhD from the Machine Learning Department, School of Computer Scien
 pengtaoxie2008@gmail.com [Twitter](https://twitter.com/cmuptx) [Weibo](https://www.weibo.com/u/1822644165?topnav=1&wvr=6&topsug=1) 
 
 
-## I am looking for highly-motivated PhD and master students to join my group. I am also looking for (remote) research interns for summer.
+## I am looking for highly-motivated PhD and master students to join my group. I am also looking for research interns for summer.
 
 ## News
 * 2023/1. Two papers are accepted by ICLR 2023, including one Notable-Top-5% paper.
