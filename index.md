@@ -93,7 +93,7 @@ pengtaoxie2008@gmail.com [Twitter](https://twitter.com/cmuptx) [Weibo](https://w
 
 
 ## Publications
-* Sang Keun Choe, Willie Neiswanger, **Pengtao Xie**\*, Eric Xing\*. Generalized Meta Learning. International Conference on Learning Representations (ICLR), 2023. (Notable-Top-5% Paper, \* Co-Corresponding Authors)
+* Sang Keun Choe, Willie Neiswanger, **Pengtao Xie**\*, Eric Xing\*. Generalized Meta Learning. International Conference on Learning Representations (ICLR), 2023. (**Notable-Top-5% Paper**, \*Co-Corresponding Authors)
 * Parth Sheth,  **Pengtao Xie**.  Improving Differentiable Neural Architecture Search by Encouraging Transferability. International Conference on Learning Representations (ICLR), 2023. 
 * Duy Nguyen, Nguyen Hoang, Truong Mai, Cao Tri, Thanh Nguyen, Nhat Ho, Paul Swoboda, Shadi Albarqouni, **Pengtao Xie**, and Daniel Sonntag. Joint Self-Supervised Image-Volume Representation Learning with Intra-Inter Contrastive Clustering. AAAI Conference on Artificial Intelligence
 (AAAI), 2023.
