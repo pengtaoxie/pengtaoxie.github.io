@@ -20,26 +20,10 @@ pengtaoxie2008@gmail.com [Twitter](https://twitter.com/cmuptx) [Weibo](https://w
 ## I am looking for highly-motivated PhD and master students to join my group. I am also looking for (remote) research interns for summer.
 
 ## News
-* Course evaluations are released. [ECE269-Winter2022](./269w22.pdf), [ECE285-Winter2022](./285w22.pdf), [ECE269-Winter2021](./269w21.pdf), [ECE285-Winter2021](./285w21.pdf)
+* 2023/1. Two papers are accepted by ICLR 2023, including one notable-top-5% paper.
+* 2023/1. I received the Best Graduate Teacher Award (presented by ECE at UCSD). 
+* 2022/4. Course evaluations are released. [ECE269-Winter2022](./269w22.pdf), [ECE285-Winter2022](./285w22.pdf), [ECE269-Winter2021](./269w21.pdf), [ECE285-Winter2021](./285w21.pdf)
 * 2020/8. My PhD thesis was selected as a finalist (top 5) for the [AMIA Doctoral Dissertation Award](https://www.amia.org/amia-doctoral-dissertation-award).
-* 2021/04/03. I am co-organizing ICML 2021 workshop ["Self-supervised Learning for Reasoning and Perception"](https://icml21ssl.github.io/).
-* 2021/04/03. I am co-organizing ICML 2021 workshop ["Interpretable Machine Learning for Healthcare"](https://sites.google.com/view/imlh2021/).
-* 2021/03/18. I will serve as an area chair for NeurIPS 2021.
-* 2020/12/23. I will serve as an area chair for ICML 2021.
-* 2020/12/11. I am co-organizing ICLR 2021 workshop ["Machine Learning for Preventing and Combating Pandemics"](https://mlpcp21.github.io/).
-* 2020/11/28. I am elected as a member of the Machine Learning for Signal Processing Technical Committee.
-* 2020/11/17. I will serve as an area chair for ICCV 2021.
-* 2020/10/29. I will serve as an area chair for NAACL 2021.
-* 2020/9/14. I am recognized as a Top Reviewer for ICML 2020.
-* 2020/8/24. I am co-organizing AAAI 2021 workshop ["Trustworthy AI for Healthcare"](https://taih20.github.io/).
-* 2020/8/19. I will serve as an area chair of CVPR 2021.
-* 2020/8/14. I am co-organizing NeurIPS 2020 workshop ["Self-Supervised Learning -- Theory and Practice"](https://sslneuips20.github.io/).
-* 2020/8/6. I am awarded Google Cloud research credits.
-* 2020/6/17. I will serve as an area chair of AAAI 2021.
-* 2020/6/17. I will serve as an area chair of IJCAI 2021.
-* 2020/6/15. I am awarded an Amazon AWS Research Award. Thank you AWS!
-* 2020/6/1. I am awarded a Tencent AI-Lab Faculty Award. Thank you Tencent AI-Lab!
-* 2020/5/1. I am awarded a Tencent Faculty Award. Thank you Tencent!
 
 ## Current Students
 
@@ -109,6 +93,8 @@ pengtaoxie2008@gmail.com [Twitter](https://twitter.com/cmuptx) [Weibo](https://w
 
 
 ## Publications
+* Sang Keun Choe, Willie Neiswanger, **Pengtao Xie\***, Eric Xing\*. Generalized Meta Learning. International Conference on Learning Representations (ICLR), 2023}. (Notable-top-5\% paper, \* Co-Corresponding Authors)
+* Parth Sheth,  **Pengtao Xie**.  Improving Differentiable Neural Architecture Search by Encouraging Transferability. International Conference on Learning Representations (ICLR), 2023. 
 * Duy Nguyen, Nguyen Hoang, Truong Mai, Cao Tri, Thanh Nguyen, Nhat Ho, Paul Swoboda, Shadi Albarqouni, **Pengtao Xie**, and Daniel Sonntag. Joint Self-Supervised Image-Volume Representation Learning with Intra-Inter Contrastive Clustering. AAAI Conference on Artificial Intelligence
 (AAAI), 2023.
 * Ramtin Hosseini and **Pengtao Xie**. Saliency-Aware Neural Architecture Search. Neural Information Processing Systems (NeurIPS), 2022.
