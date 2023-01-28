@@ -20,7 +20,7 @@ pengtaoxie2008@gmail.com [Twitter](https://twitter.com/cmuptx) [Weibo](https://w
 ## I am looking for highly-motivated PhD and master students to join my group. I am also looking for (remote) research interns for summer.
 
 ## News
-* 2023/1. Two papers are accepted by ICLR 2023, including one notable-top-5% paper.
+* 2023/1. Two papers are accepted by ICLR 2023, including one Notable-Top-5% paper.
 * 2023/1. I received the Best Graduate Teacher Award (presented by ECE at UCSD). 
 * 2022/4. Course evaluations are released. [ECE269-Winter2022](./269w22.pdf), [ECE285-Winter2022](./285w22.pdf), [ECE269-Winter2021](./269w21.pdf), [ECE285-Winter2021](./285w21.pdf)
 * 2020/8. My PhD thesis was selected as a finalist (top 5) for the [AMIA Doctoral Dissertation Award](https://www.amia.org/amia-doctoral-dissertation-award).
@@ -93,7 +93,7 @@ pengtaoxie2008@gmail.com [Twitter](https://twitter.com/cmuptx) [Weibo](https://w
 
 
 ## Publications
-* Sang Keun Choe, Willie Neiswanger, **Pengtao Xie**\*, Eric Xing\*. Generalized Meta Learning. International Conference on Learning Representations (ICLR), 2023. (Notable-top-5\% paper, \* Co-Corresponding Authors)
+* Sang Keun Choe, Willie Neiswanger, **Pengtao Xie**\*, Eric Xing\*. Generalized Meta Learning. International Conference on Learning Representations (ICLR), 2023. (Notable-Top-5\% Paper, \* Co-Corresponding Authors)
 * Parth Sheth,  **Pengtao Xie**.  Improving Differentiable Neural Architecture Search by Encouraging Transferability. International Conference on Learning Representations (ICLR), 2023. 
 * Duy Nguyen, Nguyen Hoang, Truong Mai, Cao Tri, Thanh Nguyen, Nhat Ho, Paul Swoboda, Shadi Albarqouni, **Pengtao Xie**, and Daniel Sonntag. Joint Self-Supervised Image-Volume Representation Learning with Intra-Inter Contrastive Clustering. AAAI Conference on Artificial Intelligence
 (AAAI), 2023.
