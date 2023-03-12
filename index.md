@@ -14,7 +14,7 @@ University of California San Diego
 
 I obtained my PhD from the Machine Learning Department, School of Computer Science, Carnegie Mellon University.  My research  interests mainly lie in [machine learning inspired by humans' learning skills](https://arxiv.org/abs/2012.04863) (especially classroom learning skills), such as [interleaving learning](https://arxiv.org/abs/2103.07018), [small-group learning](https://arxiv.org/abs/2012.12502), [learning by teaching](https://arxiv.org/abs/2103.07009), etc., and their applications in healthcare. 
 
-pengtaoxie2008@gmail.com [Twitter](https://twitter.com/cmuptx) [Weibo](https://www.weibo.com/u/1822644165?topnav=1&wvr=6&topsug=1) 
+Email: p1xie@eng.ucsd.edu  (My another email  pengtaoxie2008@gmail.com  is not accessible due to account recovery issues). 
 
 
 ## I am looking for highly-motivated PhD and master students to join my group. I am also looking for research interns for summer.
