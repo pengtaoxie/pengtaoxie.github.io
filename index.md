@@ -74,6 +74,7 @@ Email: p1xie@eng.ucsd.edu  (My another email  pengtaoxie2008@gmail.com  is not a
 ## Teaching
 
 * ECE285 [Deep Generative Models](./dgm.md). Course evaluations: [ECE285-Winter2022](./285w22.pdf), [ECE285-Winter2021](./285w21.pdf)
+* ECE175B [Probabilistic Reasoning and Graphical Models](./pgm.md). Spring 2023. 
 * ECE269 [Linear Algebra and Applications](./linalg.md). Course evaluations: [ECE269-Winter2022](./269w22.pdf), [ECE269-Winter2021](./269w21.pdf)
 
 <!---
