@@ -20,6 +20,7 @@ Email: p1xie@eng.ucsd.edu  (My another email  pengtaoxie2008@gmail.com  is not a
 ## I am looking for highly-motivated PhD and master students to join my group. I am also looking for research interns for summer.
 
 ## News
+* 2023/4. Three papers are accepted by ICML 2023.
 * 2023/1. Two papers are accepted by ICLR 2023, including one Notable-Top-5% paper.
 * 2023/1. I received the Best Graduate Teacher Award (presented by ECE at UCSD). 
 * 2022/4. Course evaluations are released. [ECE269-Winter2022](./269w22.pdf), [ECE285-Winter2022](./285w22.pdf), [ECE269-Winter2021](./269w21.pdf), [ECE285-Winter2021](./285w21.pdf)
@@ -94,6 +95,9 @@ Email: p1xie@eng.ucsd.edu  (My another email  pengtaoxie2008@gmail.com  is not a
 
 
 ## Publications
+* Ramtin Hosseini, Li Zhang, Bhanu Garg, **Pengtao Xie**\*. Fair and Accurate Decision Making through Group-Aware Learning. International Conference on Machine Learning (ICML), 2023.
+* **Pengtao Xie**\*. Skillearn: Develop Machine Learning Training Strategies by Drawing Inspirations from Human Learning Skills. International Conference on Machine Learning (ICML), 2023.
+* Youwei Liang, Kevin Stone, Ali Shameli, Chris Cummins, Mostafa Elhoushi, Jiadong Guo, Benoit Steiner, Xiaomeng Yang, **Pengtao Xie**, Hugh James Leather, Yuandong Tian. Learning Compiler Pass Orders using Coreset and Normalized Value Prediction. International Conference on Machine Learning (ICML), 2023. 
 * Sang Keun Choe, Willie Neiswanger, **Pengtao Xie**\*, Eric Xing\*. Generalized Meta Learning. International Conference on Learning Representations (ICLR), 2023. (**Notable-Top-5% Paper**, \*Co-Corresponding Authors)
 * Parth Sheth,  **Pengtao Xie**.  Improving Differentiable Neural Architecture Search by Encouraging Transferability. International Conference on Learning Representations (ICLR), 2023. 
 * Duy Nguyen, Nguyen Hoang, Truong Mai, Cao Tri, Thanh Nguyen, Nhat Ho, Paul Swoboda, Shadi Albarqouni, **Pengtao Xie**, and Daniel Sonntag. Joint Self-Supervised Image-Volume Representation Learning with Intra-Inter Contrastive Clustering. AAAI Conference on Artificial Intelligence
