@@ -95,8 +95,8 @@ Email: p1xie@eng.ucsd.edu  (My another email  pengtaoxie2008@gmail.com  is not a
 
 
 ## Publications
-* Ramtin Hosseini, Li Zhang, Bhanu Garg, **Pengtao Xie**\*. Fair and Accurate Decision Making through Group-Aware Learning. International Conference on Machine Learning (ICML), 2023.
-* **Pengtao Xie**\*. Skillearn: Develop Machine Learning Training Strategies by Drawing Inspirations from Human Learning Skills. International Conference on Machine Learning (ICML), 2023.
+* Ramtin Hosseini, Li Zhang, Bhanu Garg, **Pengtao Xie**. Fair and Accurate Decision Making through Group-Aware Learning. International Conference on Machine Learning (ICML), 2023.
+* **Pengtao Xie**. Skillearn: Develop Machine Learning Training Strategies by Drawing Inspirations from Human Learning Skills. International Conference on Machine Learning (ICML), 2023.
 * Youwei Liang, Kevin Stone, Ali Shameli, Chris Cummins, Mostafa Elhoushi, Jiadong Guo, Benoit Steiner, Xiaomeng Yang, **Pengtao Xie**, Hugh James Leather, Yuandong Tian. Learning Compiler Pass Orders using Coreset and Normalized Value Prediction. International Conference on Machine Learning (ICML), 2023. 
 * Sang Keun Choe, Willie Neiswanger, **Pengtao Xie**\*, Eric Xing\*. Generalized Meta Learning. International Conference on Learning Representations (ICLR), 2023. (**Notable-Top-5% Paper**, \*Co-Corresponding Authors)
 * Parth Sheth,  **Pengtao Xie**.  Improving Differentiable Neural Architecture Search by Encouraging Transferability. International Conference on Learning Representations (ICLR), 2023. 
