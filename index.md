@@ -31,18 +31,20 @@ Email: p1xie@eng.ucsd.edu  (My another email  pengtaoxie2008@gmail.com  is not a
 ## Current Students
 
 ### PhD Students
-* Han Guo
-* Ramtin Hosseini
-* Youwei Liang
-* Sai Somayajula
-* Li Zhang
+* Han Guo (from Rice U.)
+* Ramtin Hosseini (from UC Berkeley)
+* Mingjia Huo (from Peking U.）
+* Amirhosein Javadi (from Sharif U. of Technology)
+* Youwei Liang (from SCAU)
+* Xinshuang Liu (from Tsinghua U.)
+* Alireza Mohammadidoost (from Sharif U. of Technology)
+* Sai Somayajula (from IIT Hyderabad)
+* Li Zhang (from Zhejiang U.)
+* Ruiyi Zhang (from Peking U.)
 
 ### Collaborative PhD Students
 * Sang Choe
-* Mahdi Morafah
 * Duy Nguyen
-* Ruiyi Zhang
-* Zunming Zhang
 
 ### Master Students
 * Hongchao Fang
