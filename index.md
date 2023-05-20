@@ -34,10 +34,10 @@ Email: p1xie@eng.ucsd.edu  (My another email  pengtaoxie2008@gmail.com  is not a
 * Han Guo (from Rice U.)
 * Ramtin Hosseini (from UC Berkeley)
 * Mingjia Huo (from Peking U.）
-* Amirhosein Javadi (from Sharif U. of Technology)
+* Amirhosein Javadi (from Sharif U. of Tech.)
 * Youwei Liang (from SCAU)
 * Xinshuang Liu (from Tsinghua U.)
-* Alireza Mohammadidoost (from Sharif U. of Technology)
+* Alireza Mohammadidoost (from Sharif U. of Tech.)
 * Sai Somayajula (from IIT Hyderabad)
 * Li Zhang (from Zhejiang U.)
 * Ruiyi Zhang (from Peking U.)
