@@ -20,8 +20,9 @@ Email: p1xie@eng.ucsd.edu  (My another email  pengtaoxie2008@gmail.com  is not a
 ## I am looking for highly-motivated PhD and master students to join my group. I am also looking for research interns for summer.
 
 ## News
-* 2023/5. Another recent project. [ProteinChat: Towards Enabling ChatGPT-Like Capabilities on Protein 3D Structures](https://github.com/UCSD-AI4H/proteinchat)
+* 2023/5. A recent project. [ProteinChat: Towards Enabling ChatGPT-Like Capabilities on Protein 3D Structures](https://github.com/UCSD-AI4H/proteinchat)
 * 2023/5. A recent project. [DrugChat: Towards Enabling ChatGPT-Like Capabilities on Drug Molecule Graphs](https://github.com/UCSD-AI4H/drugchat)
+* 2023/5. A recent project. [XrayChat: Towards Enabling ChatGPT-Like Capabilities on Chest X-ray Images](https://github.com/UCSD-AI4H/xraychat)
 * 2023/4. Three papers are accepted by ICML 2023.
 * 2023/1. Two papers are accepted by ICLR 2023, including one Notable-Top-5% paper.
 * 2023/1. I received the Best Graduate Teacher Award (presented by ECE at UCSD). 
