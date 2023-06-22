@@ -20,7 +20,7 @@ Email: p1xie@eng.ucsd.edu  (My another email  pengtaoxie2008@gmail.com  is not a
 ## I am looking for highly-motivated PhD and master students to join my group. I am also looking for research interns for summer.
 
 ## News
-* 2022/4. Course evaluations are released. [ECE269-Winter2022](./269w22.pdf), [ECE285-Winter2022](./285w22.pdf), [ECE285-Spring2023](./285s23.pdf), [ECE175B-Spring2023](./175Bs23.pdf), [ECE269-Winter2021](./269w21.pdf), [ECE285-Winter2021](./285w21.pdf)
+* 2023/6. Course evaluations are released. [ECE269-Winter2022](./269w22.pdf), [ECE285-Winter2022](./285w22.pdf), [ECE285-Spring2023](./285s23.pdf), [ECE175B-Spring2023](./175Bs23.pdf), [ECE269-Winter2021](./269w21.pdf), [ECE285-Winter2021](./285w21.pdf)
 * 2023/5. A recent project. [ProteinChat: Towards Enabling ChatGPT-Like Capabilities on Protein 3D Structures](https://github.com/UCSD-AI4H/proteinchat)
 * 2023/5. A recent project. [DrugChat: Towards Enabling ChatGPT-Like Capabilities on Drug Molecule Graphs](https://github.com/UCSD-AI4H/drugchat)
 * 2023/5. A recent project. [XrayChat: Towards Enabling ChatGPT-Like Capabilities on Chest X-ray Images](https://github.com/UCSD-AI4H/xraychat)
