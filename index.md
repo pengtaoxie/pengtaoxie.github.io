@@ -31,14 +31,14 @@ Email: p1xie@eng.ucsd.edu  (My another email  pengtaoxie2008@gmail.com  is not a
 
 ## Current Students
 
-### PhD Students
+### PhD Students and Postdocs
+* Caitlin Aamodt (PhD from UCLA)
 * Han Guo (from CS at Rice U.)
 * Ramtin Hosseini (from ME at UC Berkeley)
 * Mingjia Huo (from CS at Peking U.）
 * Amirhosein Javadi (from EE at Sharif U. of Tech.)
 * Youwei Liang (from CS at SCAU)
 * Xinshuang Liu (from CS at Tsinghua U.)
-* Alireza Mohammadidoost (from EE at Sharif U. of Tech.)
 * Sai Somayajula (from EE at IIT Hyderabad)
 * Li Zhang (from CSE at Zhejiang U.)
 * Ruiyi Zhang (from CS at Peking U.)
