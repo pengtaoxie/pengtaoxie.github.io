@@ -44,8 +44,13 @@ Email: p1xie@eng.ucsd.edu  (My another email  pengtaoxie2008@gmail.com  is not a
 * Ruiyi Zhang (from CS at Peking U.)
 
 ### Collaborative PhD Students
-* Sang Choe
-* Duy Nguyen
+* Ding Bai (MBZUAI)
+* Sang Choe (CMU)
+* Nicholas Ho (CMU)
+* Blair Jia (UCSD)
+* Sazan Mahbub (CMU)
+* Shentong Mo (MBZUAI)
+* Duy Nguyen (University of Stuttgart)
 
 ### Master Students
 * Hongchao Fang
