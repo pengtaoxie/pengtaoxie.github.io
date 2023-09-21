@@ -113,6 +113,7 @@ Email: p1xie@eng.ucsd.edu  (My another email  pengtaoxie2008@gmail.com  is not a
 * Parth Sheth,  **Pengtao Xie**.  Improving Differentiable Neural Architecture Search by Encouraging Transferability. International Conference on Learning Representations (ICLR), 2023. 
 * Duy Nguyen, Nguyen Hoang, Truong Mai, Cao Tri, Thanh Nguyen, Nhat Ho, Paul Swoboda, Shadi Albarqouni, **Pengtao Xie**, and Daniel Sonntag. Joint Self-Supervised Image-Volume Representation Learning with Intra-Inter Contrastive Clustering. AAAI Conference on Artificial Intelligence
 (AAAI), 2023.
+* Qian Li, Jianxin Li, Cheng Ji, Yiming Hei, Jiawei Sheng, Qingyun Sun, Shan Xue, Lihong Wang, **Pengtao Xie**. Type Information Utilized Event Detection via Multi-Channel GNNs in Electrical Power Systems. ACM Transactions on the Web (TWEB), 2023.
 * Ramtin Hosseini and **Pengtao Xie**. Saliency-Aware Neural Architecture Search. Neural Information Processing Systems (NeurIPS), 2022.
 * Youwei Liang, Chongjian Ge, Zhan Tong, Yibing Song, Jue Wang, and **Pengtao Xie**. Not All Patches are What
 You Need: Expediting Vision Transformers via Token Reorganizations. International Conference on Learning
@@ -122,7 +123,6 @@ Architecture Search. IEEE Conference on Computer Vision and Pattern Recognition 
 * Shubham Chitnis, Ramtin Hosseini, **Pengtao Xie**.  Brain Tumor Classification Based on Neural Architecture Search. Scientific Reports, Nature Portfolio, 2022.
 * Yijian Qin, Xin Wang, Ziwei Zhang, **Pengtao Xie**, Wenwu Zhu. Graph Neural Architecture Search Under
 Distribution Shifts. International Conference on Machine Learning (ICML), 2022. (Oral Presentation)
-* Qian Li, Jianxin Li, Cheng Ji, Yiming Hei, Jiawei Sheng, Qingyun Sun, Shan Xue, Lihong Wang, **Pengtao Xie**. Type Information Utilized Event Detection via Multi-Channel GNNs in Electrical Power Systems. ACM Transactions on the Web (TWEB), 2022.
 * Ramtin Hosseini, **Pengtao Xie**. Image Understanding by Captioning with Differentiable Architecture Search.
 ACM International Conference on Multimedia (ACM MM), 2022.
 * Hongchao Fang, **Pengtao Xie**. Contrastive Self-Supervised Learning for Language Understanding. Transactions of the Association for Computational Linguistics (TACL), 2022.
