@@ -20,6 +20,7 @@ Email: p1xie@eng.ucsd.edu  (My another email  pengtaoxie2008@gmail.com  is not a
 ## I am looking for highly-motivated PhD and master students to join my group. I am also looking for research interns for summer.
 
 ## News
+* 2023/9. Two papers are accepted by NeurIPS 2023.
 * 2023/6. Course evaluations are released. [ECE269-Winter2022](./269w22.pdf), [ECE285-Winter2022](./285w22.pdf), [ECE285-Spring2023](./285s23.pdf), [ECE175B-Spring2023](./175Bs23.pdf), [ECE269-Winter2021](./269w21.pdf), [ECE285-Winter2021](./285w21.pdf)
 * 2023/5. A recent project. [ProteinChat: Towards Enabling ChatGPT-Like Capabilities on Protein 3D Structures](https://github.com/UCSD-AI4H/proteinchat)
 * 2023/5. A recent project. [DrugChat: Towards Enabling ChatGPT-Like Capabilities on Drug Molecule Graphs](https://github.com/UCSD-AI4H/drugchat)
@@ -105,6 +106,9 @@ Email: p1xie@eng.ucsd.edu  (My another email  pengtaoxie2008@gmail.com  is not a
 
 
 ## Publications
+* Duy Minh Ho Nguyen, Hoang Nguyen, Nghiem Tuong Diep, Tan Ngoc Pham, Tri Cao, Binh T. Nguyen, Paul Swoboda, Nhat Ho, Shadi Albarqouni, Pengtao Xie, Mathias Niepert, Daniel Sonntag. LVM-Med: Learning Large-Scale Self-Supervised Vision Models for Medical Imaging via Second-order Graph Matching. Conference on Neural Information Processing Systems (NeurIPS), 2023. 
+* Sang Keun Choe, Sanket Vaibhav Mehta, Hwijeen Ahn, Willie Neiswanger, **Pengtao Xie**, Emma Strubell, Eric Xing. 	
+Making Scalable Meta Learning Practical. Conference on Neural Information Processing Systems (NeurIPS), 2023. 
 * Ramtin Hosseini, Li Zhang, Bhanu Garg, **Pengtao Xie**. Fair and Accurate Decision Making through Group-Aware Learning. International Conference on Machine Learning (ICML), 2023.
 * **Pengtao Xie**. Skillearn: Develop Machine Learning Training Strategies by Drawing Inspirations from Human Learning Skills. International Conference on Machine Learning (ICML), 2023.
 * Youwei Liang, Kevin Stone, Ali Shameli, Chris Cummins, Mostafa Elhoushi, Jiadong Guo, Benoit Steiner, Xiaomeng Yang, **Pengtao Xie**, Hugh James Leather, Yuandong Tian. Learning Compiler Pass Orders using Coreset and Normalized Value Prediction. International Conference on Machine Learning (ICML), 2023. 
