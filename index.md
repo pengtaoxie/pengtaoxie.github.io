@@ -116,7 +116,7 @@ Making Scalable Meta Learning Practical. Conference on Neural Information Proces
 * Sang Keun Choe, Willie Neiswanger, **Pengtao Xie**\*, Eric Xing\*. Generalized Meta Learning. International Conference on Learning Representations (ICLR), 2023. (**Notable-Top-5% Paper**, \*Co-Corresponding Authors)
 * Parth Sheth,  **Pengtao Xie**.  Improving Differentiable Neural Architecture Search by Encouraging Transferability. International Conference on Learning Representations (ICLR), 2023.
 * **Pengtao Xie**, Xingchen Zhao, Xuehai He. Improve the Performance of CT-Based Pneumonia Classification via Source Data Reweighting.  Scientific Report, Nature Portfolio, 2023.
-* Zunming Zhang, Xinyu Chen, Rui Tang, Yuxuan Zhu, Han Guo, Yunjia Qu, **Pengtao Xie**, Ian Lian, Yingxiao Wang, Yu-Hwa Lo. Interpretable Unsupervised Learning Enables Accurate Clustering with High-Throughput Imaging Flow Cytometry. Scientific Reports, Nature Portfolio, 2022. 
+* Zunming Zhang, Xinyu Chen, Rui Tang, Yuxuan Zhu, Han Guo, Yunjia Qu, **Pengtao Xie**, Ian Lian, Yingxiao Wang, Yu-Hwa Lo. Interpretable Unsupervised Learning Enables Accurate Clustering with High-Throughput Imaging Flow Cytometry. Scientific Reports, Nature Portfolio, 2023. 
 * Duy Nguyen, Nguyen Hoang, Truong Mai, Cao Tri, Thanh Nguyen, Nhat Ho, Paul Swoboda, Shadi Albarqouni, **Pengtao Xie**, and Daniel Sonntag. Joint Self-Supervised Image-Volume Representation Learning with Intra-Inter Contrastive Clustering. AAAI Conference on Artificial Intelligence
 (AAAI), 2023.
 * Qian Li, Jianxin Li, Cheng Ji, Yiming Hei, Jiawei Sheng, Qingyun Sun, Shan Xue, Lihong Wang, **Pengtao Xie**. Type Information Utilized Event Detection via Multi-Channel GNNs in Electrical Power Systems. ACM Transactions on the Web (TWEB), 2023.
