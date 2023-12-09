@@ -53,6 +53,10 @@ Email: p1xie@eng.ucsd.edu  (My another email  pengtaoxie2008@gmail.com  is not a
 * Sazan Mahbub (CMU)
 * Shentong Mo (MBZUAI)
 * Duy Nguyen (University of Stuttgart)
+* Ning Sun (MBZUAI)
+* Jiayou Zhang (MBZUAI)
+* Shuxian Zou (MBZUAI)
+  
 
 ### Master Students
 * Hongchao Fang
