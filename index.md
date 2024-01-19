@@ -39,7 +39,6 @@ Email: p1xie@eng.ucsd.edu  (My another email  pengtaoxie2008@gmail.com  is not a
 * Mingjia Huo (from CS at Peking U.）
 * Amirhosein Javadi (from EE at Sharif U. of Tech.)
 * Youwei Liang (from CS at SCAU)
-* Xinshuang Liu (from CS at Tsinghua U.)
 * Sai Somayajula (from EE at IIT Hyderabad)
 * Li Zhang (from CSE at Zhejiang U.)
 * Ruiyi Zhang (from CS at Peking U.)
