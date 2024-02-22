@@ -14,7 +14,7 @@ University of California San Diego
 
 I obtained my PhD from the Machine Learning Department, School of Computer Science, Carnegie Mellon University.  My research  interests mainly lie in [machine learning inspired by humans' learning skills](https://openreview.net/attachment?id=e5qDTqs1MS&name=pdf) (especially classroom learning skills), such as [learning by self explanation](https://proceedings.neurips.cc/paper_files/paper/2022/hash/5e84e4413268b713f0d4a1b23a9dae57-Abstract-Conference.html), [small-group learning](https://openaccess.thecvf.com/content/CVPR2022/papers/Xie_Performance-Aware_Mutual_Knowledge_Distillation_for_Improving_Neural_Architecture_Search_CVPR_2022_paper.pdf), [learning by teaching](https://openreview.net/pdf?id=Tl8OmiibP99), etc., and their applications in healthcare. [Here](skillearn-outcome-3.pdf) is a summary of research outcome.
 
-Email: p1xie@eng.ucsd.edu  (My another email  pengtaoxie2008@gmail.com  is not accessible due to account recovery issues). 
+Email: p1xie@ucsd.edu (My another email p1xie@eng.ucsd.edu will no longer be used)
 
 
 ## I am looking for highly-motivated PhD and master students to join my group. I am also looking for research interns for summer.
@@ -110,6 +110,9 @@ Email: p1xie@eng.ucsd.edu  (My another email  pengtaoxie2008@gmail.com  is not a
 
 
 ## Publications
+* Sai Ashish Somayajula, Onkar Litake, Youwei Liang, Ramtin Hosseini, Shamim Nemati, David O. Wilson, Robert N. Weinreb, Atul Malhotra, **Pengtao Xie**. Improving Long COVID-Related Text Classification Based on End-to-End Domain-Adaptive Paraphrasing.  Scientific Reports, Nature Portfolio, 2024.
+* Han Guo, Ramtin Hosseini, Sai Ashish Somayajula, **Pengtao Xie**. Improving Image Classification of Gastrointestinal Endoscopy Using Curriculum Self-Supervised Learning. Scientific Reports, Nature Portfolio, 2024. 
+* **Pengtao Xie**, Xingchen Zhao, Xuehai He. Transfer Learning Based on Multi-level Optimization.    Transactions of the Association for Computational Linguistics (TACL), 2024. 
 * Duy Minh Ho Nguyen, Hoang Nguyen, Nghiem Tuong Diep, Tan Ngoc Pham, Tri Cao, Binh T. Nguyen, Paul Swoboda, Nhat Ho, Shadi Albarqouni, **Pengtao Xie**, Mathias Niepert, Daniel Sonntag. LVM-Med: Learning Large-Scale Self-Supervised Vision Models for Medical Imaging via Second-order Graph Matching. Conference on Neural Information Processing Systems (NeurIPS), 2023. 
 * Sang Keun Choe, Sanket Vaibhav Mehta, Hwijeen Ahn, Willie Neiswanger, **Pengtao Xie**, Emma Strubell, Eric Xing. 	
 Making Scalable Meta Learning Practical. Conference on Neural Information Processing Systems (NeurIPS), 2023. 
@@ -118,8 +121,6 @@ Making Scalable Meta Learning Practical. Conference on Neural Information Proces
 * Youwei Liang, Kevin Stone, Ali Shameli, Chris Cummins, Mostafa Elhoushi, Jiadong Guo, Benoit Steiner, Xiaomeng Yang, **Pengtao Xie**, Hugh James Leather, Yuandong Tian. Learning Compiler Pass Orders using Coreset and Normalized Value Prediction. International Conference on Machine Learning (ICML), 2023. 
 * Sang Keun Choe, Willie Neiswanger, **Pengtao Xie**\*, Eric Xing\*. Betty: An Automatic Differentiation Library for Multilevel Optimization. International Conference on Learning Representations (ICLR), 2023. (**Notable-Top-5% Paper**, \*Co-Corresponding Authors)
 * Parth Sheth,  **Pengtao Xie**.  Improving Differentiable Neural Architecture Search by Encouraging Transferability. International Conference on Learning Representations (ICLR), 2023.
-* Sai Ashish Somayajula, Onkar Litake, Youwei Liang, Ramtin Hosseini, Shamim Nemati, David O. Wilson, Robert N. Weinreb, Atul Malhotra, **Pengtao Xie**. Improving Long COVID-Related Text Classification Based on End-to-End Domain-Adaptive Paraphrasing.  Scientific Reports, Nature Portfolio, 2023. 
-* **Pengtao Xie**, Xingchen Zhao, Xuehai He. Transfer Learning Based on Multi-level Optimization.    Transactions of the Association for Computational Linguistics (TACL), 2023. 
 * Zunming Zhang, Xinyu Chen, Rui Tang, Yuxuan Zhu, Han Guo, Yunjia Qu, **Pengtao Xie**, Ian Lian, Yingxiao Wang, Yu-Hwa Lo. Interpretable Unsupervised Learning Enables Accurate Clustering with High-Throughput Imaging Flow Cytometry. Scientific Reports, Nature Portfolio, 2023. 
 * Duy Nguyen, Nguyen Hoang, Truong Mai, Cao Tri, Thanh Nguyen, Nhat Ho, Paul Swoboda, Shadi Albarqouni, **Pengtao Xie**, and Daniel Sonntag. Joint Self-Supervised Image-Volume Representation Learning with Intra-Inter Contrastive Clustering. AAAI Conference on Artificial Intelligence
 (AAAI), 2023.
