@@ -75,6 +75,8 @@ Email: p1xie@ucsd.edu (My another email p1xie@eng.ucsd.edu will no longer be use
 
 ## Past Students
 ### Undergraduates
+* Yifeng Wang (2023 --> PhD student at CMU ECE)
+* Wenxiao Cai (2023 --> MS student at Stanford EE)
 * Ruisi Zhang (2020 --> PhD student at UCSD ECE)
 * Matt Hong (2020 --> PhD student at UCSD CSE)
 * Jiayuan Huang (2020 --> Master student at CMU CS)
