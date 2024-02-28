@@ -112,7 +112,7 @@ Email: p1xie@ucsd.edu (My another email p1xie@eng.ucsd.edu will no longer be use
 -->
 
 ## Recent Work on Developing Multi-level Optimization Methods for Large Language Models and Foundation Models
-* Li Zhang, Youwei Liang, Pengtao Xie. BLO-SAM: Bi-level Optimization Based Overfitting-Preventing Finetuning of SAM. arXiv:2402.16338. 2024.
+* Li Zhang, Youwei Liang, Pengtao Xie. BLO-SAM: Bi-level Optimization Based Overfitting-Preventing Finetuning of the Segment Anything Model. arXiv:2402.16338. 2024.
 
 
 ## Publications
