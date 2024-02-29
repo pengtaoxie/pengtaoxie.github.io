@@ -111,8 +111,9 @@ Email: p1xie@ucsd.edu (My another email p1xie@eng.ucsd.edu will no longer be use
 [Google Scholar](https://scholar.google.com/citations?hl=en&user=cnncomYAAAAJ&view_op=list_works&sortby=pubdate)
 -->
 
-## Recent Work on Developing Multi-level Optimization Methods for Large Language Models and Foundation Models
-* Li Zhang, Youwei Liang, Pengtao Xie. BLO-SAM: Bi-level Optimization Based Overfitting-Preventing Finetuning of the Segment Anything Model. arXiv:2402.16338. 2024.
+## Recent Work on Large Language Models and Foundation Models Based on Multi-level Optimization
+* Mingjia Huo, Sai Ashish Somayajula, Youwei Liang, Ruisi Zhang, Farinaz Koushanfar, Pengtao Xie. Token-Specific Watermarking with Enhanced Detectability and Semantic Coherence for Large Language Models, 2024. arXiv:2402.18059
+* Li Zhang, Youwei Liang, Pengtao Xie. BLO-SAM: Bi-level Optimization Based Overfitting-Preventing Finetuning of the Segment Anything Model, 2024. arXiv:2402.16338
 
 
 ## Publications
