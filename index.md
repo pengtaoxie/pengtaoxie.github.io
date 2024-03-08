@@ -37,7 +37,6 @@ Email: p1xie@ucsd.edu (My another email p1xie@eng.ucsd.edu will no longer be use
 * Han Guo (from CS at Rice U.)
 * Ramtin Hosseini (from ME at UC Berkeley)
 * Mingjia Huo (from CS at Peking U.）
-* Amirhosein Javadi (from EE at Sharif U. of Tech.)
 * Youwei Liang (from CS at SCAU)
 * Sai Somayajula (from EE at IIT Hyderabad)
 * Li Zhang (from CSE at Zhejiang U.)
