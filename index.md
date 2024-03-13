@@ -112,12 +112,16 @@ Email: p1xie@ucsd.edu (My another email p1xie@eng.ucsd.edu will no longer be use
 -->
 
 ## Recent Work on Large Language Models and Foundation Models Based on Multi-level Optimization
+* Ruiyi Zhang, Rushi Qiang, Sai Ashish Somayajula, **Pengtao Xie**.  AutoLoRA: Automatically Tuning Matrix Ranks in Low-Rank Adaptation Based on Meta Learning.  Annual Conference of the North American Chapter of the Association for Computational Linguistics (NAACL), 2024. 
+* Sai Ashish Somayajula, Youwei Liang, Li Zhang, Abhishek Singh, **Pengtao Xie**. Generalizable and Stable Finetuning of Large  Language Models on Low-Resource Texts. Annual Conference of the North American Chapter of the Association for Computational Linguistics (NAACL), 2024.
 * Mingjia Huo, Sai Ashish Somayajula, Youwei Liang, Ruisi Zhang, Farinaz Koushanfar, Pengtao Xie. Token-Specific Watermarking with Enhanced Detectability and Semantic Coherence for Large Language Models, 2024. arXiv:2402.18059
 * Li Zhang, Youwei Liang, Pengtao Xie. BLO-SAM: Bi-level Optimization Based Overfitting-Preventing Finetuning of the Segment Anything Model, 2024. arXiv:2402.16338
 * Han Guo, Ramtin Hosseini, Ruiyi Zhang, Sai Ashish Somayajula, Ranak Roy Chowdhury, Rajesh K. Gupta, Pengtao Xie. Downstream Task Guided Masking Learning in Masked Autoencoders Using Multi-Level Optimization, 2024. arXiv:2402.18128
 
 
 ## Publications
+* Ruiyi Zhang, Rushi Qiang, Sai Ashish Somayajula, **Pengtao Xie**.  AutoLoRA: Automatically Tuning Matrix Ranks in Low-Rank Adaptation Based on Meta Learning.  Annual Conference of the North American Chapter of the Association for Computational Linguistics (NAACL), 2024. 
+* Sai Ashish Somayajula, Youwei Liang, Li Zhang, Abhishek Singh, **Pengtao Xie**. Generalizable and Stable Finetuning of Large  Language Models on Low-Resource Texts. Annual Conference of the North American Chapter of the Association for Computational Linguistics (NAACL), 2024.
 * Sai Ashish Somayajula, Onkar Litake, Youwei Liang, Ramtin Hosseini, Shamim Nemati, David O. Wilson, Robert N. Weinreb, Atul Malhotra, **Pengtao Xie**. Improving Long COVID-Related Text Classification Based on End-to-End Domain-Adaptive Paraphrasing.  Scientific Reports, Nature Portfolio, 2024.
 * Han Guo, Ramtin Hosseini, Sai Ashish Somayajula, **Pengtao Xie**. Improving Image Classification of Gastrointestinal Endoscopy Using Curriculum Self-Supervised Learning. Scientific Reports, Nature Portfolio, 2024. 
 * **Pengtao Xie**, Xingchen Zhao, Xuehai He. Transfer Learning Based on Multi-level Optimization.    Transactions of the Association for Computational Linguistics (TACL), 2024. 
