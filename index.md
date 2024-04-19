@@ -20,6 +20,10 @@ Email: p1xie@ucsd.edu (My another email p1xie@eng.ucsd.edu will no longer be use
 ## I am looking for highly-motivated PhD and master students to join my group. I am also looking for research interns for summer.
 
 ## News
+* 2024/4. Received the [NSF Career Award](https://urldefense.com/v3/__https://www.nsf.gov/awardsearch/showAward?AWD_ID=2339216__;!!Mih3wA!AHY1919j4GTEVvfq9BfOSwu4zL2929v6i6Y_wS5Yv57lnj53yB6uegseHT0vo3OI6zNlzwkmAQ-HWDcu$). Thanks, NSF!
+* 2024/3. Received an NIH R21 Award. Thanks, NIH!
+* 2024/3. Two papers are accepted by NAACL.
+* 2024/1. One paper is accepted by TACL.
 * 2023/9. Two papers are accepted by NeurIPS 2023.
 * 2023/6. Course evaluations are released. [ECE269-Winter2022](./269w22.pdf), [ECE285-Winter2022](./285w22.pdf), [ECE285-Spring2023](./285s23.pdf), [ECE175B-Spring2023](./175Bs23.pdf), [ECE269-Winter2021](./269w21.pdf), [ECE285-Winter2021](./285w21.pdf)
 * 2023/5. A recent project. [ProteinChat: Towards Enabling ChatGPT-Like Capabilities on Protein 3D Structures](https://github.com/UCSD-AI4H/proteinchat)
