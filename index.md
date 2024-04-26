@@ -43,35 +43,6 @@ Email: p1xie@ucsd.edu (My another email p1xie@eng.ucsd.edu will no longer be use
 * Li Zhang (from CSE at Zhejiang U.)
 * Ruiyi Zhang (from CS at Peking U.)
 
-### Collaborative PhD Students
-* Ding Bai (MBZUAI)
-* Sang Choe (CMU)
-* Nicholas Ho (CMU)
-* Blair Jia (UCSD)
-* Yingtao Luo (CMU)
-* Sazan Mahbub (CMU)
-* Shentong Mo (MBZUAI)
-* Duy Nguyen (University of Stuttgart)
-* Ning Sun (MBZUAI)
-* Jiayou Zhang (MBZUAI)
-* Shuxian Zou (MBZUAI)
-  
-
-### Master Students
-* Hongchao Fang
-* Yiheng He
-* Onkar Litake
-* Preyaa Patel
-* Shreya Saha
-* Abhishek Singh
-* Zeyuan Yin
-
-### Undergraduate Students
-* Shuhang Lin
-* Ritvik Gupta
-* Yuchen Shen
-* Zihan Wang
-
 
 ## Past Students
 ### Undergraduates
