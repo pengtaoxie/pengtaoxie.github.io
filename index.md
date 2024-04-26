@@ -9,6 +9,8 @@ Assistant Professor, Department of Electrical and Computer Engineering
 
 Affiliated Faculty, AI Group in the Department of Computer Science and Engineering
 
+Asistant Adjunct Professor, Division of Biomedical Informatics, Department of Medicine
+
 University of California San Diego
 
 
