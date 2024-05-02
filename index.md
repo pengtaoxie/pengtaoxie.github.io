@@ -22,9 +22,10 @@ Email: p1xie@ucsd.edu (My another email p1xie@eng.ucsd.edu will no longer be use
 ## I am looking for highly-motivated PhD and master students to join my group. I am also looking for research interns for summer.
 
 ## News
+* 2024/5. Three papers are accepted by ICML 2024.
 * 2024/4. Received the [NSF Career Award](https://urldefense.com/v3/__https://www.nsf.gov/awardsearch/showAward?AWD_ID=2339216__;!!Mih3wA!AHY1919j4GTEVvfq9BfOSwu4zL2929v6i6Y_wS5Yv57lnj53yB6uegseHT0vo3OI6zNlzwkmAQ-HWDcu$). Thanks, NSF!
 * 2024/3. Received an [NIH R21 Award](https://reporter.nih.gov/search/Sr-QX1izn0ijXlszb3_HaQ/project-details/10869673). Thanks, NIH!
-* 2024/3. Two papers are accepted by NAACL.
+* 2024/3. Two papers are accepted by NAACL 2024.
 * 2024/1. One paper is accepted by TACL.
 * 2023/9. Two papers are accepted by NeurIPS 2023.
 * 2023/6. Course evaluations are released. [ECE269-Winter2022](./269w22.pdf), [ECE285-Winter2022](./285w22.pdf), [ECE285-Spring2023](./285s23.pdf), [ECE175B-Spring2023](./175Bs23.pdf), [ECE269-Winter2021](./269w21.pdf), [ECE285-Winter2021](./285w21.pdf)
@@ -87,12 +88,15 @@ Email: p1xie@ucsd.edu (My another email p1xie@eng.ucsd.edu will no longer be use
 ## Recent Work on Large Language Models and Foundation Models Based on Multi-level Optimization
 * Ruiyi Zhang, Rushi Qiang, Sai Ashish Somayajula, Pengtao Xie.  AutoLoRA: Automatically Tuning Matrix Ranks in Low-Rank Adaptation Based on Meta Learning.  Annual Conference of the North American Chapter of the Association for Computational Linguistics (NAACL), 2024. 
 * Sai Ashish Somayajula, Youwei Liang, Li Zhang, Abhishek Singh, Pengtao Xie. Generalizable and Stable Finetuning of Large  Language Models on Low-Resource Texts. Annual Conference of the North American Chapter of the Association for Computational Linguistics (NAACL), 2024.
-* Mingjia Huo, Sai Ashish Somayajula, Youwei Liang, Ruisi Zhang, Farinaz Koushanfar, Pengtao Xie. Token-Specific Watermarking with Enhanced Detectability and Semantic Coherence for Large Language Models, 2024. arXiv:2402.18059
-* Li Zhang, Youwei Liang, Pengtao Xie. BLO-SAM: Bi-level Optimization Based Overfitting-Preventing Finetuning of the Segment Anything Model, 2024. arXiv:2402.16338
+* Mingjia Huo, Sai Ashish Somayajula, Youwei Liang, Ruisi Zhang, Farinaz Koushanfar, Pengtao Xie. Token-Specific Watermarking with Enhanced Detectability and Semantic Coherence for Large Language Models. International Conference on Machine Learning (ICML), 2024.
+* Li Zhang, Youwei Liang, Pengtao Xie. BLO-SAM: Bi-level Optimization Based Overfitting-Preventing Finetuning of the Segment Anything Model. International Conference on Machine Learning (ICML), 2024.
 * Han Guo, Ramtin Hosseini, Ruiyi Zhang, Sai Ashish Somayajula, Ranak Roy Chowdhury, Rajesh K. Gupta, Pengtao Xie. Downstream Task Guided Masking Learning in Masked Autoencoders Using Multi-Level Optimization, 2024. arXiv:2402.18128
 
 
 ## Publications
+* Mingjia Huo, Sai Ashish Somayajula, Youwei Liang, Ruisi Zhang, Farinaz Koushanfar, **Pengtao Xie**. Token-Specific Watermarking with Enhanced Detectability and Semantic Coherence for Large Language Models. International Conference on Machine Learning (ICML), 2024.
+* Li Zhang, Youwei Liang, **Pengtao Xie**. BLO-SAM: Bi-level Optimization Based Overfitting-Preventing Finetuning of the Segment Anything Model. International Conference on Machine Learning (ICML), 2024.
+* Jay Gala, **Pengtao Xie**. Leverage Class-Specific Accuracy to Guide Data Generation for Improving Image Classification. International Conference on Machine Learning (ICML), 2024.
 * Ruiyi Zhang, Rushi Qiang, Sai Ashish Somayajula, **Pengtao Xie**.  AutoLoRA: Automatically Tuning Matrix Ranks in Low-Rank Adaptation Based on Meta Learning.  Annual Conference of the North American Chapter of the Association for Computational Linguistics (NAACL), 2024. 
 * Sai Ashish Somayajula, Youwei Liang, Li Zhang, Abhishek Singh, **Pengtao Xie**. Generalizable and Stable Finetuning of Large  Language Models on Low-Resource Texts. Annual Conference of the North American Chapter of the Association for Computational Linguistics (NAACL), 2024.
 * Sai Ashish Somayajula, Onkar Litake, Youwei Liang, Ramtin Hosseini, Shamim Nemati, David O. Wilson, Robert N. Weinreb, Atul Malhotra, **Pengtao Xie**. Improving Long COVID-Related Text Classification Based on End-to-End Domain-Adaptive Paraphrasing.  Scientific Reports, Nature Portfolio, 2024.
