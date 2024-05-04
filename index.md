@@ -14,7 +14,7 @@ Affiliated Faculty, AI Group in the Department of Computer Science and Engineeri
 University of California San Diego
 
 
-I obtained my PhD from the Machine Learning Department, School of Computer Science, Carnegie Mellon University.  My research  interests mainly lie in [machine learning inspired by humans' learning skills](https://openreview.net/attachment?id=e5qDTqs1MS&name=pdf) (especially classroom learning skills), such as [learning by self explanation](https://proceedings.neurips.cc/paper_files/paper/2022/hash/5e84e4413268b713f0d4a1b23a9dae57-Abstract-Conference.html), [small-group learning](https://openaccess.thecvf.com/content/CVPR2022/papers/Xie_Performance-Aware_Mutual_Knowledge_Distillation_for_Improving_Neural_Architecture_Search_CVPR_2022_paper.pdf), [learning by teaching](https://openreview.net/pdf?id=Tl8OmiibP99), etc., and their applications in **Large Language Models**, **Foundation Models**, and **Healthcare**. [Here](skillearn-outcome-3.pdf) is a summary of research outcome.
+I obtained my PhD from the Machine Learning Department, School of Computer Science, Carnegie Mellon University.  My research  interests mainly lie in [machine learning inspired by humans' learning skills](https://openreview.net/attachment?id=e5qDTqs1MS&name=pdf) (especially classroom learning skills), such as [learning by self explanation](https://proceedings.neurips.cc/paper_files/paper/2022/hash/5e84e4413268b713f0d4a1b23a9dae57-Abstract-Conference.html), [small-group learning](https://openaccess.thecvf.com/content/CVPR2022/papers/Xie_Performance-Aware_Mutual_Knowledge_Distillation_for_Improving_Neural_Architecture_Search_CVPR_2022_paper.pdf), [learning by teaching](https://openreview.net/pdf?id=Tl8OmiibP99), etc., and their applications in **Large Language Models**, **Foundation Models**, and **Healthcare**. [Here](skillearn-summary.pdf) is a summary of research outcome.
 
 Email: p1xie@ucsd.edu (My another email p1xie@eng.ucsd.edu will no longer be used)
 
@@ -198,47 +198,56 @@ Chen and **Pengtao Xie**. MedDialog: Large-scale Medical Dialogue Datasets. Conf
 
 
 ## Professional Activities
-Area Chairs for:
-* ICML 2021, NeurIPS 2021, CVPR 2021, NAACL 2021, ICCV 2021, AAAI 2021, IJCAI 2021,
+
+* Associate Editor for ACM Transactions on Computing for Healthcare
+* Senior Area Chair for AAAI 2023
+* Area Chair for ICML 2021-2024, NeurIPS 2021-2023, CVPR 2021, NAACL 2021, ICCV 2021, AAAI 2021-2022, IJCAI 2021
 
 Co-organizer for:
-* NeurIPS 2020 workshop "Self-Supervised Learning -- Theory and Practice"
-* AAAI 2021 workshop "Trustworthy AI for Healthcare"
+* NeurIPS 2020-2024 workshops on "Self-Supervised Learning -- Theory and Practice"
+* ICML 2021 Workshop on “Interpretable Machine Learning for Healthcare”
+* AAAI 2021-2022 workshops on "Trustworthy AI for Healthcare"
+* ICML 2021 Workshop on “Self-Supervised Learning for Reasoning and Perception”
 * ICLR 2021 workshop "Machine Learning for Preventing and Combating Pandemics"
 
-Member for:
-* Machine Learning for Signal Processing Technical Committee
-* ACM, IEEE, AMIA
-
-Program Committee Members or Reviewers for:
-
-* Conferences: ICML (2014, 2018-2019), NIPS (2016, 2018), AISTATS (2017-2019), UAI (2018), ICLR (2019), AAAI (2019), CVPR (2016-2019), ICCV (2015, 2017), ECCV (2016, 2018), ACL (2015-2018), EMNLP (2015), KDD (2015), ECML (2016-2017), ACCV (2016), BMVC (2017)  
-* Journals: TPAMI (2018), TKDE (2015-2018), TMM (2016-2017), PLOS ONE (2017-2018), TNNLS (2015-2016, 2018), JASA (2015)  
+* Panelist for NSF (7 times) and NIH (twice)
+* Reviewer for Nature Machine Intelligence, Nature Communciations
 
 
 ##  Selected Awards and Honors
-* Finalist (top 5) for AMIA Doctoral Dissertation Award.
-* Amazon AWS Research Award.
-* Tencent AI-Lab Faculty Award.
-* Tencent Faculty Award.
-* Google Cloud Research Credits.
+
+* NSF Career Award, 2024
+* Best Graduate Teacher Award (presented by ECE at UCSD), 2023
+* ICLR Notable-Top-5% Paper, 2023
+* Global Top-100 Chinese Young Scholars in Artificial Intelligence (recognized by Baidu), 2022
+* UCSD Faculty Career Development Award, 2022.
+* Tencent Faculty Award, 2021.
+* Outstanding Reviewer for ICLR, 2021.
+* Finalist (top 5) for AMIA Doctoral Dissertation Award, 2020. 
+* Amazon AWS Research Award, 2020.
+* Tencent AI-Lab Faculty Award, 2020. 
 * Top Reviewer for ICML 2020.
 * Innovator Award, 2018 (presented by the Pittsburgh Business Times).
-* 1st Place (out of 400+ participating teams) in both Defenses and Targeted Attacks, 3rd Place in Untargeted Attacks, in NIPS Adversarial Vision Challenge, 2018.
 * Siebel Scholarship, 2014 (85 graduate students from around the world).
 
 
+##  Selected Talks
+* Generative AI and Foundation Models for Medical Image Segmentation in Ultra-Low Data Regimes
+  - May 2024, Department of Computer Science, USC
+  - Jul 2023, Computational Genomics Summer Institute, UCLA
+ 
+* ProteinChat: Towards Enabling ChatGPT-Like Capabilities on Protein 3D Structures
+  - Jun 2023, Mohamed bin Zayed University of Artificial Intelligence
+  - Jun 2023, BioMap
 
-##  Recent Invited Talks
-* Machine Learning for Medical Decision Support
-  - Nov 2019, Department of Biomedical Informatics, University of Pittsburgh
-  - Oct 2019, AI NEXTCon Developer Conference
-  - Apr 2019, New York University
-  - Apr 2019, University of Massachusetts Amherst
-  - Mar 2019,  University of California San Diego
-  - Feb 2019, Columbia University
-  - Feb 2019, Johns Hopkins University
-  - Feb 2019, University of California Los Angeles
-  - Jan 2019, University of Wisconsin-Madison
+* Self-supervised Regularization
+  - Oct 2022, Workshop on Self-Supervised Learning for Signal Decoding
+
+* ML Training Strategies Inspired by Humans’ Learning Skills
+  - Apr 2023, TILOS Seminar
+  - Apr 2023, IV CaliBaja Symposium and Workshop
+  - Sep 2022, Workshop on Composable, Automatic, and Scalable Learning.
+
+
  
 
