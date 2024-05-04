@@ -23,6 +23,7 @@ Email: p1xie@ucsd.edu (My another email p1xie@eng.ucsd.edu will no longer be use
 
 ## News
 * 2024/5. Three papers are accepted by ICML 2024.
+* 2024/5. Gave a [talk](https://viterbi.usc.edu/calendar/?event=105870#user_options) at USC. 
 * 2024/4. Received the [NSF Career Award](https://urldefense.com/v3/__https://www.nsf.gov/awardsearch/showAward?AWD_ID=2339216__;!!Mih3wA!AHY1919j4GTEVvfq9BfOSwu4zL2929v6i6Y_wS5Yv57lnj53yB6uegseHT0vo3OI6zNlzwkmAQ-HWDcu$). Thanks, NSF!
 * 2024/3. Received an [NIH R21 Award](https://reporter.nih.gov/search/Sr-QX1izn0ijXlszb3_HaQ/project-details/10869673). Thanks, NIH!
 * 2024/3. Two papers are accepted by NAACL 2024.
@@ -203,12 +204,12 @@ Chen and **Pengtao Xie**. MedDialog: Large-scale Medical Dialogue Datasets. Conf
 * Senior Area Chair for AAAI 2023
 * Area Chair for ICML 2021-2024, NeurIPS 2021-2023, CVPR 2021, NAACL 2021, ICCV 2021, AAAI 2021-2022, IJCAI 2021
 
-Co-organizer for:
-* NeurIPS 2020-2024 workshops on "Self-Supervised Learning -- Theory and Practice"
-* ICML 2021 Workshop on “Interpretable Machine Learning for Healthcare”
-* AAAI 2021-2022 workshops on "Trustworthy AI for Healthcare"
-* ICML 2021 Workshop on “Self-Supervised Learning for Reasoning and Perception”
-* ICLR 2021 workshop "Machine Learning for Preventing and Combating Pandemics"
+* Co-organizer for:
+  - NeurIPS 2020-2024 workshops on "Self-Supervised Learning -- Theory and Practice"
+  - ICML 2021 Workshop on “Interpretable Machine Learning for Healthcare”
+  - AAAI 2021-2022 workshops on "Trustworthy AI for Healthcare"
+  - ICML 2021 Workshop on “Self-Supervised Learning for Reasoning and Perception”
+  - ICLR 2021 workshop "Machine Learning for Preventing and Combating Pandemics"
 
 * Panelist for NSF (7 times) and NIH (twice)
 * Reviewer for Nature Machine Intelligence, Nature Communciations
