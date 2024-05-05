@@ -235,15 +235,14 @@ Chen and **Pengtao Xie**. MedDialog: Large-scale Medical Dialogue Datasets. Conf
 ##  Selected Talks
 * Generative AI and Foundation Models for Medical Image Segmentation in Ultra-Low Data Regimes
   - May 2024, Department of Computer Science, USC
+  - May 2024, AI for Health Webinar, UIUC
+* Sample Efficient Biomedical Image Semantic Segmentation
   - Jul 2023, Computational Genomics Summer Institute, UCLA
- 
 * ProteinChat: Towards Enabling ChatGPT-Like Capabilities on Protein 3D Structures
   - Jun 2023, Mohamed bin Zayed University of Artificial Intelligence
   - Jun 2023, BioMap
-
 * Self-supervised Regularization
   - Oct 2022, Workshop on Self-Supervised Learning for Signal Decoding
-
 * ML Training Strategies Inspired by Humans’ Learning Skills
   - Apr 2023, TILOS Seminar
   - Apr 2023, IV CaliBaja Symposium and Workshop
