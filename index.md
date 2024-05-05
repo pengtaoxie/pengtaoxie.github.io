@@ -102,7 +102,8 @@ Email: p1xie@ucsd.edu (My another email p1xie@eng.ucsd.edu will no longer be use
 * Sai Ashish Somayajula, Youwei Liang, Li Zhang, Abhishek Singh, **Pengtao Xie**. Generalizable and Stable Finetuning of Large  Language Models on Low-Resource Texts. Annual Conference of the North American Chapter of the Association for Computational Linguistics (NAACL), 2024.
 * Sai Ashish Somayajula, Onkar Litake, Youwei Liang, Ramtin Hosseini, Shamim Nemati, David O. Wilson, Robert N. Weinreb, Atul Malhotra, **Pengtao Xie**. Improving Long COVID-Related Text Classification Based on End-to-End Domain-Adaptive Paraphrasing.  Scientific Reports, Nature Portfolio, 2024.
 * Han Guo, Ramtin Hosseini, Sai Ashish Somayajula, **Pengtao Xie**. Improving Image Classification of Gastrointestinal Endoscopy Using Curriculum Self-Supervised Learning. Scientific Reports, Nature Portfolio, 2024. 
-* **Pengtao Xie**, Xingchen Zhao, Xuehai He. Transfer Learning Based on Multi-level Optimization.    Transactions of the Association for Computational Linguistics (TACL), 2024. 
+* **Pengtao Xie**, Xingchen Zhao, Xuehai He. Transfer Learning Based on Multi-level Optimization.    Transactions of the Association for Computational Linguistics (TACL), 2024.
+* Vahid Mohammadzadeh, Sasan Moghimi, Youwei Liang, Pengtao Xie, Takashi Nishida, Alireza Kamalipour, Mark Christopher, Linda Zangwill, Tara Javidi, Robert N Weinreb. Detection of Glaucoma Progression on Longitudinal Series of En Face Macular Optical Coherence Tomography Angiography Images with a Deep Learning Model. 	British Journal of Ophthalmology, 2024. 
 * Duy Minh Ho Nguyen, Hoang Nguyen, Nghiem Tuong Diep, Tan Ngoc Pham, Tri Cao, Binh T. Nguyen, Paul Swoboda, Nhat Ho, Shadi Albarqouni, **Pengtao Xie**, Mathias Niepert, Daniel Sonntag. LVM-Med: Learning Large-Scale Self-Supervised Vision Models for Medical Imaging via Second-order Graph Matching. Conference on Neural Information Processing Systems (NeurIPS), 2023. 
 * Sang Keun Choe, Sanket Vaibhav Mehta, Hwijeen Ahn, Willie Neiswanger, **Pengtao Xie**, Emma Strubell, Eric Xing. 	
 Making Scalable Meta Learning Practical. Conference on Neural Information Processing Systems (NeurIPS), 2023. 
@@ -203,14 +204,12 @@ Chen and **Pengtao Xie**. MedDialog: Large-scale Medical Dialogue Datasets. Conf
 * Associate Editor for ACM Transactions on Computing for Healthcare
 * Senior Area Chair for AAAI 2023
 * Area Chair for ICML 2021-2024, NeurIPS 2021-2023, CVPR 2021, NAACL 2021, ICCV 2021, AAAI 2021-2022, IJCAI 2021
-
 * Co-organizer for:
   - NeurIPS 2020-2024 workshops on "Self-Supervised Learning -- Theory and Practice"
   - ICML 2021 Workshop on “Interpretable Machine Learning for Healthcare”
   - AAAI 2021-2022 workshops on "Trustworthy AI for Healthcare"
   - ICML 2021 Workshop on “Self-Supervised Learning for Reasoning and Perception”
   - ICLR 2021 workshop "Machine Learning for Preventing and Combating Pandemics"
-
 * Panelist for NSF (7 times) and NIH (twice)
 * Reviewer for Nature Machine Intelligence, Nature Communciations
 
