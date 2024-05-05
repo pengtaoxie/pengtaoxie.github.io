@@ -23,7 +23,8 @@ Email: p1xie@ucsd.edu (My another email p1xie@eng.ucsd.edu will no longer be use
 
 ## News
 * 2024/5. Three papers are accepted by ICML 2024.
-* 2024/5. Gave a [talk](https://viterbi.usc.edu/calendar/?event=105870#user_options) at USC. 
+* 2024/5. Gave a [talk](https://viterbi.usc.edu/calendar/?event=105870#user_options) at USC.
+* 2024/5. Gave a talk at UIUC AI for Health Webinar.
 * 2024/4. Received the [NSF Career Award](https://urldefense.com/v3/__https://www.nsf.gov/awardsearch/showAward?AWD_ID=2339216__;!!Mih3wA!AHY1919j4GTEVvfq9BfOSwu4zL2929v6i6Y_wS5Yv57lnj53yB6uegseHT0vo3OI6zNlzwkmAQ-HWDcu$). Thanks, NSF!
 * 2024/3. Received an [NIH R21 Award](https://reporter.nih.gov/search/Sr-QX1izn0ijXlszb3_HaQ/project-details/10869673). Thanks, NIH!
 * 2024/3. Two papers are accepted by NAACL 2024.
