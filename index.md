@@ -22,6 +22,7 @@ Email: p1xie@ucsd.edu (My another email p1xie@eng.ucsd.edu will no longer be use
 ## I am looking for highly-motivated PhD and master students to join my group. I am also looking for research interns for summer.
 
 ## News
+* 2024/5. Serve as Area Chair for NeurIPS 2024.
 * 2024/5. Three papers are accepted by ICML 2024.
 * 2024/5. Gave a [talk](https://viterbi.usc.edu/calendar/?event=105870#user_options) at USC.
 * 2024/5. Gave a talk at UIUC AI for Health Webinar.
@@ -29,6 +30,7 @@ Email: p1xie@ucsd.edu (My another email p1xie@eng.ucsd.edu will no longer be use
 * 2024/3. Received an [NIH R21 Award](https://reporter.nih.gov/search/Sr-QX1izn0ijXlszb3_HaQ/project-details/10869673). Thanks, NIH!
 * 2024/3. Two papers are accepted by NAACL 2024.
 * 2024/1. One paper is accepted by TACL.
+* 2024/1. Serve as Area Chair for ICML 2024.
 * 2023/9. Two papers are accepted by NeurIPS 2023.
 * 2023/6. Course evaluations are released. [ECE269-Winter2022](./269w22.pdf), [ECE285-Winter2022](./285w22.pdf), [ECE285-Spring2023](./285s23.pdf), [ECE175B-Spring2023](./175Bs23.pdf), [ECE269-Winter2021](./269w21.pdf), [ECE285-Winter2021](./285w21.pdf)
 * 2023/4. Three papers are accepted by ICML 2023.
@@ -204,7 +206,7 @@ Chen and **Pengtao Xie**. MedDialog: Large-scale Medical Dialogue Datasets. Conf
 
 * Associate Editor for ACM Transactions on Computing for Healthcare
 * Senior Area Chair for AAAI 2023
-* Area Chair for ICML 2021-2024, NeurIPS 2021-2023, CVPR 2021, NAACL 2021, ICCV 2021, AAAI 2021-2022, IJCAI 2021
+* Area Chair for ICML 2021-2024, NeurIPS 2021-2024, CVPR 2021, NAACL 2021, ICCV 2021, AAAI 2021-2022, IJCAI 2021
 * Co-organizer for:
   - NeurIPS 2020-2024 workshops on "Self-Supervised Learning -- Theory and Practice"
   - ICML 2021 Workshop on “Interpretable Machine Learning for Healthcare”
