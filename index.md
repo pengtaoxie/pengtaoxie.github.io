@@ -42,7 +42,7 @@ Email: p1xie@ucsd.edu (My another email p1xie@eng.ucsd.edu will no longer be use
 ## Current Students
 
 ### PhD Students and Postdocs
-* [Caitlin Aamodt](https://scholar.google.com/citations?user=EHGYFwYAAAAJ&hl=en) (PhD from UCLA, co-advised with Prof. Nathan Lewis)
+* [Caitlin Aamodt](https://caitlinaamodt.wordpress.com/) (PhD from UCLA, co-advised with Prof. Nathan Lewis)
 * [Han Guo](https://scholar.google.com/citations?user=O03kRdYAAAAJ&hl=en) (from CS at Rice U.)
 * [Ramtin Hosseini](https://scholar.google.com/citations?user=zoq2p34AAAAJ&hl=en) (from ME at UC Berkeley)
 * [Mingjia Huo](https://mignonjia.github.io/) (from CS at Peking U.）
