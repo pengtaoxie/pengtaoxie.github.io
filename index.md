@@ -22,6 +22,7 @@ Email: p1xie@ucsd.edu (My another email p1xie@eng.ucsd.edu will no longer be use
 ## I am looking for highly-motivated PhD and master students to join my group. I am also looking for research interns for summer.
 
 ## News
+* 2024/5. Proud that my first PhD student Ramtin Hosseini successfully passed his thesis defense. Congratulations, Dr. Hosseini! 
 * 2024/5. Serve as Area Chair for NeurIPS 2024.
 * 2024/5. Three papers are accepted by ICML 2024.
 * 2024/5. Gave a [talk](https://viterbi.usc.edu/calendar/?event=105870#user_options) at USC.
