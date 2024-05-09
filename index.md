@@ -42,14 +42,14 @@ Email: p1xie@ucsd.edu (My another email p1xie@eng.ucsd.edu will no longer be use
 ## Current Students
 
 ### PhD Students and Postdocs
-* Caitlin Aamodt (PhD from UCLA)
-* Han Guo (from CS at Rice U.)
-* Ramtin Hosseini (from ME at UC Berkeley)
-* Mingjia Huo (from CS at Peking U.）
-* Youwei Liang (from CS at SCAU)
-* Sai Somayajula (from EE at IIT Hyderabad)
-* Li Zhang (from CSE at Zhejiang U.)
-* Ruiyi Zhang (from CS at Peking U.)
+* [Caitlin Aamodt](https://scholar.google.com/citations?user=EHGYFwYAAAAJ&hl=en) (PhD from UCLA, co-advised with Prof. Nathan Lewis)
+* [Han Guo](https://scholar.google.com/citations?user=O03kRdYAAAAJ&hl=en) (from CS at Rice U.)
+* [Ramtin Hosseini](https://scholar.google.com/citations?user=zoq2p34AAAAJ&hl=en) (from ME at UC Berkeley)
+* [Mingjia Huo](https://mignonjia.github.io/) (from CS at Peking U.）
+* [Youwei Liang](https://youweiliang.github.io/) (from CS at SCAU)
+* [Sai Somayajula](https://sai-ashish.github.io/website/) (from EE at IIT Hyderabad)
+* [Li Zhang](https://scholar.google.com/citations?user=RRzZk4YAAAAJ&hl=en) (from CSE at Zhejiang U.)
+* [Ruiyi Zhang](https://scholar.google.com/citations?user=D7EXgU0AAAAJ&hl=en) (from CS at Peking U.)
 
 
 ## Past Students
