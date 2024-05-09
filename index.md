@@ -45,7 +45,7 @@ Email: p1xie@ucsd.edu (My another email p1xie@eng.ucsd.edu will no longer be use
 * [Caitlin Aamodt](https://caitlinaamodt.wordpress.com/) (Co-advised with Prof. Nathan Lewis)
 * [Han Guo](https://scholar.google.com/citations?user=O03kRdYAAAAJ&hl=en) 
 * [Ramtin Hosseini](https://scholar.google.com/citations?user=zoq2p34AAAAJ&hl=en) 
-* [Mingjia Huo](https://mignonjia.github.io/) 
+* [Mingjia Huo](https://mignonjia.github.io/) (Co-advised with Prof. Shamim Nemati)
 * [Youwei Liang](https://youweiliang.github.io/) 
 * [Sai Somayajula](https://sai-ashish.github.io/website/) 
 * [Li Zhang](https://scholar.google.com/citations?user=RRzZk4YAAAAJ&hl=en) 
