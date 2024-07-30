@@ -42,7 +42,6 @@ Email: p1xie@ucsd.edu (My another email p1xie@eng.ucsd.edu will no longer be use
 ## Current Students
 
 ### PhD Students and Postdocs
-* [Caitlin Aamodt](https://caitlinaamodt.wordpress.com/) (Co-advised with Prof. Nathan Lewis)
 * [Han Guo](https://scholar.google.com/citations?user=O03kRdYAAAAJ&hl=en) 
 * [Ramtin Hosseini](https://scholar.google.com/citations?user=zoq2p34AAAAJ&hl=en) 
 * [Mingjia Huo](https://mignonjia.github.io/) (Co-advised with Prof. Shamim Nemati)
@@ -107,7 +106,8 @@ Email: p1xie@ucsd.edu (My another email p1xie@eng.ucsd.edu will no longer be use
 * Sai Ashish Somayajula, Onkar Litake, Youwei Liang, Ramtin Hosseini, Shamim Nemati, David O. Wilson, Robert N. Weinreb, Atul Malhotra, **Pengtao Xie**. Improving Long COVID-Related Text Classification Based on End-to-End Domain-Adaptive Paraphrasing.  Scientific Reports, Nature Portfolio, 2024.
 * Han Guo, Ramtin Hosseini, Sai Ashish Somayajula, **Pengtao Xie**. Improving Image Classification of Gastrointestinal Endoscopy Using Curriculum Self-Supervised Learning. Scientific Reports, Nature Portfolio, 2024. 
 * **Pengtao Xie**, Xingchen Zhao, Xuehai He. Transfer Learning Based on Multi-level Optimization.    Transactions of the Association for Computational Linguistics (TACL), 2024.
-* Vahid Mohammadzadeh, Sasan Moghimi, Youwei Liang, **Pengtao Xie**, Takashi Nishida, Alireza Kamalipour, Mark Christopher, Linda Zangwill, Tara Javidi, Robert N Weinreb. Detection of Glaucoma Progression on Longitudinal Series of En Face Macular Optical Coherence Tomography Angiography Images with a Deep Learning Model. 	British Journal of Ophthalmology, 2024. 
+* Haochen Cui, Yuchong Zhao, Si Xiong, Yunlu Feng, Peng Li, Ying Lv, Qian Chen, Ronghua Wang, **Pengtao Xie**, Zhenlong Luo, Sideng Cheng, Wujun Wang, Xing Li, Dingkun Xiong, Xinyuan Cao, Shuya Bai, Aiming Yang, Bin Cheng. Diagnosing Solid Lesions in the Pancreas with Multimodal Artificial Intelligence: A Randomized Crossover Trial. JAMA Network Open, 2024.
+* Vahid Mohammadzadeh, Sasan Moghimi, Youwei Liang, **Pengtao Xie**, Takashi Nishida, Alireza Kamalipour, Mark Christopher, Linda Zangwill, Tara Javidi, Robert N Weinreb. Detection of Glaucoma Progression on Longitudinal Series of En Face Macular Optical Coherence Tomography Angiography Images with a Deep Learning Model. 	British Journal of Ophthalmology, 2024.
 * Duy Minh Ho Nguyen, Hoang Nguyen, Nghiem Tuong Diep, Tan Ngoc Pham, Tri Cao, Binh T. Nguyen, Paul Swoboda, Nhat Ho, Shadi Albarqouni, **Pengtao Xie**, Mathias Niepert, Daniel Sonntag. LVM-Med: Learning Large-Scale Self-Supervised Vision Models for Medical Imaging via Second-order Graph Matching. Conference on Neural Information Processing Systems (NeurIPS), 2023. 
 * Sang Keun Choe, Sanket Vaibhav Mehta, Hwijeen Ahn, Willie Neiswanger, **Pengtao Xie**, Emma Strubell, Eric Xing. 	
 Making Scalable Meta Learning Practical. Conference on Neural Information Processing Systems (NeurIPS), 2023. 
