@@ -22,7 +22,9 @@ Email: p1xie@ucsd.edu (My another email p1xie@eng.ucsd.edu will no longer be use
 ## I am looking for highly-motivated PhD and master students to join my group. I am also looking for research interns for summer.
 
 ## News
-
+* 2024/8. Preprint: [Generative AI Enables Medical Image Segmentation in Ultra Low-Data Regimes](https://www.medrxiv.org/content/10.1101/2024.08.23.24312461v1)
+* 2024/8. Preprint: [Multi-Modal Large Language Model Enables Protein Function Prediction](https://www.biorxiv.org/content/10.1101/2024.08.19.608729v1) 
+* 2024/6. Two papers are accepted by JAMA Network Open and British Journal of Ophthalmology.
 * 2024/5. Serve as Area Chair for NeurIPS 2024.
 * 2024/5. Three papers are accepted by ICML 2024.
 * 2024/5. Gave a [talk](https://viterbi.usc.edu/calendar/?event=105870#user_options) at USC.
