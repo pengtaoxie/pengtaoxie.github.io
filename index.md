@@ -5,11 +5,13 @@
 
 
 
-Assistant Professor, Department of Electrical and Computer Engineering
+Assistant Professor, [Department of Electrical and Computer Engineering](https://ece.ucsd.edu/)
 
-Assistant Adjunct Professor, Division of Biomedical Informatics, Department of Medicine
+Assistant Adjunct Professor, [Division of Biomedical Informatics, Department of Medicine](https://dbmi.ucsd.edu/)
 
-Affiliated Faculty, AI Group in the Department of Computer Science and Engineering
+Affiliated Faculty, [AI Group in the Department of Computer Science and Engineering](https://ai.ucsd.edu/)
+
+Affiliated Faculty, [Center for Machine-Intelligence, Computing and Security](https://mics.ucsd.edu/)
 
 University of California San Diego
 
