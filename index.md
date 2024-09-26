@@ -24,6 +24,7 @@ Email: p1xie@ucsd.edu (My another email p1xie@eng.ucsd.edu will no longer be use
 ## I am looking for highly-motivated PhD and master students to join my group. I am also looking for research interns for summer.
 
 ## News
+* 2024/9. One paper is accepted by NeurIPS.
 * 2024/6. Two papers are accepted by JAMA Network Open and British Journal of Ophthalmology.
 * 2024/5. Serve as Area Chair for NeurIPS 2024.
 * 2024/5. Three papers are accepted by ICML 2024.
@@ -100,6 +101,7 @@ Email: p1xie@ucsd.edu (My another email p1xie@eng.ucsd.edu will no longer be use
 
 
 ## Publications
+* Hoai-Chau Tran, Duy Minh Ho Nguyen, Manh-Duy Nguyen, TrungTin Nguyen, Ngan Hoang Le, **Pengtao Xie**, Daniel Sonntag, James Zou, Binh T. Nguyen, Mathias Niepert. Accelerating Transformers with Spectrum-Preserving Token Merging. Conference on Neural Information Processing Systems (NeurIPS), 2024.
 * Mingjia Huo, Sai Ashish Somayajula, Youwei Liang, Ruisi Zhang, Farinaz Koushanfar, **Pengtao Xie**. Token-Specific Watermarking with Enhanced Detectability and Semantic Coherence for Large Language Models. International Conference on Machine Learning (ICML), 2024.
 * Li Zhang, Youwei Liang, **Pengtao Xie**. BLO-SAM: Bi-level Optimization Based Overfitting-Preventing Finetuning of the Segment Anything Model. International Conference on Machine Learning (ICML), 2024.
 * Jay Gala, **Pengtao Xie**. Leverage Class-Specific Accuracy to Guide Data Generation for Improving Image Classification. International Conference on Machine Learning (ICML), 2024.
