@@ -54,7 +54,7 @@ Email: p1xie@ucsd.edu
 * [Ruiyi Zhang](https://scholar.google.com/citations?user=D7EXgU0AAAAJ&hl=en)
 
 ### Alumni
-* [Ramtin Hosseini](https://scholar.google.com/citations?user=zoq2p34AAAAJ&hl=en)(2024, current: co-founder and CEO of Xzero Inc.)
+* [Ramtin Hosseini](https://scholar.google.com/citations?user=zoq2p34AAAAJ&hl=en) (2024, current: co-founder and CEO of Xzero Inc.)
 
 
 
