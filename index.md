@@ -16,12 +16,12 @@ Affiliated Faculty, [Center for Machine-Intelligence, Computing and Security](ht
 University of California San Diego
 
 
-I obtained my PhD from the Machine Learning Department, School of Computer Science, Carnegie Mellon University.  My research  interests mainly lie in [machine learning inspired by humans' learning skills](https://openreview.net/attachment?id=e5qDTqs1MS&name=pdf) (especially classroom learning skills), such as [learning by self explanation](https://proceedings.neurips.cc/paper_files/paper/2022/hash/5e84e4413268b713f0d4a1b23a9dae57-Abstract-Conference.html), [small-group learning](https://openaccess.thecvf.com/content/CVPR2022/papers/Xie_Performance-Aware_Mutual_Knowledge_Distillation_for_Improving_Neural_Architecture_Search_CVPR_2022_paper.pdf), [learning by teaching](https://openreview.net/pdf?id=Tl8OmiibP99), etc., and their applications in **Large Language Models**, **Foundation Models**, and **Healthcare**. [Here](outcome.pdf) is a summary of research outcome.
+I obtained my PhD from the Machine Learning Department, School of Computer Science, Carnegie Mellon University.  My research  interests mainly lie in [machine learning inspired by humans' learning skills](https://openreview.net/attachment?id=e5qDTqs1MS&name=pdf) (especially classroom learning skills), such as [learning by self explanation](https://proceedings.neurips.cc/paper_files/paper/2022/hash/5e84e4413268b713f0d4a1b23a9dae57-Abstract-Conference.html), [small-group learning](https://openaccess.thecvf.com/content/CVPR2022/papers/Xie_Performance-Aware_Mutual_Knowledge_Distillation_for_Improving_Neural_Architecture_Search_CVPR_2022_paper.pdf), [learning by teaching](https://openreview.net/pdf?id=Tl8OmiibP99), etc., and their applications in **Large Language Models**, **Foundation Models**, **Healthcare**, and **Biomedicine**. [Here](outcome.pdf) is a summary of research outcome. Our research is supported by NSF Career Award, NIH R21 Award, NSF Smart and Connected Health Award, etc.
 
-Email: p1xie@ucsd.edu (My another email p1xie@eng.ucsd.edu will no longer be used)
+Email: p1xie@ucsd.edu
 
 
-## I am looking for highly-motivated PhD and master students to join my group. I am also looking for research interns for summer.
+## I am looking for highly-motivated PhD and master students to join my group. I am also looking for research interns.
 
 ## News
 * 2024/9. One paper is accepted by NeurIPS.
@@ -54,43 +54,7 @@ Email: p1xie@ucsd.edu (My another email p1xie@eng.ucsd.edu will no longer be use
 * [Ruiyi Zhang](https://scholar.google.com/citations?user=D7EXgU0AAAAJ&hl=en)
 
 
-## Past Students
-### Undergraduates
-* Yifeng Wang (2023 --> PhD student at CMU ECE)
-* Wenxiao Cai (2023 --> MS student at Stanford EE)
-* Zhihao Zhan (2022 --> PhD student at Mila)
-* Ruisi Zhang (2020 --> PhD student at UCSD ECE)
-* Matt Hong (2020 --> PhD student at UCSD CSE)
-* Jiayuan Huang (2020 --> Master student at CMU CS)
-* Jiaqi Zeng (2020 --> Master student at CMU CS)
-* Meng Zhou (2020 --> Master student at CMU CS)
-* Yuhong Chen (2020 --> Master student at CMU INI)
-* Yue Yang (2020 --> Master student at Georgia Tech CS)
 
-### Master Students
-* Jiachen Li (2020 --> PhD student at UCSB)
-* Xuehai He (2020 --> PhD student at UCSC)
-
-## Teaching
-
-* ECE285 [Deep Generative Models](./dgm.md). Course evaluations: [ECE285-Winter2022](./285w22.pdf), [ECE285-Winter2023](./285s23.pdf), [ECE285-Winter2021](./285w21.pdf)
-* ECE175B [Probabilistic Reasoning and Graphical Models](./pgm.md). Spring 2023. Course evaluations: [ECE175B-Spring2023](./175Bs23.pdf)
-* ECE269 [Linear Algebra and Applications](./linalg.md). Course evaluations: [ECE269-Winter2022](./269w22.pdf), [ECE269-Winter2021](./269w21.pdf)
-
-<!---
-## Recent Works on Machine Learning Inspired by Humans' Learning Skills
-* **Pengtao Xie**, Xuefeng Du, Hao Ban. [Skillearn: Machine Learning Inspired by Humans' Learning Skills](https://arxiv.org/abs/2012.04863). arXiv:2012.04863 (2020).
-* Xuefeng Du, **Pengtao Xie**. [Learning by Passing Tests, with Application to Neural Architecture Search](https://arxiv.org/abs/2011.15102). arXiv:2011.15102 (2020).
-* Ramtin Hosseini, **Pengtao Xie**. [Learning by Self-Explanation, with Application to Neural Architecture Search](https://arxiv.org/abs/2012.12899). arXiv:2012.12899 (2020).
-* Xuefeng Du, **Pengtao Xie**. [Small-Group Learning, with Application to Neural Architecture Search](https://arxiv.org/abs/2012.12502). arXiv:2012.12502 (2020).
-* Parth Sheth, **Pengtao Xie**. [Learning by Teaching, with Application to Neural Architecture Search](https://www.techrxiv.org/articles/preprint/Learning_by_Teaching_with_Application_to_Neural_Architecture_Search/13489206/1). TechRxiv (2020).
-* Xingchen Zhao, **Pengtao Xie**. [Learning by Ignoring](https://arxiv.org/abs/2012.14288). arXiv:2012.14288 (2020).
-* Hao Ban, **Pengtao Xie**. [Interleaving Learning](https://arxiv.org/pdf/2012.04863.pdf#page=28). (2020).
-
-
-## Publications Since 2020
-[Google Scholar](https://scholar.google.com/citations?hl=en&user=cnncomYAAAAJ&view_op=list_works&sortby=pubdate)
--->
 
 ## Recent Work on Large Language Models and Foundation Models Based on Multi-level Optimization
 * Mingjia Huo, Sai Ashish Somayajula, Youwei Liang, Ruisi Zhang, Farinaz Koushanfar, Pengtao Xie. Token-Specific Watermarking with Enhanced Detectability and Semantic Coherence for Large Language Models. International Conference on Machine Learning (ICML), 2024.
@@ -207,19 +171,28 @@ Chen and **Pengtao Xie**. MedDialog: Large-scale Medical Dialogue Datasets. Conf
 * **P.Xie** and E.P.Xing. Integrating Document Clustering and Topic Modeling. Proceedings of the 29th International Conference on Uncertainty in Artificial Intelligence **(UAI 2013)**.
 
 
-## Professional Activities
 
-* Associate Editor for ACM Transactions on Computing for Healthcare
-* Senior Area Chair for AAAI 2023
-* Area Chair for ICML 2021-2024, NeurIPS 2021-2024, CVPR 2021, NAACL 2021, ICCV 2021, AAAI 2021-2022, IJCAI 2021
-* Co-organizer for:
-  - NeurIPS 2020-2024 workshops on "Self-Supervised Learning -- Theory and Practice"
-  - ICML 2021 Workshop on “Interpretable Machine Learning for Healthcare”
-  - AAAI 2021-2022 workshops on "Trustworthy AI for Healthcare"
-  - ICML 2021 Workshop on “Self-Supervised Learning for Reasoning and Perception”
-  - ICLR 2021 workshop "Machine Learning for Preventing and Combating Pandemics"
-* Panelist for NSF (7 times) and NIH (twice)
-* Reviewer for Nature Machine Intelligence, Nature Communciations
+
+## Teaching
+
+* ECE285 [Deep Generative Models](./dgm.md). Course evaluations: [ECE285-Winter2022](./285w22.pdf), [ECE285-Winter2023](./285s23.pdf), [ECE285-Winter2021](./285w21.pdf)
+* ECE175B [Probabilistic Reasoning and Graphical Models](./pgm.md). Spring 2023. Course evaluations: [ECE175B-Spring2023](./175Bs23.pdf)
+* ECE269 [Linear Algebra and Applications](./linalg.md). Course evaluations: [ECE269-Winter2022](./269w22.pdf), [ECE269-Winter2021](./269w21.pdf)
+
+<!---
+## Recent Works on Machine Learning Inspired by Humans' Learning Skills
+* **Pengtao Xie**, Xuefeng Du, Hao Ban. [Skillearn: Machine Learning Inspired by Humans' Learning Skills](https://arxiv.org/abs/2012.04863). arXiv:2012.04863 (2020).
+* Xuefeng Du, **Pengtao Xie**. [Learning by Passing Tests, with Application to Neural Architecture Search](https://arxiv.org/abs/2011.15102). arXiv:2011.15102 (2020).
+* Ramtin Hosseini, **Pengtao Xie**. [Learning by Self-Explanation, with Application to Neural Architecture Search](https://arxiv.org/abs/2012.12899). arXiv:2012.12899 (2020).
+* Xuefeng Du, **Pengtao Xie**. [Small-Group Learning, with Application to Neural Architecture Search](https://arxiv.org/abs/2012.12502). arXiv:2012.12502 (2020).
+* Parth Sheth, **Pengtao Xie**. [Learning by Teaching, with Application to Neural Architecture Search](https://www.techrxiv.org/articles/preprint/Learning_by_Teaching_with_Application_to_Neural_Architecture_Search/13489206/1). TechRxiv (2020).
+* Xingchen Zhao, **Pengtao Xie**. [Learning by Ignoring](https://arxiv.org/abs/2012.14288). arXiv:2012.14288 (2020).
+* Hao Ban, **Pengtao Xie**. [Interleaving Learning](https://arxiv.org/pdf/2012.04863.pdf#page=28). (2020).
+
+
+## Publications Since 2020
+[Google Scholar](https://scholar.google.com/citations?hl=en&user=cnncomYAAAAJ&view_op=list_works&sortby=pubdate)
+-->
 
 
 ##  Selected Awards and Honors
@@ -236,7 +209,40 @@ Chen and **Pengtao Xie**. MedDialog: Large-scale Medical Dialogue Datasets. Conf
 * Tencent AI-Lab Faculty Award, 2020. 
 * Top Reviewer for ICML 2020.
 * Innovator Award, 2018 (presented by the Pittsburgh Business Times).
-* Siebel Scholarship, 2014 (85 graduate students from around the world).
+* Siebel Scholarship, 2014 (85 graduate students from around the world). 
+
+## Past Students
+### Undergraduates
+* Yifeng Wang (2023 --> PhD student at CMU ECE)
+* Wenxiao Cai (2023 --> MS student at Stanford EE)
+* Zhihao Zhan (2022 --> PhD student at Mila)
+* Ruisi Zhang (2020 --> PhD student at UCSD ECE)
+* Matt Hong (2020 --> PhD student at UCSD CSE)
+* Jiayuan Huang (2020 --> Master student at CMU CS)
+* Jiaqi Zeng (2020 --> Master student at CMU CS)
+* Meng Zhou (2020 --> Master student at CMU CS)
+* Yuhong Chen (2020 --> Master student at CMU INI)
+* Yue Yang (2020 --> Master student at Georgia Tech CS)
+
+### Master Students
+* Jiachen Li (2020 --> PhD student at UCSB)
+* Xuehai He (2020 --> PhD student at UCSC)
+
+## Professional Activities
+
+* Associate Editor for ACM Transactions on Computing for Healthcare
+* Senior Area Chair for AAAI 2023
+* Area Chair for ICML 2021-2024, NeurIPS 2021-2024, CVPR 2021, NAACL 2021, ICCV 2021, AAAI 2021-2022, IJCAI 2021
+* Co-organizer for:
+  - NeurIPS 2020-2024 workshops on "Self-Supervised Learning -- Theory and Practice"
+  - ICML 2021 Workshop on “Interpretable Machine Learning for Healthcare”
+  - AAAI 2021-2022 workshops on "Trustworthy AI for Healthcare"
+  - ICML 2021 Workshop on “Self-Supervised Learning for Reasoning and Perception”
+  - ICLR 2021 workshop "Machine Learning for Preventing and Combating Pandemics"
+* Panelist for NSF (7 times) and NIH (twice)
+* Reviewer for Nature Machine Intelligence, Nature Communciations
+
+
 
 
 ##  Selected Talks
