@@ -42,9 +42,9 @@ Email: p1xie@ucsd.edu
 * 2023/1. I received the Best Graduate Teacher Award (presented by ECE at UCSD). 
 * 2020/8. My PhD thesis was selected as a finalist (top 5) for the [AMIA Doctoral Dissertation Award](https://www.amia.org/amia-doctoral-dissertation-award).
 
-## Current Students
 
-### PhD Students and Postdocs
+
+## PhD Students
 * [Han Guo](https://scholar.google.com/citations?user=O03kRdYAAAAJ&hl=en) 
 * [Ramtin Hosseini](https://scholar.google.com/citations?user=zoq2p34AAAAJ&hl=en) 
 * [Mingjia Huo](https://mignonjia.github.io/) (Co-advised with Prof. Shamim Nemati)
