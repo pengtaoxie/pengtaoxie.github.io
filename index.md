@@ -45,13 +45,16 @@ Email: p1xie@ucsd.edu
 
 
 ## PhD Students
+* [Qi Cao](https://scholar.google.com/citations?user=46U_bhgAAAAJ&hl=en)
 * [Han Guo](https://scholar.google.com/citations?user=O03kRdYAAAAJ&hl=en) 
-* [Ramtin Hosseini](https://scholar.google.com/citations?user=zoq2p34AAAAJ&hl=en) 
 * [Mingjia Huo](https://mignonjia.github.io/) (Co-advised with Prof. Shamim Nemati)
 * [Youwei Liang](https://youweiliang.github.io/) 
 * [Sai Somayajula](https://sai-ashish.github.io/website/) 
 * [Li Zhang](https://scholar.google.com/citations?user=RRzZk4YAAAAJ&hl=en) 
 * [Ruiyi Zhang](https://scholar.google.com/citations?user=D7EXgU0AAAAJ&hl=en)
+
+### Alumni
+* [Ramtin Hosseini](https://scholar.google.com/citations?user=zoq2p34AAAAJ&hl=en)(2024, current: co-founder and CEO of Xzero Inc.)
 
 
 
