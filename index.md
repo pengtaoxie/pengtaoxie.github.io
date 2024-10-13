@@ -44,7 +44,7 @@ Email: p1xie@ucsd.edu
 
 
 
-## PhD Students
+## Current PhD Students
 * [Qi Cao](https://scholar.google.com/citations?user=46U_bhgAAAAJ&hl=en)
 * [Han Guo](https://scholar.google.com/citations?user=O03kRdYAAAAJ&hl=en) 
 * [Mingjia Huo](https://mignonjia.github.io/) (Co-advised with Prof. Shamim Nemati)
@@ -53,18 +53,16 @@ Email: p1xie@ucsd.edu
 * [Li Zhang](https://scholar.google.com/citations?user=RRzZk4YAAAAJ&hl=en) 
 * [Ruiyi Zhang](https://scholar.google.com/citations?user=D7EXgU0AAAAJ&hl=en)
 
-### Alumni
+### PhD Alumni
 * [Ramtin Hosseini](https://scholar.google.com/citations?user=zoq2p34AAAAJ&hl=en) (2024, current: co-founder and CEO of Xzero Inc.)
 
 
 
 
-## Recent Work on Large Language Models and Foundation Models Based on Multi-level Optimization
-* Mingjia Huo, Sai Ashish Somayajula, Youwei Liang, Ruisi Zhang, Farinaz Koushanfar, Pengtao Xie. Token-Specific Watermarking with Enhanced Detectability and Semantic Coherence for Large Language Models. International Conference on Machine Learning (ICML), 2024.
-* Li Zhang, Youwei Liang, Pengtao Xie. BLO-SAM: Bi-level Optimization Based Overfitting-Preventing Finetuning of the Segment Anything Model. International Conference on Machine Learning (ICML), 2024.
-* Ruiyi Zhang, Rushi Qiang, Sai Ashish Somayajula, Pengtao Xie.  AutoLoRA: Automatically Tuning Matrix Ranks in Low-Rank Adaptation Based on Meta Learning.  Annual Conference of the North American Chapter of the Association for Computational Linguistics (NAACL), 2024. 
-* Sai Ashish Somayajula, Youwei Liang, Li Zhang, Abhishek Singh, Pengtao Xie. Generalizable and Stable Finetuning of Large  Language Models on Low-Resource Texts. Annual Conference of the North American Chapter of the Association for Computational Linguistics (NAACL), 2024.
+## Preprints
 * Han Guo, Ramtin Hosseini, Ruiyi Zhang, Sai Ashish Somayajula, Ranak Roy Chowdhury, Rajesh K. Gupta, Pengtao Xie. Downstream Task Guided Masking Learning in Masked Autoencoders Using Multi-Level Optimization, 2024. arXiv:2402.18128
+* Li Zhang, Han Guo, Leah Schaffer, Young Su Ko, Digvijay Singh, Hamid Rahmani, Danielle Grotjahn, Elizabeth Villa, Michael Gilson, Wei Wang, Trey Ideker, Eric Xing, Pengtao Xie. ProteinAligner: A Multi-modal Pretraining Framework for Protein Foundation Models, 2024. bioRxiv 2024.10.06.616870
+* Li Zhang, Basu Jindal, Ahmed Alaa, Robert Weinreb, David Wilson, Eran Segal, James Zou, Pengtao Xie. Generative AI Enables Medical Image Segmentation in Ultra Low-Data Regimes, 2024. medRxiv 2024.08.23.24312461
 
 
 ## Publications
