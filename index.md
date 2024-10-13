@@ -63,6 +63,7 @@ Email: p1xie@ucsd.edu
 * Han Guo, Ramtin Hosseini, Ruiyi Zhang, Sai Ashish Somayajula, Ranak Roy Chowdhury, Rajesh K. Gupta, Pengtao Xie. Downstream Task Guided Masking Learning in Masked Autoencoders Using Multi-Level Optimization, 2024. arXiv:2402.18128
 * Li Zhang, Han Guo, Leah Schaffer, Young Su Ko, Digvijay Singh, Hamid Rahmani, Danielle Grotjahn, Elizabeth Villa, Michael Gilson, Wei Wang, Trey Ideker, Eric Xing, Pengtao Xie. ProteinAligner: A Multi-modal Pretraining Framework for Protein Foundation Models, 2024. bioRxiv 2024.10.06.616870
 * Li Zhang, Basu Jindal, Ahmed Alaa, Robert Weinreb, David Wilson, Eran Segal, James Zou, Pengtao Xie. Generative AI Enables Medical Image Segmentation in Ultra Low-Data Regimes, 2024. medRxiv 2024.08.23.24312461
+* Duy MH Nguyen, Nghiem T Diep, Trung Q Nguyen, Hoang-Bao Le, Tai Nguyen, Tien Nguyen, TrungTin Nguyen, Nhat Ho, Pengtao Xie, Roger Wattenhofer, James Zou, Daniel Sonntag, Mathias Niepert. LoGra-Med: Long Context Multi-Graph Alignment for Medical Vision-Language Model, 2024. arXiv:2410.02615
 
 
 ## Publications
