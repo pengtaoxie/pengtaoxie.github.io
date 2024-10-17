@@ -59,6 +59,7 @@ Email: p1xie@ucsd.edu
 
 ## Preprints
 * Ruiyi Zhang, Sai Ashish Somayajula, Pengtao Xie. TapWeight: Reweighting Pretraining Objectives for Task-Adaptive Pretraining, 2024. arXiv:2410.10006
+* Bokai Hu, Sai Ashish Somayajula, Xin Pan, Zihan Huang, Pengtao Xie. Improving the Language Understanding Capabilities of Large Language Models Using Reinforcement Learning, 2024. arXiv:2410.11020
 * Peijia Qin, Ruiyi Zhang, Pengtao Xie. BiDoRA: Bi-level Optimization-Based Weight-Decomposed Low-Rank Adaptation, 2024. arXiv:2410.09758
 * Yuchen Li, Li Zhang, Youwei Liang, Pengtao Xie. AM-SAM: Automated Prompting and Mask Calibration for Segment Anything Model, 2024. arXiv:2410.09714
 * Han Guo, Ramtin Hosseini, Ruiyi Zhang, Sai Ashish Somayajula, Ranak Roy Chowdhury, Rajesh K. Gupta, Pengtao Xie. Downstream Task Guided Masking Learning in Masked Autoencoders Using Multi-Level Optimization, 2024. arXiv:2402.18128
