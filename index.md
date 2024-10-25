@@ -9,7 +9,7 @@ Assistant Professor, [Department of Electrical and Computer Engineering](https:/
 
 Assistant Adjunct Professor, [Division of Biomedical Informatics, Department of Medicine](https://dbmi.ucsd.edu/)
 
-Affiliated Faculty, [Halıcıoğlu Data Science Institute in the School of Computing, Information and Data Sciences](https://datascience.ucsd.edu/), [AI Group in the Department of Computer Science and Engineering](https://ai.ucsd.edu/), [Center for Machine-Intelligence, Computing and Security](https://mics.ucsd.edu/), and [Institute of Engineering in Medicine](https://iem.ucsd.edu)
+Affiliated Faculty, [Halıcıoğlu Data Science Institute in the School of Computing, Information and Data Sciences](https://datascience.ucsd.edu/), [Shu Chien-Gene Lay Department of Bioengineering](https://be.ucsd.edu), [AI Group in the Department of Computer Science and Engineering](https://ai.ucsd.edu/), [Center for Machine-Intelligence, Computing and Security](https://mics.ucsd.edu/), and [Institute of Engineering in Medicine](https://iem.ucsd.edu)
 
 University of California San Diego
 
@@ -43,9 +43,11 @@ Email: p1xie@ucsd.edu
 
 
 ## Current PhD Students
+* [Caitlin Aamodt](https://scholar.google.com/citations?user=EHGYFwYAAAAJ&hl=en) (Schmidt AI in Science Postdoc Fellow, co-advised with Prof. Nathan Lewis)
 * [Qi Cao](https://scholar.google.com/citations?user=46U_bhgAAAAJ&hl=en)
 * [Han Guo](https://scholar.google.com/citations?user=O03kRdYAAAAJ&hl=en) 
 * [Mingjia Huo](https://mignonjia.github.io/) (Co-advised with Prof. Shamim Nemati)
+* [Niklas Klusch](https://scholar.google.com/citations?user=sSe1yAoAAAAJ&hl=de) (Schmidt AI in Science Postdoc Fellow, co-advised with Prof. Elizabeth Villa)
 * [Youwei Liang](https://youweiliang.github.io/) 
 * [Sai Somayajula](https://sai-ashish.github.io/website/) 
 * [Li Zhang](https://scholar.google.com/citations?user=RRzZk4YAAAAJ&hl=en) 
@@ -80,6 +82,7 @@ Email: p1xie@ucsd.edu
 * **Pengtao Xie**, Xingchen Zhao, Xuehai He. Transfer Learning Based on Multi-level Optimization.    Transactions of the Association for Computational Linguistics (TACL), 2024.
 * Haochen Cui, Yuchong Zhao, Si Xiong, Yunlu Feng, Peng Li, Ying Lv, Qian Chen, Ronghua Wang, **Pengtao Xie**, Zhenlong Luo, Sideng Cheng, Wujun Wang, Xing Li, Dingkun Xiong, Xinyuan Cao, Shuya Bai, Aiming Yang, Bin Cheng. Diagnosing Solid Lesions in the Pancreas with Multimodal Artificial Intelligence: A Randomized Crossover Trial. JAMA Network Open, 2024.
 * Vahid Mohammadzadeh, Sasan Moghimi, Youwei Liang, **Pengtao Xie**, Takashi Nishida, Alireza Kamalipour, Mark Christopher, Linda Zangwill, Tara Javidi, Robert N Weinreb. Detection of Glaucoma Progression on Longitudinal Series of En Face Macular Optical Coherence Tomography Angiography Images with a Deep Learning Model. 	British Journal of Ophthalmology, 2024.
+* Ce Zhou, Qian Li, Chen Li, Jun Yu, Yixin Liu, Guangjing Wang, Kai Zhang, Cheng Ji, Qiben Yan, Lifang He, Hao Peng, Jianxin Li, Jia Wu, Ziwei Liu, **Pengtao Xie**, Caiming Xiong, Jian Pei, Philip S Yu, Lichao Sun. A Comprehensive Survey on Pretrained Foundation Models: A History from BERT to ChatGPT. International Journal of Machine Learning and Cybernetics, 2024.
 * Duy Minh Ho Nguyen, Hoang Nguyen, Nghiem Tuong Diep, Tan Ngoc Pham, Tri Cao, Binh T. Nguyen, Paul Swoboda, Nhat Ho, Shadi Albarqouni, **Pengtao Xie**, Mathias Niepert, Daniel Sonntag. LVM-Med: Learning Large-Scale Self-Supervised Vision Models for Medical Imaging via Second-order Graph Matching. Conference on Neural Information Processing Systems (NeurIPS), 2023. 
 * Sang Keun Choe, Sanket Vaibhav Mehta, Hwijeen Ahn, Willie Neiswanger, **Pengtao Xie**, Emma Strubell, Eric Xing. 	
 Making Scalable Meta Learning Practical. Conference on Neural Information Processing Systems (NeurIPS), 2023. 
