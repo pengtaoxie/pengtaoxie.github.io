@@ -19,7 +19,7 @@ I obtained my PhD from the Machine Learning Department, School of Computer Scien
 Email: p1xie@ucsd.edu
 
 
-## I am looking for highly-motivated PhD and master students to join my group. I am also looking for research interns.
+## I am looking for highly-motivated PhD students, postdocs, and master students to join my group. I am also looking for research interns.
 
 ## News
 * 2024/9. One paper is accepted by NeurIPS.
