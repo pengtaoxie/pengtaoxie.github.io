@@ -42,7 +42,7 @@ Email: p1xie@ucsd.edu
 
 
 
-## Current PhD Students
+## Current PhD Students and Postdocs
 * [Caitlin Aamodt](https://scholar.google.com/citations?user=EHGYFwYAAAAJ&hl=en) (Schmidt AI in Science Postdoc Fellow, co-advised with Prof. Nathan Lewis)
 * [Qi Cao](https://scholar.google.com/citations?user=46U_bhgAAAAJ&hl=en)
 * [Han Guo](https://scholar.google.com/citations?user=O03kRdYAAAAJ&hl=en) 
