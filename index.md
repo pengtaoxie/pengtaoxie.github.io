@@ -60,6 +60,7 @@ Email: p1xie@ucsd.edu
 
 
 ## Preprints
+* Ding Bai, Shentong Mo, Ruiyi Zhang, Yingtao Luo, Jiahao Gao, Jeremy Parker Yang, Qiuyang Wu, Digvijay Singh, Hamidreza Rahmani, Tiffany Amariuta, Danielle Grotjahn, Sheng Zhong, Nathan Lewis, Wei Wang, Trey Ideker, Pengtao Xie*, Eric Xing*. scLong: A Billion-Parameter Foundation Model for Capturing Long-Range Gene Context in Single-Cell Transcriptomics. Under peer review at Nature Methods. 2024. (*Corresponding authors) bioRxiv 2024.11.09.622759v2
 * Ruiyi Zhang, Sai Ashish Somayajula, Pengtao Xie. TapWeight: Reweighting Pretraining Objectives for Task-Adaptive Pretraining, 2024. arXiv:2410.10006
 * Bokai Hu, Sai Ashish Somayajula, Xin Pan, Zihan Huang, Pengtao Xie. Improving the Language Understanding Capabilities of Large Language Models Using Reinforcement Learning, 2024. arXiv:2410.11020
 * Peijia Qin, Ruiyi Zhang, Pengtao Xie. BiDoRA: Bi-level Optimization-Based Weight-Decomposed Low-Rank Adaptation, 2024. arXiv:2410.09758
