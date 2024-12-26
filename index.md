@@ -72,6 +72,7 @@ Email: p1xie@ucsd.edu
 
 
 ## Publications
+* Yiheng He, Ruiyi Zhang, Sai Ashish Somayajula, and **Pengtao Xie**. Transformer Architecture Search for Improving Out-of-Domain Generalization in Machine Translation. Transactions on Machine Learning Research, 2024.
 * Hoai-Chau Tran, Duy Minh Ho Nguyen, Manh-Duy Nguyen, TrungTin Nguyen, Ngan Hoang Le, **Pengtao Xie**, Daniel Sonntag, James Zou, Binh T. Nguyen, Mathias Niepert. Accelerating Transformers with Spectrum-Preserving Token Merging. Conference on Neural Information Processing Systems (NeurIPS), 2024.
 * Mingjia Huo, Sai Ashish Somayajula, Youwei Liang, Ruisi Zhang, Farinaz Koushanfar, **Pengtao Xie**. Token-Specific Watermarking with Enhanced Detectability and Semantic Coherence for Large Language Models. International Conference on Machine Learning (ICML), 2024.
 * Li Zhang, Youwei Liang, **Pengtao Xie**. BLO-SAM: Bi-level Optimization Based Overfitting-Preventing Finetuning of the Segment Anything Model. International Conference on Machine Learning (ICML), 2024.
