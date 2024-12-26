@@ -23,6 +23,7 @@ Email: p1xie@ucsd.edu
 
 ## News
 * 2024/12. One paper is accepted by Transactions on Machine Learning Research.
+* 2024/11. Serve as Area Chair for ICML 2025.
 * 2024/9. One paper is accepted by NeurIPS.
 * 2024/6. Two papers are accepted by JAMA Network Open and British Journal of Ophthalmology.
 * 2024/5. Serve as Area Chair for NeurIPS 2024.
