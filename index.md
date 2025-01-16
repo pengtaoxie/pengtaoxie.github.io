@@ -9,12 +9,12 @@ Assistant Professor, [Department of Electrical and Computer Engineering](https:/
 
 Assistant Adjunct Professor, [Division of Biomedical Informatics, Department of Medicine](https://dbmi.ucsd.edu/)
 
-Affiliated Faculty, [Halıcıoğlu Data Science Institute in the School of Computing, Information and Data Sciences](https://datascience.ucsd.edu/), [Shu Chien-Gene Lay Department of Bioengineering](https://be.ucsd.edu), [AI Group in the Department of Computer Science and Engineering](https://ai.ucsd.edu/), [Center for Machine-Intelligence, Computing and Security](https://mics.ucsd.edu/), [Institute of Engineering in Medicine](https://iem.ucsd.edu), and [Institute for Genomic Medicine](https://igm.ucsd.edu).
+Affiliated Faculty, [Halıcıoğlu Data Science Institute in the School of Computing, Information and Data Sciences](https://datascience.ucsd.edu/), [Shu Chien-Gene Lay Department of Bioengineering](https://be.ucsd.edu), [Skaggs School of Pharmacy and Pharmaceutical Sciences](https://pharmacy.ucsd.edu), [AI Group in the Department of Computer Science and Engineering](https://ai.ucsd.edu/), [Center for Machine-Intelligence, Computing and Security](https://mics.ucsd.edu/), [Institute of Engineering in Medicine](https://iem.ucsd.edu), and [Institute for Genomic Medicine](https://igm.ucsd.edu).
 
 University of California San Diego
 
 
-I obtained my PhD from the Machine Learning Department, School of Computer Science, Carnegie Mellon University.  My research  interests mainly lie in [machine learning inspired by humans' learning skills](https://openreview.net/attachment?id=e5qDTqs1MS&name=pdf) (especially classroom learning skills), such as [learning by self explanation](https://proceedings.neurips.cc/paper_files/paper/2022/hash/5e84e4413268b713f0d4a1b23a9dae57-Abstract-Conference.html), [small-group learning](https://openaccess.thecvf.com/content/CVPR2022/papers/Xie_Performance-Aware_Mutual_Knowledge_Distillation_for_Improving_Neural_Architecture_Search_CVPR_2022_paper.pdf), [learning by teaching](https://openreview.net/pdf?id=Tl8OmiibP99), etc., and their applications in **Large Language Models**, **Foundation Models**, **Healthcare**, and **Biomedicine**. [Here](outcome.pdf) is a summary of research outcome. I received an NSF Career Award in 2024.  
+I obtained my PhD from the Machine Learning Department, School of Computer Science, Carnegie Mellon University.  My research  interests mainly lie in [machine learning inspired by humans' learning skills](https://openreview.net/attachment?id=e5qDTqs1MS&name=pdf) (especially classroom learning skills), such as [learning by self explanation](https://proceedings.neurips.cc/paper_files/paper/2022/hash/5e84e4413268b713f0d4a1b23a9dae57-Abstract-Conference.html), [small-group learning](https://openaccess.thecvf.com/content/CVPR2022/papers/Xie_Performance-Aware_Mutual_Knowledge_Distillation_for_Improving_Neural_Architecture_Search_CVPR_2022_paper.pdf), [learning by teaching](https://openreview.net/pdf?id=Tl8OmiibP99), etc., and their applications in **Large Language Models**, **Foundation Models**, **Healthcare**, and **Biomedicine**. [Here](outcome.pdf) is a summary of research outcome. I received an NSF Career Award in 2024 and an NIH MIRA Award in 2025.  
 
 Email: p1xie@ucsd.edu
 
@@ -22,8 +22,10 @@ Email: p1xie@ucsd.edu
 ## I am looking for highly-motivated PhD students, postdocs, and master students to join my group. I am also looking for research interns.
 
 ## News
+* 2025/1. Received an NIH Maximizing Investigators' Research Award (MIRA) for Early Stage Investigators. Thanks, NIH!
 * 2024/12. One paper is accepted by Transactions on Machine Learning Research.
 * 2024/11. Serve as Area Chair for ICML 2025.
+* 2024/9. Received an NSF Smart and Connected Health award. Thanks, NSF!
 * 2024/9. One paper is accepted by NeurIPS.
 * 2024/6. Two papers are accepted by JAMA Network Open and British Journal of Ophthalmology.
 * 2024/5. Serve as Area Chair for NeurIPS 2024.
@@ -208,6 +210,7 @@ Chen and **Pengtao Xie**. MedDialog: Large-scale Medical Dialogue Datasets. Conf
 
 ##  Selected Awards and Honors
 
+* NIH MIRA Award, 2025
 * NSF Career Award, 2024
 * Best Graduate Teacher Award (presented by ECE at UCSD), 2023
 * ICLR Notable-Top-5% Paper, 2023
