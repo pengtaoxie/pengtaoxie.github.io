@@ -23,6 +23,7 @@ Email: p1xie@ucsd.edu
 
 ## News
 * 2025/1. Received an NIH Maximizing Investigators' Research Award (MIRA) for Early Stage Investigators. Thanks, NIH!
+* 2025/1. One paper is accepted by IEEE Transactions on AI.
 * 2024/12. One paper is accepted by Transactions on Machine Learning Research.
 * 2024/11. Serve as Area Chair for ICML 2025.
 * 2024/9. Received an NSF Smart and Connected Health award. Thanks, NSF!
@@ -76,6 +77,7 @@ Email: p1xie@ucsd.edu
 
 
 ## Publications
+* Li Zhang, Bhanu Garg, and **Pengtao Xie**. Learning From Mistakes: A Multi-level Optimization Framework. IEEE Transactions on Artificial Intelligence, 2025.
 * Yiheng He, Ruiyi Zhang, Sai Ashish Somayajula, and **Pengtao Xie**. Transformer Architecture Search for Improving Out-of-Domain Generalization in Machine Translation. Transactions on Machine Learning Research, 2024.
 * Hoai-Chau Tran, Duy Minh Ho Nguyen, Manh-Duy Nguyen, TrungTin Nguyen, Ngan Hoang Le, **Pengtao Xie**, Daniel Sonntag, James Zou, Binh T. Nguyen, Mathias Niepert. Accelerating Transformers with Spectrum-Preserving Token Merging. Conference on Neural Information Processing Systems (NeurIPS), 2024.
 * Mingjia Huo, Sai Ashish Somayajula, Youwei Liang, Ruisi Zhang, Farinaz Koushanfar, **Pengtao Xie**. Token-Specific Watermarking with Enhanced Detectability and Semantic Coherence for Large Language Models. International Conference on Machine Learning (ICML), 2024.
