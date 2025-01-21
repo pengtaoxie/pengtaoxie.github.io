@@ -24,6 +24,7 @@ Email: p1xie@ucsd.edu
 ## News
 * 2025/1. Received an NIH Maximizing Investigators' Research Award (MIRA) for Early Stage Investigators. Thanks, NIH!
 * 2025/1. One paper is accepted by IEEE Transactions on AI.
+* 2025/1. Continue to serve as Associate Editor for ACM Transactions on Computing for Healthcare.
 * 2024/12. One paper is accepted by Transactions on Machine Learning Research.
 * 2024/11. Serve as Area Chair for ICML 2025.
 * 2024/9. Received an NSF Smart and Connected Health award. Thanks, NSF!
