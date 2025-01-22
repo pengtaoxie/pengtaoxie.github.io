@@ -9,7 +9,8 @@ Assistant Professor, [Department of Electrical and Computer Engineering](https:/
 
 Assistant Adjunct Professor, [Division of Biomedical Informatics, Department of Medicine](https://dbmi.ucsd.edu/)
 
-Affiliated Faculty, [Halıcıoğlu Data Science Institute in the School of Computing, Information and Data Sciences](https://datascience.ucsd.edu/), [Shu Chien-Gene Lay Department of Bioengineering](https://be.ucsd.edu), [Skaggs School of Pharmacy and Pharmaceutical Sciences](https://pharmacy.ucsd.edu), [AI Group in the Department of Computer Science and Engineering](https://ai.ucsd.edu/), [Center for Machine-Intelligence, Computing and Security](https://mics.ucsd.edu/), [Institute of Engineering in Medicine](https://iem.ucsd.edu), and [Institute for Genomic Medicine](https://igm.ucsd.edu).
+Affiliated Faculty, [Halıcıoğlu Data Science Institute in the School of Computing, Information and Data Sciences](https://datascience.ucsd.edu/), [Department of Molecular Biology in the School of Biological Sciences](https://biology.ucsd.edu/research/academic-departments/mb/index.html), 
+[Shu Chien-Gene Lay Department of Bioengineering](https://be.ucsd.edu), [Skaggs School of Pharmacy and Pharmaceutical Sciences](https://pharmacy.ucsd.edu), [AI Group in the Department of Computer Science and Engineering](https://ai.ucsd.edu/), [Center for Machine-Intelligence, Computing and Security](https://mics.ucsd.edu/), [Institute of Engineering in Medicine](https://iem.ucsd.edu), and [Institute for Genomic Medicine](https://igm.ucsd.edu).
 
 University of California San Diego
 
