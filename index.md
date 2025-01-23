@@ -24,6 +24,7 @@ Email: p1xie@ucsd.edu
 
 ## News
 * 2025/1. Received an NIH Maximizing Investigators' Research Award (MIRA) for Early Stage Investigators. Thanks, NIH!
+* 2025/1. One paper is accepted by NAACL.
 * 2025/1. One paper is accepted by IEEE Transactions on AI.
 * 2025/1. Continue to serve as Associate Editor for ACM Transactions on Computing for Healthcare.
 * 2024/12. One paper is accepted by Transactions on Machine Learning Research.
@@ -79,6 +80,7 @@ Email: p1xie@ucsd.edu
 
 
 ## Publications
+* Ruiyi Zhang, David Sullivan, Kyle Jackson, **Pengtao Xie**, Mei Chen. Defense against Prompt Injection Attacks via Mixture of Encodings. The 2025 Annual Conference of the Nations of the Americas Chapter of the ACL (NAACL), 2025.
 * Li Zhang, Bhanu Garg, and **Pengtao Xie**. Learning From Mistakes: A Multi-level Optimization Framework. IEEE Transactions on Artificial Intelligence, 2025.
 * Yiheng He, Ruiyi Zhang, Sai Ashish Somayajula, and **Pengtao Xie**. Transformer Architecture Search for Improving Out-of-Domain Generalization in Machine Translation. Transactions on Machine Learning Research, 2024.
 * Hoai-Chau Tran, Duy Minh Ho Nguyen, Manh-Duy Nguyen, TrungTin Nguyen, Ngan Hoang Le, **Pengtao Xie**, Daniel Sonntag, James Zou, Binh T. Nguyen, Mathias Niepert. Accelerating Transformers with Spectrum-Preserving Token Merging. Conference on Neural Information Processing Systems (NeurIPS), 2024.
