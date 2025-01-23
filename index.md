@@ -73,10 +73,12 @@ Email: p1xie@ucsd.edu
 * Bokai Hu, Sai Ashish Somayajula, Xin Pan, Zihan Huang, Pengtao Xie. Improving the Language Understanding Capabilities of Large Language Models Using Reinforcement Learning, 2024. arXiv:2410.11020
 * Peijia Qin, Ruiyi Zhang, Pengtao Xie. BiDoRA: Bi-level Optimization-Based Weight-Decomposed Low-Rank Adaptation, 2024. arXiv:2410.09758
 * Yuchen Li, Li Zhang, Youwei Liang, Pengtao Xie. AM-SAM: Automated Prompting and Mask Calibration for Segment Anything Model, 2024. arXiv:2410.09714
+* Youwei Liang, Ruiyi Zhang, Yongce Li, Mingjia Huo, Zinnia Ma, Digvijay Singh, Chengzhan Gao, Hamidreza Rahmani, Satvik Bandi, Li Zhang, Robert Weinreb, Atul Malhotra, Danielle A. Grotjahn, Linda Awdishu, Trey Ideker, Michael Gilson, \textbf{Pengtao Xie}. Multi-Modal Large Language Model Enables All-Purpose Prediction of Drug Mechanisms and Properties. bioRxiv 2024.09.29.615524.
 * Han Guo, Ramtin Hosseini, Ruiyi Zhang, Sai Ashish Somayajula, Ranak Roy Chowdhury, Rajesh K. Gupta, Pengtao Xie. Downstream Task Guided Masking Learning in Masked Autoencoders Using Multi-Level Optimization, 2024. arXiv:2402.18128
 * Li Zhang, Han Guo, Leah Schaffer, Young Su Ko, Digvijay Singh, Hamid Rahmani, Danielle Grotjahn, Elizabeth Villa, Michael Gilson, Wei Wang, Trey Ideker, Eric Xing, Pengtao Xie. ProteinAligner: A Multi-modal Pretraining Framework for Protein Foundation Models, 2024. bioRxiv 2024.10.06.616870
 * Li Zhang, Basu Jindal, Ahmed Alaa, Robert Weinreb, David Wilson, Eran Segal, James Zou, Pengtao Xie. Generative AI Enables Medical Image Segmentation in Ultra Low-Data Regimes, 2024. medRxiv 2024.08.23.24312461
 * Duy MH Nguyen, Nghiem T Diep, Trung Q Nguyen, Hoang-Bao Le, Tai Nguyen, Tien Nguyen, TrungTin Nguyen, Nhat Ho, Pengtao Xie, Roger Wattenhofer, James Zou, Daniel Sonntag, Mathias Niepert. LoGra-Med: Long Context Multi-Graph Alignment for Medical Vision-Language Model, 2024. arXiv:2410.02615
+* Mingjia Huo, Han Guo, Xingyi Cheng, Digvijay Singh, Hamidreza Rahmani, Shen Li, Philipp Gerlof, Trey Ideker, Danielle A. Grotjahn, Elizabeth Villa, Le Song, \textbf{Pengtao Xie}. Multi-Modal Large Language Model Enables Protein Function Prediction, 2024. bioRxiv 2024.08.19.608729
 
 
 ## Publications
