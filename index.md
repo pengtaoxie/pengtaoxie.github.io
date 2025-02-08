@@ -25,6 +25,7 @@ Email: p1xie@ucsd.edu
 ## News
 * 2025/1. Received an NIH Maximizing Investigators' Research Award (MIRA) for Early Stage Investigators. Thanks, NIH!
 * 2025/1. One paper is accepted by NAACL.
+* 2025/1. Co-organizing the [AAAI 2025 Workshop on Large Language Models and Generative AI for Health](https://sites.google.com/view/genai4health-aaai-2025) 
 * 2025/1. One paper is accepted by IEEE Transactions on AI.
 * 2025/1. Continue to serve as Associate Editor for ACM Transactions on Computing for Healthcare.
 * 2024/12. One paper is accepted by Transactions on Machine Learning Research.
