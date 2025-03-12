@@ -24,6 +24,7 @@ Email: p1xie@ucsd.edu
 
 ## News
 * 2025/1. Received an NIH Maximizing Investigators' Research Award (MIRA) for Early Stage Investigators. Thanks, NIH!
+* 2025/1. I will teach [ECE 285 Deep Generative Models](https://pengtaoxie.github.io/dgm-v2.html) in Spring 2025, covering fundamentals and state-of-the-art about large language models, diffusion models, etc.
 * 2025/1. One paper is accepted by NAACL.
 * 2025/1. Co-organizing the [AAAI 2025 Workshop on Large Language Models and Generative AI for Health](https://sites.google.com/view/genai4health-aaai-2025) 
 * 2025/1. One paper is accepted by IEEE Transactions on AI.
