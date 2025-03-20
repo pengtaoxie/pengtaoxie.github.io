@@ -23,7 +23,7 @@ Email: p1xie@ucsd.edu
 ## I am looking for highly-motivated PhD students, postdocs, and master students to join my group. I am also looking for research interns.
 
 ## News
-* 2025/3. Our [downstream task guided continual pretraining work](https://arxiv.org/abs/2402.18128) is accepted by Transactions on Machine Learning Research. 
+* 2025/3. Our work on [downstream task guided continual pretraining](https://arxiv.org/abs/2402.18128) is accepted by Transactions on Machine Learning Research. 
 * 2025/3. Co-organizing the ICML 2025 Workshop on Large Language Models and Generative AI for Health.
 * 2025/1. Received an NIH Maximizing Investigators' Research Award (MIRA) for Early Stage Investigators. Thanks, NIH!
 * 2025/1. I will teach [ECE 285 Deep Generative Models](https://pengtaoxie.github.io/dgm-v2.html) in Spring 2025, covering fundamentals and state-of-the-art about large language models, diffusion models, etc.
