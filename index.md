@@ -85,7 +85,7 @@ Email: p1xie@ucsd.edu
 
 
 ## Publications
-* Han Guo, Ramtin Hosseini, Ruiyi Zhang, Sai Ashish Somayajula, Ranak Roy Chowdhury, Rajesh K. Gupta, **Pengtao Xie**. Downstream Task Guided Masking Learning in Masked Autoencoders Using Multi-Level Optimization. Transactions on Machine Learning Research, 2024.
+* Han Guo, Ramtin Hosseini, Ruiyi Zhang, Sai Ashish Somayajula, Ranak Roy Chowdhury, Rajesh K. Gupta, **Pengtao Xie**. Downstream Task Guided Masking Learning in Masked Autoencoders Using Multi-Level Optimization. Transactions on Machine Learning Research, 2025.
 * Ruiyi Zhang, David Sullivan, Kyle Jackson, **Pengtao Xie**, Mei Chen. Defense against Prompt Injection Attacks via Mixture of Encodings. The 2025 Annual Conference of the Nations of the Americas Chapter of the ACL (NAACL), 2025.
 * Li Zhang, Bhanu Garg, and **Pengtao Xie**. Learning From Mistakes: A Multi-level Optimization Framework. IEEE Transactions on Artificial Intelligence, 2025.
 * Yiheng He, Ruiyi Zhang, Sai Ashish Somayajula, and **Pengtao Xie**. Transformer Architecture Search for Improving Out-of-Domain Generalization in Machine Translation. Transactions on Machine Learning Research, 2024.
