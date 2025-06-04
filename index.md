@@ -73,7 +73,6 @@ Email: p1xie@ucsd.edu
 
 ## Preprints
 * Ding Bai, Shentong Mo, Ruiyi Zhang, Yingtao Luo, Jiahao Gao, Jeremy Parker Yang, Qiuyang Wu, Digvijay Singh, Hamidreza Rahmani, Tiffany Amariuta, Danielle Grotjahn, Sheng Zhong, Nathan Lewis, Wei Wang, Trey Ideker, Pengtao Xie\*, Eric Xing\*. scLong: A Billion-Parameter Foundation Model for Capturing Long-Range Gene Context in Single-Cell Transcriptomics, 2024. (\*Corresponding authors) bioRxiv 2024.11.09.622759v2
-* Ruiyi Zhang, Sai Ashish Somayajula, Pengtao Xie. TapWeight: Reweighting Pretraining Objectives for Task-Adaptive Pretraining, 2024. arXiv:2410.10006
 * Bokai Hu, Sai Ashish Somayajula, Xin Pan, Zihan Huang, Pengtao Xie. Improving the Language Understanding Capabilities of Large Language Models Using Reinforcement Learning, 2024. arXiv:2410.11020
 * Peijia Qin, Ruiyi Zhang, Pengtao Xie. BiDoRA: Bi-level Optimization-Based Weight-Decomposed Low-Rank Adaptation, 2024. arXiv:2410.09758
 * Yuchen Li, Li Zhang, Youwei Liang, Pengtao Xie. AM-SAM: Automated Prompting and Mask Calibration for Segment Anything Model, 2024. arXiv:2410.09714
@@ -85,6 +84,7 @@ Email: p1xie@ucsd.edu
 
 
 ## Publications
+* Ruiyi Zhang, Sai Ashish Somayajula, **Pengtao Xie**. TapWeight: Reweighting Pretraining Objectives for Task-Adaptive Pretraining. Transactions on Machine Learning Research, 2025.
 * Han Guo, Ramtin Hosseini, Ruiyi Zhang, Sai Ashish Somayajula, Ranak Roy Chowdhury, Rajesh K. Gupta, **Pengtao Xie**. Downstream Task Guided Masking Learning in Masked Autoencoders Using Multi-Level Optimization. Transactions on Machine Learning Research, 2025.
 * Ruiyi Zhang, David Sullivan, Kyle Jackson, **Pengtao Xie**, Mei Chen. Defense against Prompt Injection Attacks via Mixture of Encodings. The 2025 Annual Conference of the Nations of the Americas Chapter of the ACL (NAACL), 2025.
 * Li Zhang, Bhanu Garg, and **Pengtao Xie**. Learning From Mistakes: A Multi-level Optimization Framework. IEEE Transactions on Artificial Intelligence, 2025.
