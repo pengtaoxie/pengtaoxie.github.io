@@ -23,6 +23,7 @@ Email: p1xie@ucsd.edu
 ## I am looking for highly-motivated PhD students, postdocs, and master students to join my group. I am also looking for research interns.
 
 ## News
+* 2025/6. Our method [DreamPRM](https://arxiv.org/abs/2505.20241) for multi-modal LLM reasoning achieves first place on the [MathVista](https://mathvista.github.io/) leaderboard. 
 * 2025/6. Our work on [Reweighting Pretraining Objectives for Task-Adaptive Pretraining](https://openreview.net/forum?id=DCCw2CEVFS&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DTMLR%2FAuthors%23your-submissions)) is accepted by Transactions on Machine Learning Research.
 * 2025/3. Our work on [downstream task guided continual pretraining](https://arxiv.org/abs/2402.18128) is accepted by Transactions on Machine Learning Research. 
 * 2025/3. Co-organizing the ICML 2025 Workshop on Multi-modal Large Language Models and Foundation Models for Life Sciences.
