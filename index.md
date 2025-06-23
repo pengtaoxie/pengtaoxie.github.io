@@ -59,14 +59,13 @@ Email: p1xie@ucsd.edu
 * [Caitlin Aamodt](https://scholar.google.com/citations?user=EHGYFwYAAAAJ&hl=en) (Schmidt AI in Science Postdoc Fellow, co-advised with Prof. Nathan Lewis)
 * [Qi Cao](https://scholar.google.com/citations?user=46U_bhgAAAAJ&hl=en)
 * [Han Guo](https://scholar.google.com/citations?user=O03kRdYAAAAJ&hl=en) 
-* [Mingjia Huo](https://mignonjia.github.io/) (Co-advised with Prof. Shamim Nemati)
 * [Niklas Klusch](https://scholar.google.com/citations?user=sSe1yAoAAAAJ&hl=de) (Schmidt AI in Science Postdoc Fellow, co-advised with Prof. Elizabeth Villa)
-* [Youwei Liang](https://youweiliang.github.io/) 
-* [Sai Somayajula](https://sai-ashish.github.io/website/) 
+* [Youwei Liang](https://youweiliang.github.io/)  
 * [Li Zhang](https://scholar.google.com/citations?user=RRzZk4YAAAAJ&hl=en) 
 * [Ruiyi Zhang](https://scholar.google.com/citations?user=D7EXgU0AAAAJ&hl=en)
 
 ### PhD Alumni
+* [Sai Somayajula](https://sai-ashish.github.io/website/) (2025, current: senior applied scientist in Generative AI at Oracle)
 * [Ramtin Hosseini](https://scholar.google.com/citations?user=zoq2p34AAAAJ&hl=en) (2024, current: co-founder and CEO of Xero1 Inc.)
 
 
@@ -89,6 +88,7 @@ Email: p1xie@ucsd.edu
 * Han Guo, Ramtin Hosseini, Ruiyi Zhang, Sai Ashish Somayajula, Ranak Roy Chowdhury, Rajesh K. Gupta, **Pengtao Xie**. Downstream Task Guided Masking Learning in Masked Autoencoders Using Multi-Level Optimization. Transactions on Machine Learning Research, 2025.
 * Ruiyi Zhang, David Sullivan, Kyle Jackson, **Pengtao Xie**, Mei Chen. Defense against Prompt Injection Attacks via Mixture of Encodings. The 2025 Annual Conference of the Nations of the Americas Chapter of the ACL (NAACL), 2025.
 * Li Zhang, Bhanu Garg, and **Pengtao Xie**. Learning From Mistakes: A Multi-level Optimization Framework. IEEE Transactions on Artificial Intelligence, 2025.
+* Mingjia Huo, Sean Perez, Linda Awdishu, Janice S Kerr, **Pengtao Xie**, Adnan Khan, Kristin Mekeel, Shamim Nemati. Artificial Intelligence-Driven Tacrolimus Dosing: Improving Precision in Transplant Care. Journal of Medical Internet Research (JMIR) AI, 2025.
 * Yiheng He, Ruiyi Zhang, Sai Ashish Somayajula, and **Pengtao Xie**. Transformer Architecture Search for Improving Out-of-Domain Generalization in Machine Translation. Transactions on Machine Learning Research, 2024.
 * Hoai-Chau Tran, Duy Minh Ho Nguyen, Manh-Duy Nguyen, TrungTin Nguyen, Ngan Hoang Le, **Pengtao Xie**, Daniel Sonntag, James Zou, Binh T. Nguyen, Mathias Niepert. Accelerating Transformers with Spectrum-Preserving Token Merging. Conference on Neural Information Processing Systems (NeurIPS), 2024.
 * Mingjia Huo, Sai Ashish Somayajula, Youwei Liang, Ruisi Zhang, Farinaz Koushanfar, **Pengtao Xie**. Token-Specific Watermarking with Enhanced Detectability and Semantic Coherence for Large Language Models. International Conference on Machine Learning (ICML), 2024.
