@@ -5,9 +5,9 @@
 
 
 
-Assistant Professor, [Department of Electrical and Computer Engineering](https://ece.ucsd.edu/)
+Associate Professor, [Department of Electrical and Computer Engineering](https://ece.ucsd.edu/)
 
-Assistant Adjunct Professor, [Division of Biomedical Informatics, Department of Medicine](https://dbmi.ucsd.edu/)
+Associate Adjunct Professor, [Division of Biomedical Informatics, Department of Medicine](https://dbmi.ucsd.edu/)
 
 Affiliated Faculty, [Halıcıoğlu Data Science Institute in the School of Computing, Information and Data Sciences](https://datascience.ucsd.edu/), [Department of Molecular Biology in the School of Biological Sciences](https://biology.ucsd.edu/research/academic-departments/mb/index.html), 
 [Shu Chien-Gene Lay Department of Bioengineering](https://be.ucsd.edu), [Skaggs School of Pharmacy and Pharmaceutical Sciences](https://pharmacy.ucsd.edu), [AI Group in the Department of Computer Science and Engineering](https://ai.ucsd.edu/), [Center for Machine-Intelligence, Computing and Security](https://mics.ucsd.edu/), [Institute of Engineering in Medicine](https://iem.ucsd.edu), and [Institute for Genomic Medicine](https://igm.ucsd.edu).
@@ -17,12 +17,13 @@ University of California San Diego
 
 I obtained my PhD from the Machine Learning Department, School of Computer Science, Carnegie Mellon University.  My research  interests mainly lie in [machine learning inspired by humans' learning skills](https://openreview.net/attachment?id=e5qDTqs1MS&name=pdf) (especially classroom learning skills), such as [learning by self explanation](https://proceedings.neurips.cc/paper_files/paper/2022/hash/5e84e4413268b713f0d4a1b23a9dae57-Abstract-Conference.html), [small-group learning](https://openaccess.thecvf.com/content/CVPR2022/papers/Xie_Performance-Aware_Mutual_Knowledge_Distillation_for_Improving_Neural_Architecture_Search_CVPR_2022_paper.pdf), [learning by teaching](https://openreview.net/pdf?id=Tl8OmiibP99), etc., and their applications in **Large Language Models**, **Foundation Models**, **Healthcare**, and **Biomedicine**. [Here](research-summary.pdf) is a summary of research outcome. I received an NSF Career Award in 2024 and an NIH MIRA Award in 2025.  
 
-Email: p1xie@ucsd.edu
+Email: p1xie@ucsd.edu [Twitter](https://x.com/cmuptx)
 
 
 ## I am looking for highly-motivated PhD students, postdocs, and master students to join my group. I am also looking for research interns.
 
 ## News
+* 2025/6. I am promoted to Associate Professor with tenure. Huge thanks to my students, colleagues, collaborators, and family!
 * 2025/6. Our method [DreamPRM](https://arxiv.org/abs/2505.20241) for multi-modal LLM reasoning achieves first place on the [MathVista](https://mathvista.github.io/) leaderboard. 
 * 2025/6. Our work on [Reweighting Pretraining Objectives for Task-Adaptive Pretraining](https://openreview.net/forum?id=DCCw2CEVFS&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DTMLR%2FAuthors%23your-submissions)) is accepted by Transactions on Machine Learning Research.
 * 2025/3. Our work on [downstream task guided continual pretraining](https://arxiv.org/abs/2402.18128) is accepted by Transactions on Machine Learning Research. 
