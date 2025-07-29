@@ -20,9 +20,10 @@ I obtained my PhD from the Machine Learning Department, School of Computer Scien
 Email: p1xie@ucsd.edu [Twitter](https://x.com/cmuptx)
 
 
-## I am looking for highly-motivated PhD students, postdocs, and master students to join my group. I am also looking for research interns.
+## I am looking for highly-motivated PhD students, postdocs, and master students to join my group. I am also looking for research interns. If you are planning to apply to the CSE department and are interested in working with me, please send me an email. 
 
 ## News
+* 2025/7. Our work - [Generative AI enables medical image segmentation in ultra low-data regimes](https://www.nature.com/articles/s41467-025-61754-6) - is published in Nature Communications.
 * 2025/6. I am promoted to Associate Professor with tenure. Huge thanks to my students, colleagues, collaborators, and family!
 * 2025/6. Our method [DreamPRM](https://arxiv.org/abs/2505.20241) for multi-modal LLM reasoning achieves first place on the [MathVista](https://mathvista.github.io/) leaderboard. 
 * 2025/6. Our work on [Reweighting Pretraining Objectives for Task-Adaptive Pretraining](https://openreview.net/forum?id=DCCw2CEVFS&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DTMLR%2FAuthors%23your-submissions)) is accepted by Transactions on Machine Learning Research.
@@ -61,7 +62,8 @@ Email: p1xie@ucsd.edu [Twitter](https://x.com/cmuptx)
 * [Qi Cao](https://scholar.google.com/citations?user=46U_bhgAAAAJ&hl=en)
 * [Han Guo](https://scholar.google.com/citations?user=O03kRdYAAAAJ&hl=en) 
 * [Niklas Klusch](https://scholar.google.com/citations?user=sSe1yAoAAAAJ&hl=de) (Schmidt AI in Science Postdoc Fellow, co-advised with Prof. Elizabeth Villa)
-* [Youwei Liang](https://youweiliang.github.io/)  
+* [Youwei Liang](https://youweiliang.github.io/)
+* [Peijia Qin](https://scholar.google.com/citations?user=BnkNS80AAAAJ&hl=en) 
 * [Li Zhang](https://scholar.google.com/citations?user=RRzZk4YAAAAJ&hl=en) 
 * [Ruiyi Zhang](https://scholar.google.com/citations?user=D7EXgU0AAAAJ&hl=en)
 
@@ -85,6 +87,7 @@ Email: p1xie@ucsd.edu [Twitter](https://x.com/cmuptx)
 
 
 ## Publications
+* Li Zhang, Basu Jindal, Ahmed Alaa, Robert Weinreb, David Wilson, Eran Segal, James Zou, **Pengtao Xie**. Generative AI enables medical image segmentation in ultra low-data regimes. Nature Communications, 2025.
 * Ruiyi Zhang, Sai Ashish Somayajula, **Pengtao Xie**. TapWeight: Reweighting Pretraining Objectives for Task-Adaptive Pretraining. Transactions on Machine Learning Research, 2025.
 * Han Guo, Ramtin Hosseini, Ruiyi Zhang, Sai Ashish Somayajula, Ranak Roy Chowdhury, Rajesh K. Gupta, **Pengtao Xie**. Downstream Task Guided Masking Learning in Masked Autoencoders Using Multi-Level Optimization. Transactions on Machine Learning Research, 2025.
 * Ruiyi Zhang, David Sullivan, Kyle Jackson, **Pengtao Xie**, Mei Chen. Defense against Prompt Injection Attacks via Mixture of Encodings. The 2025 Annual Conference of the Nations of the Americas Chapter of the ACL (NAACL), 2025.
@@ -202,9 +205,9 @@ Chen and **Pengtao Xie**. MedDialog: Large-scale Medical Dialogue Datasets. Conf
 
 ## Teaching
 
-* ECE285 [Deep Generative Models](./dgm-v2.md). Course evaluations: [ECE285-Winter2022](./285w22.pdf), [ECE285-Winter2023](./285s23.pdf), [ECE285-Winter2021](./285w21.pdf)
-* ECE175B [Probabilistic Reasoning and Graphical Models](./pgm-v2.md). Spring 2023. Course evaluations: [ECE175B-Spring2023](./175Bs23.pdf)
-* ECE269 [Linear Algebra and Applications](./linalg.md). Course evaluations: [ECE269-Winter2022](./269w22.pdf), [ECE269-Winter2021](./269w21.pdf)
+* ECE285 [Deep Generative Models](./dgm-v2.md). Winter 2021, Winter 2022, Spring 2023, Spring 2025. Course evaluations: [ECE285-Winter2022](./285w22.pdf), [ECE285-Spring2023](./285s23.pdf), [ECE285-Winter2021](./285w21.pdf).
+* ECE175B [Probabilistic Reasoning and Graphical Models](./pgm-v2.md). Spring 2023, Spring 2024, Spring 2025. Course evaluations: [ECE175B-Spring2023](./175Bs23.pdf)
+* ECE269 [Linear Algebra and Applications](./linalg.md). Winter 2021, Winter 2022. Course evaluations: [ECE269-Winter2022](./269w22.pdf), [ECE269-Winter2021](./269w21.pdf)
 
 <!---
 ## Recent Works on Machine Learning Inspired by Humans' Learning Skills
@@ -260,7 +263,7 @@ Chen and **Pengtao Xie**. MedDialog: Large-scale Medical Dialogue Datasets. Conf
 
 * Associate Editor for ACM Transactions on Computing for Healthcare
 * Senior Area Chair for AAAI 2023
-* Area Chair for ICML 2021-2024, NeurIPS 2021-2024, CVPR 2021, NAACL 2021, ICCV 2021, AAAI 2021-2022, IJCAI 2021
+* Area Chair for ICML 2021-2025, NeurIPS 2021-2025, CVPR 2021, NAACL 2021, ICCV 2021, AAAI 2021-2022, IJCAI 2021
 * Co-organizer for:
   - NeurIPS 2020-2024 workshops on "Self-Supervised Learning -- Theory and Practice"
   - ICML 2021 Workshop on “Interpretable Machine Learning for Healthcare”
