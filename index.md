@@ -24,6 +24,7 @@ Email: p1xie@ucsd.edu [Twitter](https://x.com/cmuptx)
 
 ## News
 * 2025/7. Our work - [Generative AI enables medical image segmentation in ultra low-data regimes](https://www.nature.com/articles/s41467-025-61754-6) - is published in Nature Communications.
+* 2025/7. Co-organizing the NeurIPS 2025 2nd Workshop on Multi-modal Large Language Models and Foundation Models for Life Sciences.
 * 2025/6. I am promoted to Associate Professor with tenure. Huge thanks to my students, colleagues, collaborators, and family!
 * 2025/6. Our method [DreamPRM](https://arxiv.org/abs/2505.20241) for multi-modal LLM reasoning achieves first place on the [MathVista](https://mathvista.github.io/) leaderboard. 
 * 2025/6. Our work on [Reweighting Pretraining Objectives for Task-Adaptive Pretraining](https://openreview.net/forum?id=DCCw2CEVFS&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DTMLR%2FAuthors%23your-submissions)) is accepted by Transactions on Machine Learning Research.
