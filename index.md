@@ -23,13 +23,15 @@ Email: p1xie@ucsd.edu [Twitter](https://x.com/cmuptx)
 ## I am looking for highly-motivated PhD students, postdocs, and master students to join my group. I am also looking for research interns. If you are planning to apply to the CSE department and are interested in working with me, please send me an email. 
 
 ## News
+* 2025/7. Our work - [Generative AI enables medical image segmentation in ultra low-data regimes](https://www.nature.com/articles/s41467-025-61754-6) is featured in [UCSD News](https://today.ucsd.edu/story/new-ai-tool-learns-to-read-medical-images-with-far-less-data).
 * 2025/7. Our work - [Generative AI enables medical image segmentation in ultra low-data regimes](https://www.nature.com/articles/s41467-025-61754-6) - is published in Nature Communications.
-* 2025/7. Co-organizing the NeurIPS 2025 2nd Workshop on Multi-modal Large Language Models and Foundation Models for Life Sciences.
+* 2025/7. Our work - [BiDoRA: Bi-level Optimization-Based Weight-Decomposed Low-Rank Adaptation](https://openreview.net/forum?id=v2xCm3VYl4) is accepted by Transactions on Machine Learning Research. 
+* 2025/7. Co-organizing the [NeurIPS 2025 2nd Workshop on Multi-modal Large Language Models and Foundation Models for Life Sciences](https://nips2025fm4ls.github.io/).
 * 2025/6. I am promoted to Associate Professor with tenure. Huge thanks to my students, colleagues, collaborators, and family!
 * 2025/6. Our method [DreamPRM](https://arxiv.org/abs/2505.20241) for multi-modal LLM reasoning achieves first place on the [MathVista](https://mathvista.github.io/) leaderboard. 
 * 2025/6. Our work on [Reweighting Pretraining Objectives for Task-Adaptive Pretraining](https://openreview.net/forum?id=DCCw2CEVFS&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DTMLR%2FAuthors%23your-submissions)) is accepted by Transactions on Machine Learning Research.
 * 2025/3. Our work on [downstream task guided continual pretraining](https://arxiv.org/abs/2402.18128) is accepted by Transactions on Machine Learning Research. 
-* 2025/3. Co-organizing the ICML 2025 Workshop on Multi-modal Large Language Models and Foundation Models for Life Sciences.
+* 2025/3. Co-organizing the [ICML 2025 Workshop on Multi-modal Large Language Models and Foundation Models for Life Sciences](https://fm4ls.github.io/).
 * 2025/1. Received an NIH Maximizing Investigators' Research Award (MIRA) for Early Stage Investigators. Thanks, NIH!
 * 2025/1. One paper is accepted by NAACL.
 * 2025/1. Co-organizing the [AAAI 2025 Workshop on Large Language Models and Generative AI for Health](https://sites.google.com/view/genai4health-aaai-2025) 
