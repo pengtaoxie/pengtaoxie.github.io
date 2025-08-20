@@ -23,6 +23,7 @@ Email: p1xie@ucsd.edu [Twitter](https://x.com/cmuptx)
 ## I am looking for highly-motivated PhD students, postdocs, and master students to join my group. I am also looking for research interns. If you are planning to apply to the CSE department and are interested in working with me, please send me an email. 
 
 ## News
+* 2025/7. Two papers are accepted by EMNLP 2025.
 * 2025/7. Our work - [Generative AI enables medical image segmentation in ultra low-data regimes](https://www.nature.com/articles/s41467-025-61754-6) is featured in [UCSD News](https://today.ucsd.edu/story/new-ai-tool-learns-to-read-medical-images-with-far-less-data).
 * 2025/7. Our work - [Generative AI enables medical image segmentation in ultra low-data regimes](https://www.nature.com/articles/s41467-025-61754-6) - is published in Nature Communications.
 * 2025/7. Our work - [BiDoRA: Bi-level Optimization-Based Weight-Decomposed Low-Rank Adaptation](https://openreview.net/forum?id=v2xCm3VYl4) is accepted by Transactions on Machine Learning Research. 
