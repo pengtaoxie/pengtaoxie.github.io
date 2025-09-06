@@ -23,6 +23,7 @@ Email: p1xie@ucsd.edu [Twitter](https://x.com/cmuptx)
 ## I am looking for highly-motivated PhD students, postdocs, and master students to join my group. I am also looking for research interns. If you are planning to apply to the CSE department and are interested in working with me, please send me an email. 
 
 ## News
+* 2025/6. Our method [DreamPRM-1.5](https://github.com/coder-qicao/DreamPRM-1.5) for multi-modal LLM reasoning achieves first place on the [MMMU](https://mmmu-benchmark.github.io/#leaderboard) leaderboard!
 * 2025/8. Our work - [Generative AI enables medical image segmentation in ultra low-data regimes](https://www.nature.com/articles/s41467-025-61754-6) is selected as [Nature Communications Editors’ Highlights](https://www.nature.com/collections/aahajfhafc) ("the 50 best papers recently published").
 * 2025/8. Two papers are accepted by EMNLP 2025.
 * 2025/7. Our work - [Generative AI enables medical image segmentation in ultra low-data regimes](https://www.nature.com/articles/s41467-025-61754-6) is featured in [UCSD News](https://today.ucsd.edu/story/new-ai-tool-learns-to-read-medical-images-with-far-less-data).
