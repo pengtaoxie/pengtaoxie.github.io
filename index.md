@@ -82,15 +82,15 @@ Email: p1xie@ucsd.edu [Twitter](https://x.com/cmuptx)
 
 
 ## Preprints
-* Qi Cao, Ruiyi Wang, Ruiyi Zhang, Sai Ashish Somayajula, Pengtao Xie. DreamPRM: Domain-Reweighted Process Reward Model for Multimodal Reasoning, 2025. arXiv:2505.20241
 * Ding Bai, Shentong Mo, Ruiyi Zhang, Yingtao Luo, Jiahao Gao, Jeremy Parker Yang, Qiuyang Wu, Digvijay Singh, Hamidreza Rahmani, Tiffany Amariuta, Danielle Grotjahn, Sheng Zhong, Nathan Lewis, Wei Wang, Trey Ideker, Pengtao Xie\*, Eric Xing\*. scLong: A Billion-Parameter Foundation Model for Capturing Long-Range Gene Context in Single-Cell Transcriptomics, 2024. (\*Corresponding authors) bioRxiv 2024.11.09.622759v2
 * Youwei Liang, Ruiyi Zhang, Yongce Li, Mingjia Huo, Zinnia Ma, Digvijay Singh, Chengzhan Gao, Hamidreza Rahmani, Satvik Bandi, Li Zhang, Robert Weinreb, Atul Malhotra, Danielle A. Grotjahn, Linda Awdishu, Trey Ideker, Michael Gilson, Pengtao Xie. Multi-Modal Large Language Model Enables All-Purpose Prediction of Drug Mechanisms and Properties. bioRxiv 2024.09.29.615524.
 * Li Zhang, Han Guo, Leah Schaffer, Young Su Ko, Digvijay Singh, Hamid Rahmani, Danielle Grotjahn, Elizabeth Villa, Michael Gilson, Wei Wang, Trey Ideker, Eric Xing, Pengtao Xie. ProteinAligner: A Multi-modal Pretraining Framework for Protein Foundation Models, 2024. bioRxiv 2024.10.06.616870
-* Duy MH Nguyen, Nghiem T Diep, Trung Q Nguyen, Hoang-Bao Le, Tai Nguyen, Tien Nguyen, TrungTin Nguyen, Nhat Ho, Pengtao Xie, Roger Wattenhofer, James Zou, Daniel Sonntag, Mathias Niepert. LoGra-Med: Long Context Multi-Graph Alignment for Medical Vision-Language Model, 2024. arXiv:2410.02615
 * Mingjia Huo, Han Guo, Xingyi Cheng, Digvijay Singh, Hamidreza Rahmani, Shen Li, Philipp Gerlof, Trey Ideker, Danielle A. Grotjahn, Elizabeth Villa, Le Song, Pengtao Xie. Multi-Modal Large Language Model Enables Protein Function Prediction, 2024. bioRxiv 2024.08.19.608729
 
 
 ## Publications
+* Qi Cao, Ruiyi Wang, Ruiyi Zhang, Sai Ashish Somayajula, **Pengtao Xie**. DreamPRM: Domain-Reweighted Process Reward Model for Multimodal Reasoning. Conference on Neural Information Processing Systems (NeurIPS), 2025.
+* Duy MH Nguyen, Nghiem T Diep, Trung Q Nguyen, Hoang-Bao Le, Tai Nguyen, Tien Nguyen, TrungTin Nguyen, Nhat Ho, **Pengtao Xie**, Roger Wattenhofer, James Zou, Daniel Sonntag, Mathias Niepert. LoGra-Med: Long Context Multi-Graph Alignment for Medical Vision-Language Model. Conference on Neural Information Processing Systems (NeurIPS), 2025.
 * Sai Ashish Somayajula, Bokai Hu, Xin Pan, **Pengtao Xie**. Improving the Language Understanding Capabilities of Large Language Models Using Reinforcement Learning. Empirical Methods in Natural Language Processing (EMNLP), 2025.
 * Xin Gao, Ruiyi Zhang, Sai Ashish Somayajula, Daniel Du, Saurabh Mahindre, **Pengtao Xie**. Can Prompts Rewind Time for LLMs? Evaluating the Effectiveness of Prompted Knowledge Cutoffs. Empirical Methods in Natural Language Processing (EMNLP), 2025.
 * Li Zhang, Basu Jindal, Ahmed Alaa, Robert Weinreb, David Wilson, Eran Segal, James Zou, **Pengtao Xie**. Generative AI enables medical image segmentation in ultra low-data regimes. Nature Communications, 2025.
