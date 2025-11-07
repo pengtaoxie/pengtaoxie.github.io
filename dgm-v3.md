@@ -2,33 +2,38 @@
 
 ### Graphical Models
 * Lecture 1: Introduction and Bayesian Network
-* Lecture 2: Markov Random Field
 
 ### Inference
-* Lecture 3: Variational Inference and Variational Autoencoder (I)
-* Lecture 4: Variational Inference and Variational Autoencoder (II)
-* Lecture 5: MCMC Sampling (I)
-* Lecture 6: MCMC Sampling (II)
+* Lecture 2: Variational Inference
+* Lecture 3: Variational Autoencoder (VAE)
 
-### Learning
-* Lecture 7: Maximum Likelihood and EM Algorithm
+### Parameter Learning
+* Lecture 4: Maximum Likelihood and EM Algorithm
 
 ### Deep Generative Models
-* Lecture 8: Generative Adversarial Networks
+#### *- Generative Adversarial Network (GAN)*
+* Lecture 5: Introduction to GAN
 
-* Lecture 9: Basics of Large Language Models (LLMs)
-* Lecture 11: Multi-modal LLMs
-* Lecture 13: Parameter-Efficient Finetuning of LLMs
-* Lecture 10: LLM Reasoning
-* Lecture 12: LLM Watermarking
+#### *- Large Language Model (LLM)*
+* Lecture 6: Introduction to LLM
+* Lecture 7: Multi-modal LLM and Parameter-Efficient Finetuning
+* Lecture 8: LLM Reasoning
+* Lecture 9: LLM Agent
 
-* Lecture 14: Basics of Diffusion Models
-* Lecture 15: Advanced Topics of Diffusion Models (I)
-* Lecture 16: Advanced Topics of Diffusion Models (II)
+#### *- Diffusion Model*
+* Lecture 10: Denoising Diffusion Model
+* Lecture 11: Score-based Diffusion Model
 
-### Applications and Course Project Presentations
-* Lecture 17: LLMs for Biomedicine
-* Lecture 18: Diffusion Models for World Modeling
+### Implementation of Deep Generative Models
+* Lecture 12 (Guest Lecture): Implementation of Variational Autoencoder
+* Lecture 13 (Guest Lecture): Implementation of Generative Adversarial Network
+* Lecture 14 (Guest Lecture): Implementation of LLM (I): Transformer and language model
+* Lecture 15 (Guest Lecture): Implementation of LLM (II): Multi-modal LLM and parameter-efficient finetuning
+* Lecture 16 (Guest Lecture): Implementation of Denoising Diffusion Model 
+* Lecture 17 (Guest Lecture): Implementation of Score-based Diffusion Model
+
+### Advanced Topics and Course Project Presentation
+* Lecture 18: World Models
 * Lecture 19: Course Project Presentation (I)
 * Lecture 20: Course Project Presentation (II)
 
