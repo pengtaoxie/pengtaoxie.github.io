@@ -214,7 +214,7 @@ Chen and **Pengtao Xie**. MedDialog: Large-scale Medical Dialogue Datasets. Conf
 
 ## Teaching
 
-* ECE285 [Deep Generative Models](./dgm-v2.md). Winter 2021, Winter 2022, Spring 2023, Spring 2025. Course evaluations: [ECE285-Winter2022](./285w22.pdf), [ECE285-Spring2023](./285s23.pdf), [ECE285-Winter2021](./285w21.pdf).
+* ECE285 [Deep Generative Models](./dgm-v3.md). Winter 2021, Winter 2022, Spring 2023, Spring 2025. Course evaluations: [ECE285-Winter2022](./285w22.pdf), [ECE285-Spring2023](./285s23.pdf), [ECE285-Winter2021](./285w21.pdf).
 * ECE175B [Probabilistic Reasoning and Graphical Models](./pgm-v2.md). Spring 2023, Spring 2024, Spring 2025. Course evaluations: [ECE175B-Spring2023](./175Bs23.pdf)
 * ECE269 [Linear Algebra and Applications](./linalg.md). Winter 2021, Winter 2022. Course evaluations: [ECE269-Winter2022](./269w22.pdf), [ECE269-Winter2021](./269w21.pdf)
 
