@@ -85,6 +85,7 @@ Email: p1xie@ucsd.edu [Twitter](https://x.com/cmuptx)
 
 
 ## Preprints
+* Ramtin Hosseini, Youwei Liang, Digvijay Singh, Hamidreza Rahmani, Sang Choe, Joan Lee, Min Xu, Eran Segal, James Zou, James Williamson, Danielle A. Grotjahn, Elizabeth Villa, Pengtao Xie. RobPicker: A Meta Learning Framework for Robust Identification of Macromolecules in Cryo-Electron Tomograms. bioRxiv 2025.09.16.676650v1
 * Ding Bai, Shentong Mo, Ruiyi Zhang, Yingtao Luo, Jiahao Gao, Jeremy Parker Yang, Qiuyang Wu, Digvijay Singh, Hamidreza Rahmani, Tiffany Amariuta, Danielle Grotjahn, Sheng Zhong, Nathan Lewis, Wei Wang, Trey Ideker, Pengtao Xie\*, Eric Xing\*. scLong: A Billion-Parameter Foundation Model for Capturing Long-Range Gene Context in Single-Cell Transcriptomics, 2024. (\*Corresponding authors) bioRxiv 2024.11.09.622759v2
 * Youwei Liang, Ruiyi Zhang, Yongce Li, Mingjia Huo, Zinnia Ma, Digvijay Singh, Chengzhan Gao, Hamidreza Rahmani, Satvik Bandi, Li Zhang, Robert Weinreb, Atul Malhotra, Danielle A. Grotjahn, Linda Awdishu, Trey Ideker, Michael Gilson, Pengtao Xie. Multi-Modal Large Language Model Enables All-Purpose Prediction of Drug Mechanisms and Properties. bioRxiv 2024.09.29.615524.
 * Li Zhang, Han Guo, Leah Schaffer, Young Su Ko, Digvijay Singh, Hamid Rahmani, Danielle Grotjahn, Elizabeth Villa, Michael Gilson, Wei Wang, Trey Ideker, Eric Xing, Pengtao Xie. ProteinAligner: A Multi-modal Pretraining Framework for Protein Foundation Models, 2024. bioRxiv 2024.10.06.616870
