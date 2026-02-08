@@ -25,6 +25,7 @@ Email: p1xie@ucsd.edu [Twitter](https://x.com/cmuptx)
 ## I am looking for highly-motivated PhD students, postdocs, and master students to join my group. If you plan to apply to the PhD program in the CSE department and are interested in working with me, please email me. I am also looking for research interns.  
 
 ## News
+* 2026/2. Our billion-parameter single-cell foundation model [scLong](https://www.nature.com/articles/s41467-026-69102-y) is published in Nature Communications.
 * 2026/1. Our [DreamPRM-Code](https://arxiv.org/abs/2512.15000) method achieves first place on the [LiveCodeBench](lcb.png) Coding Benchmark（2/1/2025-5/1/2025). 
 * 2025/11. Serving as Senior Area Chair for ICML 2026.
 * 2025/10. Serving as Associate Editor for IEEE Transactions on Pattern Analysis and Machine Intelligence.
