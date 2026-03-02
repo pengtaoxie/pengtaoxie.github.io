@@ -101,7 +101,7 @@ Email: p1xie@ucsd.edu [Twitter](https://x.com/cmuptx)
 
 ## Publications
 * Ding Bai, Shentong Mo, Ruiyi Zhang, Yingtao Luo, Jiahao Gao, Jeremy Parker Yang, Qiuyang Wu, Digvijay Singh, Hamidreza Rahmani, Tiffany Amariuta, Danielle Grotjahn, Sheng Zhong, Nathan Lewis, Wei Wang, Trey Ideker, **Pengtao Xie**\*, Eric Xing\*. scLong: A Billion-Parameter Foundation Model for Capturing Long-Range Gene Context in Single-Cell Transcriptomics. Nature Communications, 2026. (\*Corresponding authors)
-* Haochen Zhang, Xuefeng Du, Ruisi Zhang, Pengtao Xie. Improving Neural Architecture Search by Minimizing Worst-Case Validation Loss. IEEE Transactions on Artificial Intelligence (IEEE TAI), 2026.
+* Haochen Zhang, Xuefeng Du, Ruisi Zhang, **Pengtao Xie**. Improving Neural Architecture Search by Minimizing Worst-Case Validation Loss. IEEE Transactions on Artificial Intelligence (IEEE TAI), 2026.
 * Qi Cao, Ruiyi Wang, Ruiyi Zhang, Sai Ashish Somayajula, **Pengtao Xie**. DreamPRM: Domain-Reweighted Process Reward Model for Multimodal Reasoning. Conference on Neural Information Processing Systems (NeurIPS), 2025.
 * Duy MH Nguyen, Nghiem T Diep, Trung Q Nguyen, Hoang-Bao Le, Tai Nguyen, Tien Nguyen, TrungTin Nguyen, Nhat Ho, **Pengtao Xie**, Roger Wattenhofer, James Zou, Daniel Sonntag, Mathias Niepert. LoGra-Med: Long Context Multi-Graph Alignment for Medical Vision-Language Model. Conference on Neural Information Processing Systems (NeurIPS), 2025.
 * Sai Ashish Somayajula, Bokai Hu, Xin Pan, **Pengtao Xie**. Improving the Language Understanding Capabilities of Large Language Models Using Reinforcement Learning. Empirical Methods in Natural Language Processing (EMNLP), 2025.
