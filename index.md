@@ -25,6 +25,7 @@ Email: p1xie@ucsd.edu [Twitter](https://x.com/cmuptx)
 ## I am looking for highly-motivated PhD students, postdocs, and master students to join my group. If you plan to apply to the PhD program in the CSE department and are interested in working with me, please email me. I am also looking for research interns.  
 
 ## News
+* 2026/3. Our [AIBuildAI](https://github.com/aibuildai/AI-Build-AI) agent achieved first place on OpenAI [MLE-Bench](https://github.com/openai/mle-bench).
 * 2026/2. Our billion-parameter single-cell foundation model [scLong](https://www.nature.com/articles/s41467-026-69102-y) is published in Nature Communications.
 * 2026/2. Our [DreamPRM](https://openreview.net/forum?id=ZyiBk1ZinG&referrer=%5Bthe+profile+of+Pengtao+Xie%5D%28%2Fprofile%3Fid%3D%7EPengtao_Xie3%29) work is featured in [UCSD News](https://today.ucsd.edu/story/a-smarter-way-for-ai-to-understand-text-and-images?_gl=1*yjende*_gcl_au*MTUzMDAzMzM5Ni4xNzY3NjYxOTE0*_ga*NzAwODE2ODE4LjE3NTg5NTgwMjc.*_ga_PWJGRGMV0T*czE3NzI0MTgxMjQkbzg0JGcwJHQxNzcyNDE4MTI0JGo2MCRsMCRoMA..).
 * 2026/2. One paper is accepted by IEEE Transactions on Artificial Intelligence. 
