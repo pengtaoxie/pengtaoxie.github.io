@@ -28,6 +28,7 @@ Email: p1xie@ucsd.edu [Twitter](https://x.com/cmuptx)
 * 2026/3. Our [AIBuildAI](https://github.com/aibuildai/AI-Build-AI) agent achieved first place on OpenAI [MLE-Bench](https://github.com/openai/mle-bench).
 * 2026/2. Our billion-parameter single-cell foundation model [scLong](https://www.nature.com/articles/s41467-026-69102-y) is published in Nature Communications.
 * 2026/2. Our [DreamPRM](https://openreview.net/forum?id=ZyiBk1ZinG&referrer=%5Bthe+profile+of+Pengtao+Xie%5D%28%2Fprofile%3Fid%3D%7EPengtao_Xie3%29) work is featured in [UCSD News](https://today.ucsd.edu/story/a-smarter-way-for-ai-to-understand-text-and-images?_gl=1*yjende*_gcl_au*MTUzMDAzMzM5Ni4xNzY3NjYxOTE0*_ga*NzAwODE2ODE4LjE3NTg5NTgwMjc.*_ga_PWJGRGMV0T*czE3NzI0MTgxMjQkbzg0JGcwJHQxNzcyNDE4MTI0JGo2MCRsMCRoMA..).
+* 2026/2. One paper is accepted by CVPR. 
 * 2026/2. One paper is accepted by IEEE Transactions on Artificial Intelligence. 
 * 2026/1. Our [DreamPRM-Code](https://arxiv.org/abs/2512.15000) method achieves first place on the [LiveCodeBench](lcb.png) Coding Benchmark（2/1/2025-5/1/2025). 
 * 2025/11. Serving as Senior Area Chair for ICML 2026.
@@ -102,6 +103,7 @@ Email: p1xie@ucsd.edu [Twitter](https://x.com/cmuptx)
 
 ## Publications
 * Ding Bai, Shentong Mo, Ruiyi Zhang, Yingtao Luo, Jiahao Gao, Jeremy Parker Yang, Qiuyang Wu, Digvijay Singh, Hamidreza Rahmani, Tiffany Amariuta, Danielle Grotjahn, Sheng Zhong, Nathan Lewis, Wei Wang, Trey Ideker, **Pengtao Xie**\*, Eric Xing\*. scLong: A Billion-Parameter Foundation Model for Capturing Long-Range Gene Context in Single-Cell Transcriptomics. Nature Communications, 2026. (\*Corresponding authors)
+* Li Zhang, Shruti Agarwal, John Collomosse, **Pengtao Xie**, Vishal Asnani. TokenTrace: Multi-Concept Attribution through Watermarked Token Recovery. Conference on Computer Vision and Pattern Recognition (CVPR), 2026.
 * Haochen Zhang, Xuefeng Du, Ruisi Zhang, **Pengtao Xie**. Improving Neural Architecture Search by Minimizing Worst-Case Validation Loss. IEEE Transactions on Artificial Intelligence (IEEE TAI), 2026.
 * Qi Cao, Ruiyi Wang, Ruiyi Zhang, Sai Ashish Somayajula, **Pengtao Xie**. DreamPRM: Domain-Reweighted Process Reward Model for Multimodal Reasoning. Conference on Neural Information Processing Systems (NeurIPS), 2025.
 * Duy MH Nguyen, Nghiem T Diep, Trung Q Nguyen, Hoang-Bao Le, Tai Nguyen, Tien Nguyen, TrungTin Nguyen, Nhat Ho, **Pengtao Xie**, Roger Wattenhofer, James Zou, Daniel Sonntag, Mathias Niepert. LoGra-Med: Long Context Multi-Graph Alignment for Medical Vision-Language Model. Conference on Neural Information Processing Systems (NeurIPS), 2025.
