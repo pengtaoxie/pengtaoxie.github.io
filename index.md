@@ -103,6 +103,7 @@ Email: p1xie@ucsd.edu [Twitter](https://x.com/cmuptx)
 
 
 ## Publications
+* Li Zhang, Han Guo, Leah Schaffer, Young Su Ko, Digvijay Singh, Hamid Rahmani, Danielle Grotjahn, Elizabeth Villa, Michael Gilson, Wei Wang, Trey Ideker, Eric Xing, **Pengtao Xie**. ProteinAligner: A Multi-modal Pretraining Framework for Protein Foundation Models. Cell Reports Methods, 2026. 
 * Xin Gao, Ruiyi Zhang, Meixi Du, Peijia Qin, **Pengtao Xie**. BioTool: A Comprehensive Tool-Calling Dataset for Enhancing Biomedical Capabilities of Large Language Models. The 64th Annual Meeting of the Association for Computational Linguistics (ACL), 2026.
 * Ding Bai, Shentong Mo, Ruiyi Zhang, Yingtao Luo, Jiahao Gao, Jeremy Parker Yang, Qiuyang Wu, Digvijay Singh, Hamidreza Rahmani, Tiffany Amariuta, Danielle Grotjahn, Sheng Zhong, Nathan Lewis, Wei Wang, Trey Ideker, **Pengtao Xie**\*, Eric Xing\*. scLong: A Billion-Parameter Foundation Model for Capturing Long-Range Gene Context in Single-Cell Transcriptomics. Nature Communications, 2026. (\*Corresponding authors)
 * Li Zhang, Shruti Agarwal, John Collomosse, **Pengtao Xie**, Vishal Asnani. TokenTrace: Multi-Concept Attribution through Watermarked Token Recovery. Conference on Computer Vision and Pattern Recognition (CVPR), 2026.
