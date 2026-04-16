@@ -25,6 +25,7 @@ Email: p1xie@ucsd.edu [Twitter](https://x.com/cmuptx)
 ## I am looking for highly-motivated PhD students, postdocs, and master students to join my group. If you plan to apply to the PhD program in the CSE department and are interested in working with me, please email me. I am also looking for research interns.  
 
 ## News
+* 2026/4. [ProteinAligner](https://www.cell.com/cell-reports-methods/fulltext/S2667-2375(26)00107-4) is published in Cell Reports Methods.
 * 2026/4. One paper is accepted by ACL.
 * 2026/3. Our [AIBuildAI](https://github.com/aibuildai/AI-Build-AI) agent achieved first place on OpenAI [MLE-Bench](https://github.com/openai/mle-bench).
 * 2026/2. Our billion-parameter single-cell foundation model [scLong](https://www.nature.com/articles/s41467-026-69102-y) is published in Nature Communications.
@@ -98,7 +99,6 @@ Email: p1xie@ucsd.edu [Twitter](https://x.com/cmuptx)
 ## Preprints
 * Ramtin Hosseini, Youwei Liang, Digvijay Singh, Hamidreza Rahmani, Sang Choe, Joan Lee, Min Xu, Eran Segal, James Zou, James Williamson, Danielle A. Grotjahn, Elizabeth Villa, Pengtao Xie. RobPicker: A Meta Learning Framework for Robust Identification of Macromolecules in Cryo-Electron Tomograms. bioRxiv 2025.09.16.676650v1
 * Youwei Liang, Ruiyi Zhang, Yongce Li, Mingjia Huo, Zinnia Ma, Digvijay Singh, Chengzhan Gao, Hamidreza Rahmani, Satvik Bandi, Li Zhang, Robert Weinreb, Atul Malhotra, Danielle A. Grotjahn, Linda Awdishu, Trey Ideker, Michael Gilson, Pengtao Xie. Multi-Modal Large Language Model Enables All-Purpose Prediction of Drug Mechanisms and Properties. bioRxiv 2024.09.29.615524.
-* Li Zhang, Han Guo, Leah Schaffer, Young Su Ko, Digvijay Singh, Hamid Rahmani, Danielle Grotjahn, Elizabeth Villa, Michael Gilson, Wei Wang, Trey Ideker, Eric Xing, Pengtao Xie. ProteinAligner: A Multi-modal Pretraining Framework for Protein Foundation Models, 2024. bioRxiv 2024.10.06.616870
 * Mingjia Huo, Han Guo, Xingyi Cheng, Digvijay Singh, Hamidreza Rahmani, Shen Li, Philipp Gerlof, Trey Ideker, Danielle A. Grotjahn, Elizabeth Villa, Le Song, Pengtao Xie. Multi-Modal Large Language Model Enables Protein Function Prediction, 2024. bioRxiv 2024.08.19.608729
 
 
