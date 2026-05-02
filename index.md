@@ -25,6 +25,7 @@ Email: p1xie@ucsd.edu [Twitter](https://x.com/cmuptx)
 ## I am looking for highly-motivated PhD students, postdocs, and master students to join my group. If you plan to apply to the PhD program in the CSE department and are interested in working with me, please email me. I am also looking for research interns.  
 
 ## News
+* 2026/5. Three papers are accepted by ICML. 
 * 2026/4. [ProteinAligner](https://www.cell.com/cell-reports-methods/fulltext/S2667-2375(26)00107-4) is published in Cell Reports Methods.
 * 2026/4. One paper is accepted by ACL.
 * 2026/3. Our [AIBuildAI](https://github.com/aibuildai/AI-Build-AI) agent achieved first place on OpenAI [MLE-Bench](https://github.com/openai/mle-bench).
@@ -103,6 +104,9 @@ Email: p1xie@ucsd.edu [Twitter](https://x.com/cmuptx)
 
 
 ## Publications
+* Youwei Liang, Ramtin Hosseini,  Hamidreza Rahmani, Digvijay Singh, Ruiyi Zhang, Li Zhang, Han Guo, Sang Choe, Joan Lee, Min Xu, Eran Segal, James Zou, James Williamson,   Elizabeth Villa, Danielle A. Grotjahn, **Pengtao Xie**. RobPicker: A Meta Learning Framework for Robust Identification of Macromolecules in Cryo-Electron Tomograms. Nature Methods, 2026.
+* **Pengtao Xie**, Li Zhang, Ruiyi Zhang.  Position: Creating High-Fidelity Synthetic Training Data Should Employ Multi-level Optimization. Forty-Third International Conference on Machine Learning (ICML), 2026.
+* **Pengtao Xie**, Victor Nizet, Lei Wang, Ahmed Alaa, Daniel Zielinski, Trey Ideker, Bernhard Palsson. Position: Deciphering the Functions of DNAs, RNAs, and Proteins Should Consider Multi-Modal Large Language Models. Forty-Third International Conference on Machine Learning (ICML), 2026.
 * Li Zhang, Han Guo, Leah Schaffer, Young Su Ko, Digvijay Singh, Hamid Rahmani, Danielle Grotjahn, Elizabeth Villa, Michael Gilson, Wei Wang, Trey Ideker, Eric Xing, **Pengtao Xie**. ProteinAligner: A Multi-modal Pretraining Framework for Protein Foundation Models. Cell Reports Methods, 2026. 
 * Xin Gao, Ruiyi Zhang, Meixi Du, Peijia Qin, **Pengtao Xie**. BioTool: A Comprehensive Tool-Calling Dataset for Enhancing Biomedical Capabilities of Large Language Models. The 64th Annual Meeting of the Association for Computational Linguistics (ACL), 2026.
 * Ding Bai, Shentong Mo, Ruiyi Zhang, Yingtao Luo, Jiahao Gao, Jeremy Parker Yang, Qiuyang Wu, Digvijay Singh, Hamidreza Rahmani, Tiffany Amariuta, Danielle Grotjahn, Sheng Zhong, Nathan Lewis, Wei Wang, Trey Ideker, **Pengtao Xie**\*, Eric Xing\*. scLong: A Billion-Parameter Foundation Model for Capturing Long-Range Gene Context in Single-Cell Transcriptomics. Nature Communications, 2026. (\*Corresponding authors)
