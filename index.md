@@ -104,7 +104,7 @@ Email: p1xie@ucsd.edu [Twitter](https://x.com/cmuptx)
 
 
 ## Publications
-* Youwei Liang, Ramtin Hosseini,  Hamidreza Rahmani, Digvijay Singh, Ruiyi Zhang, Li Zhang, Han Guo, Sang Choe, Joan Lee, Min Xu, Eran Segal, James Zou, James Williamson,   Elizabeth Villa, Danielle A. Grotjahn, **Pengtao Xie**. RobPicker: A Meta Learning Framework for Robust Identification of Macromolecules in Cryo-Electron Tomograms. Nature Methods, 2026.
+* Qi Cao, Shuhao Zhang, Ruizhe Zhou, Ruiyi Zhang, Peijia Qin, **Pengtao Xie**. Models Under SCOPE: Scalable and Controllable Routing via Pre-hoc Reasoning. Forty-Third International Conference on Machine Learning (ICML), 2026. 
 * **Pengtao Xie**, Li Zhang, Ruiyi Zhang.  Position: Creating High-Fidelity Synthetic Training Data Should Employ Multi-level Optimization. Forty-Third International Conference on Machine Learning (ICML), 2026.
 * **Pengtao Xie**, Victor Nizet, Lei Wang, Ahmed Alaa, Daniel Zielinski, Trey Ideker, Bernhard Palsson. Position: Deciphering the Functions of DNAs, RNAs, and Proteins Should Consider Multi-Modal Large Language Models. Forty-Third International Conference on Machine Learning (ICML), 2026.
 * Li Zhang, Han Guo, Leah Schaffer, Young Su Ko, Digvijay Singh, Hamid Rahmani, Danielle Grotjahn, Elizabeth Villa, Michael Gilson, Wei Wang, Trey Ideker, Eric Xing, **Pengtao Xie**. ProteinAligner: A Multi-modal Pretraining Framework for Protein Foundation Models. Cell Reports Methods, 2026. 
