@@ -25,6 +25,8 @@ Email: p1xie@ucsd.edu [Twitter](https://x.com/cmuptx)
 ## I am looking for highly-motivated PhD students, postdocs, and master students to join my group. If you plan to apply to the PhD program in the CSE department and are interested in working with me, please email me. I am also looking for research interns.  
 
 ## News
+* 2026/6. One paper is accepted by TMLR.
+* 2026/6. One paper is accepted by Nature Partner Journals (npj) AI.
 * 2026/5. Three papers are accepted by ICML. 
 * 2026/4. [ProteinAligner](https://www.cell.com/cell-reports-methods/fulltext/S2667-2375(26)00107-4) is published in Cell Reports Methods.
 * 2026/4. One paper is accepted by ACL.
@@ -91,7 +93,7 @@ Email: p1xie@ucsd.edu [Twitter](https://x.com/cmuptx)
 * [Ruiyi Zhang](https://scholar.google.com/citations?user=D7EXgU0AAAAJ&hl=en)
 
 ### PhD Alumni
-* [Sai Somayajula](https://sai-ashish.github.io/website/) (2025, current: senior applied scientist in Generative AI at Oracle)
+* [Sai Somayajula](https://sai-ashish.github.io/website/) (2025, current: senior applied scientist at Oracle AI)
 * [Ramtin Hosseini](https://scholar.google.com/citations?user=zoq2p34AAAAJ&hl=en) (2024, current: co-founder and CEO of Xero1 Inc.)
 
 
@@ -104,6 +106,9 @@ Email: p1xie@ucsd.edu [Twitter](https://x.com/cmuptx)
 
 
 ## Publications
+* Li Zhang, Pengtao Xie. Learning to Prompt for Generalizable Instance Segmentation
+via Bi-Level Optimization. Transactions on Machine Learning Research, 2026.
+* Hao Ban, Li Zhang, Pengtao Xie. Interleaving Multi-Task Neural Architecture Search. npj Artificial Intelligence, 2026.
 * Qi Cao, Shuhao Zhang, Ruizhe Zhou, Ruiyi Zhang, Peijia Qin, **Pengtao Xie**. Models Under SCOPE: Scalable and Controllable Routing via Pre-hoc Reasoning. Forty-Third International Conference on Machine Learning (ICML), 2026. 
 * **Pengtao Xie**, Li Zhang, Ruiyi Zhang.  Position: Creating High-Fidelity Synthetic Training Data Should Employ Multi-level Optimization. Forty-Third International Conference on Machine Learning (ICML), 2026.
 * **Pengtao Xie**, Victor Nizet, Lei Wang, Ahmed Alaa, Daniel Zielinski, Trey Ideker, Bernhard Palsson. Position: Deciphering the Functions of DNAs, RNAs, and Proteins Should Consider Multi-Modal Large Language Models. Forty-Third International Conference on Machine Learning (ICML), 2026.
