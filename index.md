@@ -93,7 +93,7 @@ Email: p1xie@ucsd.edu [Twitter](https://x.com/cmuptx)
 * [Ruiyi Zhang](https://scholar.google.com/citations?user=D7EXgU0AAAAJ&hl=en)
 
 ### PhD Alumni
-* [Sai Somayajula](https://sai-ashish.github.io/website/) (2025, current: senior applied scientist at Oracle AI)
+* [Sai Somayajula](https://sai-ashish.github.io/website/) (2025, current: senior applied scientist at Oracle AI.)
 * [Ramtin Hosseini](https://scholar.google.com/citations?user=zoq2p34AAAAJ&hl=en) (2024, current: co-founder and CEO of Xero1 Inc.)
 
 
